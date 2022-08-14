@@ -1,7 +1,0 @@
-{
-	"name": "yalidine/city-field",
-	"title": "City field",
-	"description": "Allow customers to select a field.",
-	"category": "woocommerce",
-	"parent": [ "woocommerce/checkout-shipping-address-block",  "woocommerce/checkout-billing-address-block" ]
-}
