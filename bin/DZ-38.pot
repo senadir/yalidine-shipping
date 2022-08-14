@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-38.php:3
+msgid "Ammari"
+msgstr ""
+
+#: DZ-38.php:4
+msgid "Beni Chaib"
+msgstr ""
+
+#: DZ-38.php:5
+msgid "Beni Lahcene"
+msgstr ""
+
+#: DZ-38.php:6
+msgid "Boucaid"
+msgstr ""
+
+#: DZ-38.php:7
+msgid "Bordj Bou Naama"
+msgstr ""
+
+#: DZ-38.php:8
+msgid "Bordj El Emir Abdelkader"
+msgstr ""
+
+#: DZ-38.php:9
+msgid "Khemisti"
+msgstr ""
+
+#: DZ-38.php:10
+msgid "Larbaa"
+msgstr ""
+
+#: DZ-38.php:11
+msgid "Lardjem"
+msgstr ""
+
+#: DZ-38.php:12
+msgid "Layoune"
+msgstr ""
+
+#: DZ-38.php:13
+msgid "Lazharia"
+msgstr ""
+
+#: DZ-38.php:14
+msgid "Maacem"
+msgstr ""
+
+#: DZ-38.php:15
+msgid "Melaab"
+msgstr ""
+
+#: DZ-38.php:16
+msgid "Ouled Bessem"
+msgstr ""
+
+#: DZ-38.php:17
+msgid "Sidi Abed"
+msgstr ""
+
+#: DZ-38.php:18
+msgid "Sidi Boutouchent"
+msgstr ""
+
+#: DZ-38.php:19
+msgid "Sidi Lantri"
+msgstr ""
+
+#: DZ-38.php:20
+msgid "Sidi Slimane"
+msgstr ""
+
+#: DZ-38.php:21
+msgid "Tamalaht"
+msgstr ""
+
+#: DZ-38.php:22
+msgid "Theniet El Had"
+msgstr ""
+
+#: DZ-38.php:23
+msgid "Tissemsilt"
+msgstr ""
+
+#: DZ-38.php:24
+msgid "Youssoufia"
+msgstr ""

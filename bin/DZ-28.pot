@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-28.php:3
+msgid "Aïn El Hadjel"
+msgstr ""
+
+#: DZ-28.php:4
+msgid "Aïn El Melh"
+msgstr ""
+
+#: DZ-28.php:5
+msgid "Aïn Errich"
+msgstr ""
+
+#: DZ-28.php:6
+msgid "Aïn Fares"
+msgstr ""
+
+#: DZ-28.php:7
+msgid "Aïn Khadra"
+msgstr ""
+
+#: DZ-28.php:8
+msgid "Belaiba"
+msgstr ""
+
+#: DZ-28.php:9
+msgid "Ben Srour"
+msgstr ""
+
+#: DZ-28.php:10
+msgid "Beni Ilmane"
+msgstr ""
+
+#: DZ-28.php:11
+msgid "Benzouh"
+msgstr ""
+
+#: DZ-28.php:12
+msgid "Berhoum"
+msgstr ""
+
+#: DZ-28.php:13
+msgid "Bir Foda"
+msgstr ""
+
+#: DZ-28.php:14
+msgid "Bou Saâda"
+msgstr ""
+
+#: DZ-28.php:15
+msgid "Bouti Sayah"
+msgstr ""
+
+#: DZ-28.php:16
+msgid "Chellal"
+msgstr ""
+
+#: DZ-28.php:17
+msgid "Dehahna"
+msgstr ""
+
+#: DZ-28.php:18
+msgid "Djebel Messaad"
+msgstr ""
+
+#: DZ-28.php:19
+msgid "El Hamel"
+msgstr ""
+
+#: DZ-28.php:20
+msgid "El Houamed"
+msgstr ""
+
+#: DZ-28.php:21
+msgid "Hammam Dhalaa"
+msgstr ""
+
+#: DZ-28.php:22
+msgid "Khettouti Sed El Djir"
+msgstr ""
+
+#: DZ-28.php:23
+msgid "Khoubana"
+msgstr ""
+
+#: DZ-28.php:24
+msgid "Maadid"
+msgstr ""
+
+#: DZ-28.php:25
+msgid "Maarif"
+msgstr ""
+
+#: DZ-28.php:26
+msgid "Magra"
+msgstr ""
+
+#: DZ-28.php:27
+msgid "M'Cif"
+msgstr ""
+
+#: DZ-28.php:28
+msgid "Medjedel"
+msgstr ""
+
+#: DZ-28.php:29
+msgid "Mohammed Boudiaf"
+msgstr ""
+
+#: DZ-28.php:30
+msgid "M'Sila"
+msgstr ""
+
+#: DZ-28.php:31
+msgid "M'Tarfa"
+msgstr ""
+
+#: DZ-28.php:32
+msgid "Ouanougha"
+msgstr ""
+
+#: DZ-28.php:33
+msgid "Ouled Addi Guebala"
+msgstr ""
+
+#: DZ-28.php:34
+msgid "Ouled Atia"
+msgstr ""
+
+#: DZ-28.php:35
+msgid "Ouled Derradj"
+msgstr ""
+
+#: DZ-28.php:36
+msgid "Ouled Madhi"
+msgstr ""
+
+#: DZ-28.php:37
+msgid "Ouled Mansour"
+msgstr ""
+
+#: DZ-28.php:38
+msgid "Ouled Sidi Brahim"
+msgstr ""
+
+#: DZ-28.php:39
+msgid "Ouled Slimane"
+msgstr ""
+
+#: DZ-28.php:40
+msgid "Oultem"
+msgstr ""
+
+#: DZ-28.php:41
+msgid "Sidi Aïssa"
+msgstr ""
+
+#: DZ-28.php:42
+msgid "Sidi Ameur"
+msgstr ""
+
+#: DZ-28.php:43
+msgid "Sidi Hadjeres"
+msgstr ""
+
+#: DZ-28.php:44
+msgid "Sidi M'Hamed"
+msgstr ""
+
+#: DZ-28.php:45
+msgid "Slim"
+msgstr ""
+
+#: DZ-28.php:46
+msgid "Souamaa"
+msgstr ""
+
+#: DZ-28.php:47
+msgid "Tamsa"
+msgstr ""
+
+#: DZ-28.php:48
+msgid "Tarmount"
+msgstr ""
+
+#: DZ-28.php:49
+msgid "Zarzour"
+msgstr ""

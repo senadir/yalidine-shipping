@@ -1,0 +1,6122 @@
+# Copyright (C) 2022 Nadir Seghir
+# This file is distributed under the same license as the Yalidine Shipping plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yalidine Shipping 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/yalidine-"
+"shipping\n"
+"POT-Creation-Date: 2022-05-23T00:26:23+00:00\n"
+"PO-Revision-Date: 2022-05-29 13:00+0100\n"
+"Last-Translator: Khaoula Bouhali\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: yalidine-shipping\n"
+"X-Loco-Version: 2.6.2; wp-6.0\n"
+
+#: inc/cities-dz.php:5
+msgid "Adrar"
+msgstr "أدرار"
+
+#: inc/cities-dz.php:6
+msgid "Tamest"
+msgstr "شاروين"
+
+#: inc/cities-dz.php:7
+msgid "Charouine"
+msgstr "رقان"
+
+#: inc/cities-dz.php:8
+msgid "Reggane"
+msgstr "اين زغمير"
+
+#: inc/cities-dz.php:9
+msgid "In Zghmir"
+msgstr "تيت"
+
+#: inc/cities-dz.php:10
+msgid "Tit"
+msgstr "قصر قدور"
+
+#: inc/cities-dz.php:11
+msgid "Ksar Kaddour"
+msgstr "تسابيت"
+
+#: inc/cities-dz.php:12
+msgid "Tsabit"
+msgstr "تيميمون"
+
+#: inc/cities-dz.php:13
+msgid "Timimoun"
+msgstr "ولاد سعيد"
+
+#: inc/cities-dz.php:14
+msgid "Ouled Saïd"
+msgstr "زاوية كنتة"
+
+#: inc/cities-dz.php:15
+msgid "Zaouiet Kounta"
+msgstr "أولف"
+
+#: inc/cities-dz.php:16
+msgid "Aoulef"
+msgstr "تامكتن"
+
+#: inc/cities-dz.php:17
+msgid "Tamekten"
+msgstr "تامانتيت"
+
+#: inc/cities-dz.php:18
+msgid "Tamantit"
+msgstr "فنوغيل"
+
+#: inc/cities-dz.php:19
+msgid "Fenoughil"
+msgstr "تينركوك"
+
+#: inc/cities-dz.php:20
+msgid "Tinerkouk"
+msgstr "دلدول"
+
+#: inc/cities-dz.php:21 inc/cities-dz.php:674
+msgid "Deldoul"
+msgstr "سالي"
+
+#: inc/cities-dz.php:22
+msgid "Sali"
+msgstr "أقبلي"
+
+#: inc/cities-dz.php:23
+msgid "Akabli"
+msgstr " المطارفة"
+
+#: inc/cities-dz.php:24
+msgid "Metarfa"
+msgstr "ولاد أحمد التامي"
+
+#: inc/cities-dz.php:25
+msgid "Ouled Ahmed Tammi"
+msgstr "بودا"
+
+#: inc/cities-dz.php:26
+msgid "Bouda"
+msgstr "اوغروت"
+
+#: inc/cities-dz.php:27
+msgid "Aougrout"
+msgstr "التلمين"
+
+#: inc/cities-dz.php:28
+msgid "Talmine"
+msgstr "برج باجي مختار"
+
+#: inc/cities-dz.php:29
+msgid "Bordj Badji Mokhtar"
+msgstr "السبع"
+
+#: inc/cities-dz.php:30
+msgid "Sebaa"
+msgstr "ولاد عيسى"
+
+#: inc/cities-dz.php:31
+msgid "Ouled Aïssa"
+msgstr "تيمياوين"
+
+#: inc/cities-dz.php:32
+msgid "Timiaouine"
+msgstr "ابو الحسن"
+
+#: inc/cities-dz.php:36
+msgid "Abou El Hassan"
+msgstr "عين مران"
+
+#: inc/cities-dz.php:37
+msgid "Aïn Merane"
+msgstr "البنايرية"
+
+#: inc/cities-dz.php:38
+msgid "Bénairia"
+msgstr "بني بوعتاب"
+
+#: inc/cities-dz.php:39
+msgid "Beni Bouateb"
+msgstr "بني حواء"
+
+#: inc/cities-dz.php:40
+msgid "Beni Haoua"
+msgstr "بني راشد"
+
+#: inc/cities-dz.php:41
+msgid "Beni Rached"
+msgstr "بوقادير"
+
+#: inc/cities-dz.php:42
+msgid "Boukadir"
+msgstr "بوزغاية"
+
+#: inc/cities-dz.php:43
+msgid "Bouzeghaia"
+msgstr "بريرة"
+
+#: inc/cities-dz.php:44
+msgid "Breira"
+msgstr "الشطية"
+
+#: inc/cities-dz.php:45
+msgid "Chettia"
+msgstr "الشلف"
+
+#: inc/cities-dz.php:46
+msgid "Chlef"
+msgstr "الظهرة"
+
+#: inc/cities-dz.php:47
+msgid "Dahra"
+msgstr "الحجاج"
+
+#: inc/cities-dz.php:48
+msgid "El Hadjadj"
+msgstr "الكريمية"
+
+#: inc/cities-dz.php:49
+msgid "El Karimia"
+msgstr "المرسى"
+
+#: inc/cities-dz.php:50 inc/cities-dz.php:641 inc/cities-dz.php:832
+msgid "El Marsa"
+msgstr "حرشون"
+
+#: inc/cities-dz.php:51
+msgid "Harchoun"
+msgstr "الهرنفة"
+
+#: inc/cities-dz.php:52
+msgid "Harenfa"
+msgstr "الابيض مجاجة"
+
+#: inc/cities-dz.php:53
+msgid "Labiod Medjadja"
+msgstr "مصدق"
+
+#: inc/cities-dz.php:54
+msgid "Moussadek"
+msgstr "واد فضة"
+
+#: inc/cities-dz.php:55
+msgid "Oued Fodda"
+msgstr " وادى ڨوسين"
+
+#: inc/cities-dz.php:56
+msgid "Oued Goussine"
+msgstr "وادي سلي"
+
+#: inc/cities-dz.php:57
+msgid "Oued Sly"
+msgstr "أولاد عباس"
+
+#: inc/cities-dz.php:58
+msgid "Ouled Abbes"
+msgstr "ولاد بن عبد القادر"
+
+#: inc/cities-dz.php:59
+msgid "Ouled Ben Abdelkader"
+msgstr "أولاد فارس"
+
+#: inc/cities-dz.php:60
+msgid "Ouled Fares"
+msgstr "أم الذروع"
+
+#: inc/cities-dz.php:61
+msgid "Oum Drou"
+msgstr "سنجاس"
+
+#: inc/cities-dz.php:62
+msgid "Sendjas"
+msgstr "سيدي عبد الرحمن"
+
+#: inc/cities-dz.php:63
+msgid "Sidi Abderrahmane"
+msgstr "سيدي عكاشة"
+
+#: inc/cities-dz.php:64
+msgid "Sidi Akkacha"
+msgstr "شوبا"
+
+#: inc/cities-dz.php:65
+msgid "Sobha"
+msgstr "تاجينا"
+
+#: inc/cities-dz.php:66
+msgid "Tadjena"
+msgstr "تالاسا"
+
+#: inc/cities-dz.php:67
+msgid "Talassa"
+msgstr "تاوجريت"
+
+#: inc/cities-dz.php:68
+msgid "Taougrite"
+msgstr "تينس"
+
+#: inc/cities-dz.php:69
+msgid "Ténès"
+msgstr "زبودة"
+
+#: inc/cities-dz.php:70
+msgid "Zeboudja"
+msgstr "الأغواط"
+
+#: inc/cities-dz.php:74
+msgid "Laghouat"
+msgstr "قصر الحيران"
+
+#: inc/cities-dz.php:75
+msgid "Ksar El Hirane"
+msgstr "بن ناصر بنشهرة"
+
+#: inc/cities-dz.php:76
+msgid "Bennasser Benchohra"
+msgstr "سيدي مخلوف"
+
+#: inc/cities-dz.php:77
+msgid "Sidi Makhlouf"
+msgstr "حاسي ديلا"
+
+#: inc/cities-dz.php:78
+msgid "Hassi Delaa"
+msgstr "حاسي الرمل"
+
+#: inc/cities-dz.php:79
+msgid "Hassi R'Mel"
+msgstr "عين ماضي"
+
+#: inc/cities-dz.php:80
+msgid "Aïn Madhi"
+msgstr "تاجموت"
+
+#: inc/cities-dz.php:81
+msgid "Tadjemout"
+msgstr "خنج"
+
+#: inc/cities-dz.php:82
+msgid "Kheneg"
+msgstr "كلتات سيدي سعد"
+
+#: inc/cities-dz.php:83
+msgid "Gueltat Sidi Saad"
+msgstr "عين سيدي علي"
+
+#: inc/cities-dz.php:84
+msgid "Aïn Sidi Ali"
+msgstr "البيضاء"
+
+#: inc/cities-dz.php:85
+msgid "Beidha"
+msgstr "بريدا"
+
+#: inc/cities-dz.php:86
+msgid "Brida"
+msgstr "الغيشة"
+
+#: inc/cities-dz.php:87
+msgid "El Ghicha"
+msgstr "الحاج مشري"
+
+#: inc/cities-dz.php:88
+msgid "Hadj Mechri"
+msgstr "سيبجاج"
+
+#: inc/cities-dz.php:89
+msgid "Sebgag"
+msgstr "Taouiala"
+
+#: inc/cities-dz.php:90
+msgid "Taouiala"
+msgstr "Tadjrouna"
+
+#: inc/cities-dz.php:91
+msgid "Tadjrouna"
+msgstr "أفلو"
+
+#: inc/cities-dz.php:92
+msgid "Aflou"
+msgstr "العسافية"
+
+#: inc/cities-dz.php:93
+msgid "El Assafia"
+msgstr "واد مرة"
+
+#: inc/cities-dz.php:94
+msgid "Oued Morra"
+msgstr "وادي مزى"
+
+#: inc/cities-dz.php:95
+msgid "Oued M'Zi"
+msgstr "الحويطة"
+
+#: inc/cities-dz.php:96
+msgid "El Houaita"
+msgstr "سيدي بوزيد"
+
+#: inc/cities-dz.php:97
+msgid "Sidi Bouzid"
+msgstr "أم البواقي"
+
+#: inc/cities-dz.php:101
+msgid "Oum el Bouaghi"
+msgstr "عين البيضاء"
+
+#: inc/cities-dz.php:102
+msgid "Aïn Beïda"
+msgstr "عين مليلة"
+
+#: inc/cities-dz.php:103
+msgid "Aïn M'lila"
+msgstr "بهر شرقي"
+
+#: inc/cities-dz.php:104
+msgid "Behir Chergui"
+msgstr "العامرية"
+
+#: inc/cities-dz.php:105
+msgid "El Amiria"
+msgstr "سيجوس"
+
+#: inc/cities-dz.php:106
+msgid "Sigus"
+msgstr "البلالة"
+
+#: inc/cities-dz.php:107
+msgid "El Belala"
+msgstr "البلالة‬"
+
+#: inc/cities-dz.php:108
+msgid "Aïn Babouche"
+msgstr "عين بابوش"
+
+#: inc/cities-dz.php:109
+msgid "Berriche"
+msgstr "بيريش"
+
+#: inc/cities-dz.php:110
+msgid "Ouled Hamla"
+msgstr "ولاد حملة"
+
+#: inc/cities-dz.php:111
+msgid "Dhalaa"
+msgstr "الضلع"
+
+#: inc/cities-dz.php:112
+msgid "Aïn Kercha"
+msgstr "عين كرشة"
+
+#: inc/cities-dz.php:113
+msgid "Hanchir Toumghani"
+msgstr "حنشير تومغاني"
+
+#: inc/cities-dz.php:114
+msgid "El Djazia"
+msgstr "الجازية"
+
+#: inc/cities-dz.php:115
+msgid "Aïn Diss"
+msgstr "عين الديس"
+
+#: inc/cities-dz.php:116
+msgid "Fkirina"
+msgstr "فكيرينا"
+
+#: inc/cities-dz.php:117
+msgid "Souk Naamane"
+msgstr "سوق نعمان"
+
+#: inc/cities-dz.php:118
+msgid "Zorg"
+msgstr "زورج"
+
+#: inc/cities-dz.php:119
+msgid "El Fedjoudj Boughrara Saoudi"
+msgstr "الفجوج بوغرة سعودى"
+
+#: inc/cities-dz.php:120
+msgid "Ouled Zouaï"
+msgstr "ولاد الزوي"
+
+#: inc/cities-dz.php:121
+msgid "Bir Chouhada"
+msgstr "بئر الشهداء"
+
+#: inc/cities-dz.php:122
+msgid "Ksar Sbahi"
+msgstr "قصر السباحي"
+
+#: inc/cities-dz.php:123
+msgid "Oued Nini"
+msgstr "واد نيني"
+
+#: inc/cities-dz.php:124
+msgid "Meskiana"
+msgstr "مسكيانا"
+
+#: inc/cities-dz.php:125
+msgid "Aïn Fakroun"
+msgstr "عين فكرون"
+
+#: inc/cities-dz.php:126
+msgid "Rahia"
+msgstr "راحية"
+
+#: inc/cities-dz.php:127
+msgid "Aïn Zitoun"
+msgstr "عين زيتون"
+
+#: inc/cities-dz.php:128
+msgid "Ouled Gacem"
+msgstr "ولاد قاسم"
+
+#: inc/cities-dz.php:129
+msgid "El Harmilia"
+msgstr "الهارميليا"
+
+#: inc/cities-dz.php:132
+msgid "Batna"
+msgstr "باتنة"
+
+#: inc/cities-dz.php:133
+msgid "Ghassira"
+msgstr "غسيرة"
+
+#: inc/cities-dz.php:134
+msgid "Maafa"
+msgstr "مافا"
+
+#: inc/cities-dz.php:135
+msgid "Merouana"
+msgstr "مروانة"
+
+#: inc/cities-dz.php:136
+msgid "Seriana"
+msgstr "سيريانا"
+
+#: inc/cities-dz.php:137
+msgid "Menaa"
+msgstr "مينا"
+
+#: inc/cities-dz.php:138
+msgid "El Madher"
+msgstr "الظاهر"
+
+#: inc/cities-dz.php:139
+msgid "Tazoult"
+msgstr "تازولت"
+
+#: inc/cities-dz.php:140
+msgid "N'Gaous"
+msgstr "نجاوس"
+
+#: inc/cities-dz.php:141
+msgid "Guigba"
+msgstr "الڨيڨبة"
+
+#: inc/cities-dz.php:142
+msgid "Inoughissen"
+msgstr "إنوغيسين"
+
+#: inc/cities-dz.php:143
+msgid "Ouyoun El Assafir"
+msgstr "عيون العصافير"
+
+#: inc/cities-dz.php:144
+msgid "Djerma"
+msgstr "جرمة"
+
+#: inc/cities-dz.php:145
+msgid "Bitam"
+msgstr "بيتام"
+
+#: inc/cities-dz.php:146
+msgid "Abdelkader Azil"
+msgstr "عبد القادر أزيل"
+
+#: inc/cities-dz.php:147
+msgid "Arris"
+msgstr "اريس"
+
+#: inc/cities-dz.php:148
+msgid "Kimmel"
+msgstr "كيميل"
+
+#: inc/cities-dz.php:149
+msgid "Tilatou"
+msgstr "تيلاتو"
+
+#: inc/cities-dz.php:150
+msgid "Aïn Djasser"
+msgstr "عين جاسر"
+
+#: inc/cities-dz.php:151
+msgid "Ouled Sellam"
+msgstr "ولاد سلام"
+
+#: inc/cities-dz.php:152
+msgid "Tigherghar"
+msgstr "تيغرغر"
+
+#: inc/cities-dz.php:153
+msgid "Aïn Yagout"
+msgstr "عين ياقوت"
+
+#: inc/cities-dz.php:154
+msgid "Fesdis"
+msgstr "فاسدي"
+
+#: inc/cities-dz.php:155
+msgid "Sefiane"
+msgstr "سفيان"
+
+#: inc/cities-dz.php:156
+msgid "Rahbat"
+msgstr "راهبات"
+
+#: inc/cities-dz.php:157
+msgid "Tighanimine"
+msgstr "تيغانمين"
+
+#: inc/cities-dz.php:158
+msgid "Lemsane"
+msgstr "يمسان"
+
+#: inc/cities-dz.php:159
+msgid "Ksar Bellezma"
+msgstr "قصر بللزما"
+
+#: inc/cities-dz.php:160
+msgid "Seggana"
+msgstr "سجانة"
+
+#: inc/cities-dz.php:161
+msgid "Ichmoul"
+msgstr "اشمول"
+
+#: inc/cities-dz.php:162
+msgid "Foum Toub"
+msgstr "فوم توب"
+
+#: inc/cities-dz.php:163
+msgid "Ben Foudhala El Hakania"
+msgstr "بن فضالة الحقانية"
+
+#: inc/cities-dz.php:164
+msgid "Oued El Ma"
+msgstr "وادي الماء"
+
+#: inc/cities-dz.php:165
+msgid "Talkhamt"
+msgstr "تالكهامت"
+
+#: inc/cities-dz.php:166
+msgid "Bouzina"
+msgstr "بوزينة"
+
+#: inc/cities-dz.php:167
+msgid "Chemora"
+msgstr "تشيمورا"
+
+#: inc/cities-dz.php:168
+msgid "Oued Chaaba"
+msgstr "واد شعبه"
+
+#: inc/cities-dz.php:169
+msgid "Taxlent"
+msgstr "تاكسلينت"
+
+#: inc/cities-dz.php:170
+msgid "Gosbat"
+msgstr "جوسبات"
+
+#: inc/cities-dz.php:171
+msgid "Ouled Aouf"
+msgstr "ولاد عوف"
+
+#: inc/cities-dz.php:172
+msgid "Boumagueur"
+msgstr "بومقر"
+
+#: inc/cities-dz.php:173
+msgid "Barika"
+msgstr "بريكة"
+
+#: inc/cities-dz.php:174
+msgid "Djezar"
+msgstr "جيزار"
+
+#: inc/cities-dz.php:175
+msgid "T'Kout"
+msgstr "تكوت"
+
+#: inc/cities-dz.php:176
+msgid "Aïn Touta"
+msgstr "عين توتة"
+
+#: inc/cities-dz.php:177
+msgid "Hidoussa"
+msgstr "حدوسة"
+
+#: inc/cities-dz.php:178
+msgid "Teniet El Abed"
+msgstr "تينيت العبد"
+
+#: inc/cities-dz.php:179
+msgid "Oued Taga"
+msgstr "واد تاغا"
+
+#: inc/cities-dz.php:180
+msgid "Ouled Fadel"
+msgstr "ولاد فاضل"
+
+#: inc/cities-dz.php:181
+msgid "Timgad"
+msgstr "تيمقاد"
+
+#: inc/cities-dz.php:182
+msgid "Ras El Aioun"
+msgstr "رأس العيون"
+
+#: inc/cities-dz.php:183
+msgid "Chir"
+msgstr "جريدة"
+
+#: inc/cities-dz.php:184
+msgid "Ouled Si Slimane"
+msgstr "أولاد سي سليمان"
+
+#: inc/cities-dz.php:185
+msgid "Zanat El Beida"
+msgstr "زنة البيضاء"
+
+#: inc/cities-dz.php:186
+msgid "M'doukel"
+msgstr "مدوكل"
+
+#: inc/cities-dz.php:187
+msgid "Ouled Ammar"
+msgstr "ولاد عمار"
+
+#: inc/cities-dz.php:188 inc/cities-dz.php:1659
+msgid "El Hassi"
+msgstr "الحاسي"
+
+#: inc/cities-dz.php:189
+msgid "Lazrou"
+msgstr "لازرو"
+
+#: inc/cities-dz.php:190
+msgid "Boumia (Batna)"
+msgstr "بوميا (باتنة)"
+
+#: inc/cities-dz.php:191
+msgid "Boulhilat"
+msgstr "بولحيلات"
+
+#: inc/cities-dz.php:192
+msgid "Larbaâ"
+msgstr "اربع"
+
+#: inc/cities-dz.php:196
+msgid "Béjaïa"
+msgstr "بجاية"
+
+#: inc/cities-dz.php:197
+msgid "Amizour"
+msgstr "أميزور"
+
+#: inc/cities-dz.php:198
+msgid "Ferraoun"
+msgstr "فيراون"
+
+#: inc/cities-dz.php:199
+msgid "Taourirt Ighil"
+msgstr "تاوريرت إيغيل"
+
+#: inc/cities-dz.php:200
+msgid "Chellata"
+msgstr "شيلاتا"
+
+#: inc/cities-dz.php:201
+msgid "Tamokra"
+msgstr "تمقرة"
+
+#: inc/cities-dz.php:202 inc/cities-dz.php:1317
+msgid "Timezrit"
+msgstr "تيمزريت"
+
+#: inc/cities-dz.php:203
+msgid "Souk El Ténine"
+msgstr "سوق التنين"
+
+#: inc/cities-dz.php:204
+msgid "M'cisna"
+msgstr "مسيسنا"
+
+#: inc/cities-dz.php:205
+msgid "Tinabdher"
+msgstr "تينبذر"
+
+#: inc/cities-dz.php:206
+msgid "Tichy"
+msgstr "تيتشي"
+
+#: inc/cities-dz.php:207
+msgid "Semaoun"
+msgstr "سمعون"
+
+#: inc/cities-dz.php:208
+msgid "Kendira"
+msgstr "كندرا"
+
+#: inc/cities-dz.php:209
+msgid "Tifra"
+msgstr "تيفرا"
+
+#: inc/cities-dz.php:210
+msgid "Ighram"
+msgstr "الاغرام"
+
+#: inc/cities-dz.php:211
+msgid "Amalou"
+msgstr "أملو"
+
+#: inc/cities-dz.php:212
+msgid "Ighil Ali"
+msgstr "إيغيل علي"
+
+#: inc/cities-dz.php:213
+msgid "Fenaïa Ilmaten"
+msgstr "فنأ إيلماتين"
+
+#: inc/cities-dz.php:214
+msgid "Toudja"
+msgstr "توجة"
+
+#: inc/cities-dz.php:215
+msgid "Darguina"
+msgstr "درقينة"
+
+#: inc/cities-dz.php:216
+msgid "Sidi Ayad"
+msgstr "سيدي عياد"
+
+#: inc/cities-dz.php:217
+msgid "Aokas"
+msgstr "اوكاس"
+
+#: inc/cities-dz.php:218
+msgid "Ait Djellil"
+msgstr "أيت جليل"
+
+#: inc/cities-dz.php:219
+msgid "Adekar"
+msgstr "أبكار"
+
+#: inc/cities-dz.php:220
+msgid "Akbou"
+msgstr "أكبو"
+
+#: inc/cities-dz.php:221
+msgid "Seddouk"
+msgstr "صدوق"
+
+#: inc/cities-dz.php:222
+msgid "Tazmalt"
+msgstr "تزملت"
+
+#: inc/cities-dz.php:223
+msgid "Aït R'zine"
+msgstr "آيت رزين"
+
+#: inc/cities-dz.php:224
+msgid "Chemini"
+msgstr "شيميني"
+
+#: inc/cities-dz.php:225
+msgid "Souk Oufella"
+msgstr "سوق العوفلة"
+
+#: inc/cities-dz.php:226
+msgid "Tibane"
+msgstr "تيباني"
+
+#: inc/cities-dz.php:227
+msgid "Tala Hamza"
+msgstr "تالا حمزة"
+
+#: inc/cities-dz.php:228
+msgid "Barbacha"
+msgstr "بارباشا"
+
+#: inc/cities-dz.php:229
+msgid "Aït Ksila"
+msgstr "آيت كسيلة"
+
+#: inc/cities-dz.php:230
+msgid "Ouzellaguen"
+msgstr "أوزلاقن"
+
+#: inc/cities-dz.php:231
+msgid "Bouhamza"
+msgstr "بوحمزة"
+
+#: inc/cities-dz.php:232
+msgid "Taskriout"
+msgstr "تاسكريوت"
+
+#: inc/cities-dz.php:233
+msgid "Aït Mellikeche"
+msgstr "آيت مليكيتشي"
+
+#: inc/cities-dz.php:234
+msgid "Sidi Aïch"
+msgstr "سيدي ايش"
+
+#: inc/cities-dz.php:235
+msgid "El Kseur"
+msgstr "القصر"
+
+#: inc/cities-dz.php:236
+msgid "Melbou"
+msgstr "ميلبو"
+
+#: inc/cities-dz.php:237
+msgid "Akfadou"
+msgstr "أكفادو"
+
+#: inc/cities-dz.php:238
+msgid "Leflaye"
+msgstr "ليفلاي"
+
+#: inc/cities-dz.php:239
+msgid "Kherrata"
+msgstr "خراطة"
+
+#: inc/cities-dz.php:240
+msgid "Draâ El Kaïd"
+msgstr "درعة القعيد"
+
+#: inc/cities-dz.php:241
+msgid "Tamridjet"
+msgstr "تمريدجيت"
+
+#: inc/cities-dz.php:242
+msgid "Aït Smail"
+msgstr "آيت اسماعيل"
+
+#: inc/cities-dz.php:243
+msgid "Boukhelifa"
+msgstr "بوخليفة"
+
+#: inc/cities-dz.php:244
+msgid "Tizi N'Berber"
+msgstr "تيزي نبربر"
+
+#: inc/cities-dz.php:245
+msgid "Aït Maouche"
+msgstr "آيت معوش"
+
+#: inc/cities-dz.php:246
+msgid "Oued Ghir"
+msgstr "واد غير"
+
+#: inc/cities-dz.php:247
+msgid "Boudjellil"
+msgstr "بوجليل"
+
+#: inc/cities-dz.php:251
+msgid "Aïn Naga"
+msgstr "عين الناقة"
+
+#: inc/cities-dz.php:252
+msgid "Aïn Zaatout"
+msgstr "عين زعتوت"
+
+#: inc/cities-dz.php:253 inc/cities-dz.php:1343
+msgid "Besbes"
+msgstr "بيسبيس"
+
+#: inc/cities-dz.php:254
+msgid "Biskra"
+msgstr "بسكرة"
+
+#: inc/cities-dz.php:255
+msgid "Bordj Ben Azzouz"
+msgstr "برج بن عزوز"
+
+#: inc/cities-dz.php:256
+msgid "Bouchagroune"
+msgstr "بوشاغرون"
+
+#: inc/cities-dz.php:257
+msgid "Branis"
+msgstr "برانيس"
+
+#: inc/cities-dz.php:258
+msgid "Chetma"
+msgstr "شيتما"
+
+#: inc/cities-dz.php:259
+msgid "Djemorah"
+msgstr "جمورة"
+
+#: inc/cities-dz.php:260
+msgid "Doucen"
+msgstr "دوسين"
+
+#: inc/cities-dz.php:261
+msgid "Ech Chaïba"
+msgstr "إيش تشعيبة"
+
+#: inc/cities-dz.php:262
+msgid "El Feidh"
+msgstr "الفيض"
+
+#: inc/cities-dz.php:263
+msgid "El Ghrous"
+msgstr "الغروس"
+
+#: inc/cities-dz.php:264
+msgid "El Hadjeb"
+msgstr "الحاجب"
+
+#: inc/cities-dz.php:265
+msgid "El Haouch"
+msgstr "الحوش"
+
+#: inc/cities-dz.php:266
+msgid "El Kantara"
+msgstr "القنطرة"
+
+#: inc/cities-dz.php:267
+msgid "El Mizaraa"
+msgstr "المزرعة"
+
+#: inc/cities-dz.php:268
+msgid "El Outaya"
+msgstr "الاوتايا"
+
+#: inc/cities-dz.php:269
+msgid "Foughala"
+msgstr "الفجالة"
+
+#: inc/cities-dz.php:270
+msgid "Khenguet Sidi Nadji"
+msgstr "خنجيت سيدي نجي"
+
+#: inc/cities-dz.php:271
+msgid "Lichana"
+msgstr "ليشانا"
+
+#: inc/cities-dz.php:272
+msgid "Lioua"
+msgstr "ليوا"
+
+#: inc/cities-dz.php:273
+msgid "M'Chouneche"
+msgstr "مشونش"
+
+#: inc/cities-dz.php:274
+msgid "Mekhadma"
+msgstr "مخدما"
+
+#: inc/cities-dz.php:275
+msgid "M'Lili"
+msgstr "مليلي"
+
+#: inc/cities-dz.php:276
+msgid "Ouled Djellal"
+msgstr "ولاد جلال"
+
+#: inc/cities-dz.php:277
+msgid "Oumache"
+msgstr "أوماش"
+
+#: inc/cities-dz.php:278
+msgid "Ourlal"
+msgstr "أورلال"
+
+#: inc/cities-dz.php:279
+msgid "Ras El Miaad"
+msgstr "رأس المعاد"
+
+#: inc/cities-dz.php:280 inc/cities-dz.php:895
+msgid "Sidi Khaled"
+msgstr "سيدي خالد"
+
+#: inc/cities-dz.php:281
+msgid "Sidi Okba"
+msgstr "سيدي عقبة"
+
+#: inc/cities-dz.php:282
+msgid "Tolga"
+msgstr "تولجا"
+
+#: inc/cities-dz.php:283
+msgid "Zeribet El Oued"
+msgstr "زريبة الواد"
+
+#: inc/cities-dz.php:287
+msgid "Béchar"
+msgstr "بشار"
+
+#: inc/cities-dz.php:288
+msgid "Erg Ferradj"
+msgstr "عرق فيراج"
+
+#: inc/cities-dz.php:289
+msgid "Ouled Khoudir"
+msgstr "ولاد خضير"
+
+#: inc/cities-dz.php:290
+msgid "Meridja"
+msgstr "ميريجا"
+
+#: inc/cities-dz.php:291
+msgid "Timoudi"
+msgstr "تيمودي"
+
+#: inc/cities-dz.php:292
+msgid "Lahmar"
+msgstr "لحمر"
+
+#: inc/cities-dz.php:293
+msgid "Béni Abbès"
+msgstr "بني عباس"
+
+#: inc/cities-dz.php:294
+msgid "Beni Ikhlef"
+msgstr "بني يخلف"
+
+#: inc/cities-dz.php:295
+msgid "Mechraa Houari Boumedienne"
+msgstr "مشرع هواري بومدين"
+
+#: inc/cities-dz.php:296
+msgid "Kenadsa"
+msgstr "كينادسا"
+
+#: inc/cities-dz.php:297
+msgid "Igli"
+msgstr "إيجلي"
+
+#: inc/cities-dz.php:298
+msgid "Tabelbala"
+msgstr "تبلبالة"
+
+#: inc/cities-dz.php:299
+msgid "Taghit"
+msgstr "تاغيت"
+
+#: inc/cities-dz.php:300
+msgid "El Ouata"
+msgstr "الواطة"
+
+#: inc/cities-dz.php:301
+msgid "Boukais"
+msgstr "بوكيس"
+
+#: inc/cities-dz.php:302
+msgid "Mougheul"
+msgstr "مغول"
+
+#: inc/cities-dz.php:303
+msgid "Abadla"
+msgstr "عبادية"
+
+#: inc/cities-dz.php:304
+msgid "Kerzaz"
+msgstr "كرزاز"
+
+#: inc/cities-dz.php:305
+msgid "Ksabi"
+msgstr "قصبي"
+
+#: inc/cities-dz.php:306
+msgid "Tamtert"
+msgstr "تامتيرت"
+
+#: inc/cities-dz.php:307
+msgid "Beni Ounif"
+msgstr "بني عونيف"
+
+#: inc/cities-dz.php:311
+msgid "Blida"
+msgstr "البليدة"
+
+#: inc/cities-dz.php:312
+msgid "Chebli"
+msgstr "شبلي"
+
+#: inc/cities-dz.php:313
+msgid "Bouinan"
+msgstr "بوينان"
+
+#: inc/cities-dz.php:314
+msgid "Oued Alleug"
+msgstr "واد العلوج"
+
+#: inc/cities-dz.php:315
+msgid "Ouled Yaïch"
+msgstr "ولاد يعيش"
+
+#: inc/cities-dz.php:316
+msgid "Chréa"
+msgstr "شريا"
+
+#: inc/cities-dz.php:317
+msgid "El Affroun"
+msgstr "العفرون"
+
+#: inc/cities-dz.php:318
+msgid "Chiffa"
+msgstr "شيفا"
+
+#: inc/cities-dz.php:319
+msgid "Hammam Melouane"
+msgstr "همام ملوان"
+
+#: inc/cities-dz.php:320
+msgid "Benkhelil"
+msgstr "بن خليل"
+
+#: inc/cities-dz.php:321
+msgid "Soumaa"
+msgstr "سومة"
+
+#: inc/cities-dz.php:322
+msgid "Mouzaia"
+msgstr "موزية"
+
+#: inc/cities-dz.php:323
+msgid "Souhane"
+msgstr "سوهان"
+
+#: inc/cities-dz.php:324
+msgid "Meftah"
+msgstr "مفتاح"
+
+#: inc/cities-dz.php:325
+msgid "Ouled Slama"
+msgstr "ولاد سلامة"
+
+#: inc/cities-dz.php:326
+msgid "Boufarik"
+msgstr "بوفاريك"
+
+#: inc/cities-dz.php:327 inc/cities-dz.php:1377
+msgid "Larbaa"
+msgstr "اربع"
+
+#: inc/cities-dz.php:328
+msgid "Oued Djer"
+msgstr "واد جر"
+
+#: inc/cities-dz.php:329
+msgid "Beni Tamou"
+msgstr "بني تامو"
+
+#: inc/cities-dz.php:330
+msgid "Bouarfa"
+msgstr "بوعرفة"
+
+#: inc/cities-dz.php:331
+msgid "Beni Mered"
+msgstr "بني ميريد"
+
+#: inc/cities-dz.php:332 inc/cities-dz.php:492
+msgid "Bougara"
+msgstr "بوقرة"
+
+#: inc/cities-dz.php:333
+msgid "Guerouaou"
+msgstr "ڨرواو"
+
+#: inc/cities-dz.php:334
+msgid "Aïn Romana"
+msgstr "عين رومانة"
+
+#: inc/cities-dz.php:335
+msgid "Djebabra"
+msgstr "جبرا"
+
+#: inc/cities-dz.php:339
+msgid "Aïn Bessem"
+msgstr "عين بسام"
+
+#: inc/cities-dz.php:340
+msgid "Hanif"
+msgstr "حنيف"
+
+#: inc/cities-dz.php:341
+msgid "Aghbalou"
+msgstr "اغبالو"
+
+#: inc/cities-dz.php:342 inc/cities-dz.php:795
+msgid "Aïn El Hadjar"
+msgstr "عين الحجار"
+
+#: inc/cities-dz.php:343
+msgid "Ahl El Ksar"
+msgstr "أهل القصر"
+
+#: inc/cities-dz.php:344
+msgid "Aïn Laloui"
+msgstr "عين العلوي"
+
+#: inc/cities-dz.php:345
+msgid "Ath Mansour"
+msgstr "المنصور"
+
+#: inc/cities-dz.php:346
+msgid "Aomar"
+msgstr "عمر"
+
+#: inc/cities-dz.php:347
+msgid "Aïn El Turc"
+msgstr "عين الترك"
+
+#: inc/cities-dz.php:348
+msgid "Aït Laziz"
+msgstr "آيت عزيز"
+
+#: inc/cities-dz.php:349
+msgid "Bouderbala"
+msgstr "بودربالة"
+
+#: inc/cities-dz.php:350
+msgid "Bechloul"
+msgstr "بشلول"
+
+#: inc/cities-dz.php:351
+msgid "Bir Ghbalou"
+msgstr "بير غبالو"
+
+#: inc/cities-dz.php:352
+msgid "Boukram"
+msgstr "بوقرم"
+
+#: inc/cities-dz.php:353
+msgid "Bordj Okhriss"
+msgstr "برج أخريس"
+
+#: inc/cities-dz.php:354
+msgid "Bouira"
+msgstr "البويرة"
+
+#: inc/cities-dz.php:355 inc/cities-dz.php:1138
+msgid "Chorfa"
+msgstr "الشرفة"
+
+#: inc/cities-dz.php:356
+msgid "Dechmia"
+msgstr "دشميا"
+
+#: inc/cities-dz.php:357
+msgid "Dirrah"
+msgstr "درة"
+
+#: inc/cities-dz.php:358
+msgid "Djebahia"
+msgstr "جباهية"
+
+#: inc/cities-dz.php:359
+msgid "El Hakimia"
+msgstr "الحكيمية"
+
+#: inc/cities-dz.php:360
+msgid "El Hachimia"
+msgstr "الهاشمية"
+
+#: inc/cities-dz.php:361
+msgid "El Adjiba"
+msgstr "الأدجيبة"
+
+#: inc/cities-dz.php:362
+msgid "El Khabouzia"
+msgstr "الخبوزيه"
+
+#: inc/cities-dz.php:363
+msgid "El Mokrani"
+msgstr "المقراني"
+
+#: inc/cities-dz.php:364
+msgid "El Asnam"
+msgstr "الاصنام"
+
+#: inc/cities-dz.php:365
+msgid "Guerrouma"
+msgstr "غرومة"
+
+#: inc/cities-dz.php:366
+msgid "Haizer"
+msgstr "هايزر"
+
+#: inc/cities-dz.php:367
+msgid "Hadjera Zerga"
+msgstr "هادجيرا الزرقه"
+
+#: inc/cities-dz.php:368
+msgid "Kadiria"
+msgstr "القادرية"
+
+#: inc/cities-dz.php:369
+msgid "Lakhdaria"
+msgstr "الأخضرية"
+
+#: inc/cities-dz.php:370
+msgid "M'Chedallah"
+msgstr "مشيد الله"
+
+#: inc/cities-dz.php:371
+msgid "Mezdour"
+msgstr "مزدور"
+
+#: inc/cities-dz.php:372
+msgid "Maala"
+msgstr "مالا"
+
+#: inc/cities-dz.php:373 inc/cities-dz.php:801
+msgid "Maamora"
+msgstr "المعمورة"
+
+#: inc/cities-dz.php:374
+msgid "Oued El Berdi"
+msgstr "وادي البردى"
+
+#: inc/cities-dz.php:375
+msgid "Ouled Rached"
+msgstr "ولاد راشد"
+
+#: inc/cities-dz.php:376
+msgid "Raouraoua"
+msgstr "روراوة"
+
+#: inc/cities-dz.php:377
+msgid "Ridane"
+msgstr "ريدان"
+
+#: inc/cities-dz.php:378
+msgid "Saharidj"
+msgstr "سهارج"
+
+#: inc/cities-dz.php:379
+msgid "Sour El Ghouzlane"
+msgstr "صور الغزلان"
+
+#: inc/cities-dz.php:380
+msgid "Souk El Khemis"
+msgstr "سوق الخميس"
+
+#: inc/cities-dz.php:381
+msgid "Taguedit"
+msgstr "تاجوديت"
+
+#: inc/cities-dz.php:382 inc/cities-dz.php:1404
+msgid "Taghzout"
+msgstr "تغزوت"
+
+#: inc/cities-dz.php:383
+msgid "Zbarbar"
+msgstr "زباربار"
+
+#: inc/cities-dz.php:387
+msgid "Tamanrasset"
+msgstr "تمنراست"
+
+#: inc/cities-dz.php:388
+msgid "Abalessa"
+msgstr "أباليسا"
+
+#: inc/cities-dz.php:389
+msgid "In Ghar"
+msgstr "في غار"
+
+#: inc/cities-dz.php:390
+msgid "In Guezzam"
+msgstr "في قزام"
+
+#: inc/cities-dz.php:391
+msgid "Idles"
+msgstr "الخمول"
+
+#: inc/cities-dz.php:392
+msgid "Tazrouk"
+msgstr "تزروك"
+
+#: inc/cities-dz.php:393
+msgid "Tin Zaouatine"
+msgstr "تن زواتين"
+
+#: inc/cities-dz.php:394
+msgid "In Salah"
+msgstr "عين صلاح"
+
+#: inc/cities-dz.php:395
+msgid "In Amguel"
+msgstr "في Amguel"
+
+#: inc/cities-dz.php:396
+msgid "Foggaret Ezzaouia"
+msgstr "فجريت العزاوية"
+
+#: inc/cities-dz.php:400
+msgid "Tébessa"
+msgstr "تبسة"
+
+#: inc/cities-dz.php:401
+msgid "Bir el Ater"
+msgstr "بير العاطر"
+
+#: inc/cities-dz.php:402
+msgid "Cheria"
+msgstr "شيريا"
+
+#: inc/cities-dz.php:403
+msgid "Stah Guentis"
+msgstr "ستاه جينتيس"
+
+#: inc/cities-dz.php:404
+msgid "El Aouinet"
+msgstr "العوينات"
+
+#: inc/cities-dz.php:405
+msgid "El Houidjbet"
+msgstr "الحويدبة"
+
+#: inc/cities-dz.php:406
+msgid "Safsaf El Ouesra"
+msgstr "صفصاف الوسرة"
+
+#: inc/cities-dz.php:407
+msgid "Hammamet"
+msgstr "الحمامات"
+
+#: inc/cities-dz.php:408
+msgid "Negrine"
+msgstr "نيجرين"
+
+#: inc/cities-dz.php:409
+msgid "Bir Mokkadem"
+msgstr "بير مقادم"
+
+#: inc/cities-dz.php:410
+msgid "El Kouif"
+msgstr "الكويف"
+
+#: inc/cities-dz.php:411
+msgid "Morsott"
+msgstr "مورسوت"
+
+#: inc/cities-dz.php:412 inc/cities-dz.php:1419
+msgid "El Ogla"
+msgstr "العقلة"
+
+#: inc/cities-dz.php:413
+msgid "Bir Dheb"
+msgstr "بير ديب"
+
+#: inc/cities-dz.php:414
+msgid "Ogla Melha"
+msgstr "العقلة المالحة"
+
+#: inc/cities-dz.php:415
+msgid "Guorriguer"
+msgstr "جوريجير"
+
+#: inc/cities-dz.php:416
+msgid "Bekkaria"
+msgstr "بكاريا"
+
+#: inc/cities-dz.php:417
+msgid "Boukhadra"
+msgstr "بوخضرة"
+
+#: inc/cities-dz.php:418
+msgid "Ouenza"
+msgstr "الونزة"
+
+#: inc/cities-dz.php:419
+msgid "El Ma Labiodh"
+msgstr "الماعبيه"
+
+#: inc/cities-dz.php:420
+msgid "Oum Ali"
+msgstr "أم علي"
+
+#: inc/cities-dz.php:421
+msgid "Tlidjene"
+msgstr "تليدجين"
+
+#: inc/cities-dz.php:422
+msgid "Aïn Zerga"
+msgstr "عين زرقا"
+
+#: inc/cities-dz.php:423
+msgid "El Meridj"
+msgstr "المريج"
+
+#: inc/cities-dz.php:424
+msgid "Boulhaf Dir"
+msgstr "بولحاف دير"
+
+#: inc/cities-dz.php:425
+msgid "Bedjene"
+msgstr "بيدجين"
+
+#: inc/cities-dz.php:426
+msgid "El Mezeraa"
+msgstr "المزرعة"
+
+#: inc/cities-dz.php:427
+msgid "Ferkane"
+msgstr "فيركان"
+
+#: inc/cities-dz.php:431
+msgid "Tlemcen"
+msgstr "تلمسان"
+
+#: inc/cities-dz.php:432
+msgid "Beni Mester"
+msgstr "بني ميستر"
+
+#: inc/cities-dz.php:433
+msgid "Aïn Tallout"
+msgstr "عين التلوت"
+
+#: inc/cities-dz.php:434
+msgid "Remchi"
+msgstr "رمشي"
+
+#: inc/cities-dz.php:435
+msgid "El Fehoul"
+msgstr "الفحول"
+
+#: inc/cities-dz.php:436
+msgid "Sabra"
+msgstr "صبرا"
+
+#: inc/cities-dz.php:437
+msgid "Ghazaouet"
+msgstr "الغزوات"
+
+#: inc/cities-dz.php:438
+msgid "Souani"
+msgstr "السواني"
+
+#: inc/cities-dz.php:439
+msgid "Djebala"
+msgstr "جبالة"
+
+#: inc/cities-dz.php:440
+msgid "El Gor"
+msgstr "الجور"
+
+#: inc/cities-dz.php:441
+msgid "Oued Lakhdar"
+msgstr "واد لاخضر"
+
+#: inc/cities-dz.php:442
+msgid "Aïn Fezza"
+msgstr "عين فزة"
+
+#: inc/cities-dz.php:443
+msgid "Ouled Mimoun"
+msgstr "أولاد ميمون"
+
+#: inc/cities-dz.php:444
+msgid "Amieur"
+msgstr "أميور"
+
+#: inc/cities-dz.php:445
+msgid "Aïn Youcef"
+msgstr "عين يوسف"
+
+#: inc/cities-dz.php:446
+msgid "Zenata"
+msgstr "زناتة"
+
+#: inc/cities-dz.php:447
+msgid "Beni Snous"
+msgstr "بني سنوس"
+
+#: inc/cities-dz.php:448
+msgid "Bab El Assa"
+msgstr "باب العسة"
+
+#: inc/cities-dz.php:449
+msgid "Dar Yaghmouracene"
+msgstr "دار يغموراسين"
+
+#: inc/cities-dz.php:450
+msgid "Fellaoucene"
+msgstr "فلوسين"
+
+#: inc/cities-dz.php:451
+msgid "Azails"
+msgstr "أزايلز"
+
+#: inc/cities-dz.php:452
+msgid "Sebaa Chioukh"
+msgstr "سباع شيوخ"
+
+#: inc/cities-dz.php:453
+msgid "Terny Beni Hdiel"
+msgstr "تيرني بني حديل"
+
+#: inc/cities-dz.php:454
+msgid "Bensekrane"
+msgstr "بنسكرين"
+
+#: inc/cities-dz.php:455
+msgid "Aïn Nehala"
+msgstr "عين النحالة"
+
+#: inc/cities-dz.php:456
+msgid "Hennaya"
+msgstr "حنايا"
+
+#: inc/cities-dz.php:457
+msgid "Maghnia"
+msgstr "مغنية"
+
+#: inc/cities-dz.php:458
+msgid "Hammam Boughrara"
+msgstr "حمام بوغرة"
+
+#: inc/cities-dz.php:459
+msgid "Souahlia"
+msgstr "سوهليا"
+
+#: inc/cities-dz.php:460
+msgid "MSirda Fouaga"
+msgstr "مسيردة الفواقة"
+
+#: inc/cities-dz.php:461
+msgid "Aïn Fetah"
+msgstr "عين فتاح"
+
+#: inc/cities-dz.php:462
+msgid "El Aricha"
+msgstr "العريشة"
+
+#: inc/cities-dz.php:463
+msgid "Souk Tlata"
+msgstr "سوق تلاتة"
+
+#: inc/cities-dz.php:464
+msgid "Sidi Abdelli"
+msgstr "سيدي العبدلي"
+
+#: inc/cities-dz.php:465
+msgid "Sebdou"
+msgstr "سبدو"
+
+#: inc/cities-dz.php:466
+msgid "Beni Ouarsous"
+msgstr "بني ورسوس"
+
+#: inc/cities-dz.php:467
+msgid "Sidi Medjahed"
+msgstr "سيدي مجاهد"
+
+#: inc/cities-dz.php:468
+msgid "Beni Boussaid"
+msgstr "بني بوسعيد"
+
+#: inc/cities-dz.php:469
+msgid "Marsa Ben M'Hidi"
+msgstr "مرسى بن مهيدي"
+
+#: inc/cities-dz.php:470
+msgid "Nedroma"
+msgstr "ندروما"
+
+#: inc/cities-dz.php:471
+msgid "Sidi Djillali"
+msgstr "سيدي جيلالي"
+
+#: inc/cities-dz.php:472
+msgid "Beni Bahdel"
+msgstr "بني بهدل"
+
+#: inc/cities-dz.php:473
+msgid "El Bouihi"
+msgstr "البويحي"
+
+#: inc/cities-dz.php:474
+msgid "Honaïne"
+msgstr "هونين"
+
+#: inc/cities-dz.php:475
+msgid "Tienet"
+msgstr "تينيت"
+
+#: inc/cities-dz.php:476
+msgid "Ouled Riyah"
+msgstr "ولاد رياح"
+
+#: inc/cities-dz.php:477
+msgid "Bouhlou"
+msgstr "بوهلو"
+
+#: inc/cities-dz.php:478
+msgid "Beni Khellad"
+msgstr "بني خلاد"
+
+#: inc/cities-dz.php:479
+msgid "Aïn Ghoraba"
+msgstr "عين الغرابة"
+
+#: inc/cities-dz.php:480
+msgid "Chetouane"
+msgstr "شطوان"
+
+#: inc/cities-dz.php:481 inc/cities-dz.php:1058
+msgid "Mansourah"
+msgstr "المنصورة"
+
+#: inc/cities-dz.php:482
+msgid "Beni Semiel"
+msgstr "بني سميل"
+
+#: inc/cities-dz.php:483
+msgid "Aïn Kebira"
+msgstr "عين كبيرة"
+
+#: inc/cities-dz.php:487
+msgid "Aïn Bouchekif"
+msgstr "عين بوشقيف"
+
+#: inc/cities-dz.php:488
+msgid "Aïn Deheb"
+msgstr "عين دهب"
+
+#: inc/cities-dz.php:489
+msgid "Aïn El Hadid"
+msgstr "عين الحديد"
+
+#: inc/cities-dz.php:490
+msgid "Aïn Kermes"
+msgstr "عين كرمس"
+
+#: inc/cities-dz.php:491
+msgid "Aïn Dzarit"
+msgstr "عين دزاريت"
+
+#: inc/cities-dz.php:493
+msgid "Chehaima"
+msgstr "شحيمة"
+
+#: inc/cities-dz.php:494
+msgid "Dahmouni"
+msgstr "دهموني"
+
+#: inc/cities-dz.php:495
+msgid "Djebilet Rosfa"
+msgstr "جبيلت روزفا"
+
+#: inc/cities-dz.php:496
+msgid "Djillali Ben Amar"
+msgstr "جيلالي بن عمار"
+
+#: inc/cities-dz.php:497
+msgid "Faidja"
+msgstr "فيدجا"
+
+#: inc/cities-dz.php:498
+msgid "Frenda"
+msgstr "فريندا"
+
+#: inc/cities-dz.php:499
+msgid "Guertoufa"
+msgstr "قرطبة"
+
+#: inc/cities-dz.php:500
+msgid "Hamadia"
+msgstr "الحمادية"
+
+#: inc/cities-dz.php:501
+msgid "Ksar Chellala"
+msgstr "قصر شلاله"
+
+#: inc/cities-dz.php:502
+msgid "Madna"
+msgstr "مادنا"
+
+#: inc/cities-dz.php:503
+msgid "Mahdia"
+msgstr "المهدية"
+
+#: inc/cities-dz.php:504
+msgid "Mechraa Safa"
+msgstr "مشرع الصفا"
+
+#: inc/cities-dz.php:505
+msgid "Medrissa"
+msgstr "ميدريسا"
+
+#: inc/cities-dz.php:506
+msgid "Medroussa"
+msgstr "مدروسة"
+
+#: inc/cities-dz.php:507
+msgid "Meghila"
+msgstr "ميجيلا"
+
+#: inc/cities-dz.php:508
+msgid "Mellakou"
+msgstr "ميلاكو"
+
+#: inc/cities-dz.php:509
+msgid "Nadorah"
+msgstr "نادورة"
+
+#: inc/cities-dz.php:510
+msgid "Naima"
+msgstr "نعيمة"
+
+#: inc/cities-dz.php:511
+msgid "Oued Lilli"
+msgstr "واد ليلي"
+
+#: inc/cities-dz.php:512
+msgid "Rahouia"
+msgstr "راهوية"
+
+#: inc/cities-dz.php:513
+msgid "Rechaiga"
+msgstr "رشايجا"
+
+#: inc/cities-dz.php:514
+msgid "Sebaine"
+msgstr "سبين"
+
+#: inc/cities-dz.php:515
+msgid "Sebt"
+msgstr "سبت"
+
+#: inc/cities-dz.php:516
+msgid "Serghine"
+msgstr "سرجين"
+
+#: inc/cities-dz.php:517
+msgid "Si Abdelghani"
+msgstr "سي عبد الغني"
+
+#: inc/cities-dz.php:518
+msgid "Sidi Abderahmane"
+msgstr "سيدي عبد الرحمن"
+
+#: inc/cities-dz.php:519
+msgid "Sidi Ali Mellal"
+msgstr "سيدي علي ملال"
+
+#: inc/cities-dz.php:520
+msgid "Sidi Bakhti"
+msgstr "سيدي بختي"
+
+#: inc/cities-dz.php:521
+msgid "Sidi Hosni"
+msgstr "سيدي حسني"
+
+#: inc/cities-dz.php:522
+msgid "Sougueur"
+msgstr "سوغور"
+
+#: inc/cities-dz.php:523
+msgid "Tagdemt"
+msgstr "تاجديمت"
+
+#: inc/cities-dz.php:524
+msgid "Takhemaret"
+msgstr "تخميرت"
+
+#: inc/cities-dz.php:525
+msgid "Tiaret"
+msgstr "تيارت"
+
+#: inc/cities-dz.php:526
+msgid "Tidda"
+msgstr "تيدا"
+
+#: inc/cities-dz.php:527
+msgid "Tousnina"
+msgstr "توسنينا"
+
+#: inc/cities-dz.php:528
+msgid "Zmalet El Emir Abdelkader"
+msgstr "زمالة الأمير عبد القادر"
+
+#: inc/cities-dz.php:532
+msgid "Tizi Ouzou"
+msgstr "تيزي وزو"
+
+#: inc/cities-dz.php:533
+msgid "Ain El Hammam"
+msgstr "عين الحمام"
+
+#: inc/cities-dz.php:534
+msgid "Akbil"
+msgstr "أقبيل"
+
+#: inc/cities-dz.php:535
+msgid "Freha"
+msgstr "فريحة"
+
+#: inc/cities-dz.php:536
+msgid "Souamaâ"
+msgstr "سوامع"
+
+#: inc/cities-dz.php:537
+msgid "Mechtras"
+msgstr "مشطراس"
+
+#: inc/cities-dz.php:538
+msgid "Irdjen"
+msgstr "ايرجين"
+
+#: inc/cities-dz.php:539
+msgid "Timizart"
+msgstr "تيميزارت"
+
+#: inc/cities-dz.php:540
+msgid "Makouda"
+msgstr "مكودة"
+
+#: inc/cities-dz.php:541
+msgid "Draâ El Mizan"
+msgstr "درعة الميزان"
+
+#: inc/cities-dz.php:542
+msgid "Tizi Gheniff"
+msgstr "تيزي غنيف"
+
+#: inc/cities-dz.php:543
+msgid "Bounouh"
+msgstr "بونوح"
+
+#: inc/cities-dz.php:544
+msgid "Aït Chafâa"
+msgstr "آيت شفاعة"
+
+#: inc/cities-dz.php:545
+msgid "Frikat"
+msgstr "فريكات"
+
+#: inc/cities-dz.php:546
+msgid "Beni Aïssi"
+msgstr "بني عاصي"
+
+#: inc/cities-dz.php:547
+msgid "Beni Zmenzer"
+msgstr "بني زمنزر"
+
+#: inc/cities-dz.php:548
+msgid "Iferhounène"
+msgstr "إيفرهونين"
+
+#: inc/cities-dz.php:549
+msgid "Azazga"
+msgstr "عزازقة"
+
+#: inc/cities-dz.php:550
+msgid "Illoula Oumalou"
+msgstr "إيلولة أومالو"
+
+#: inc/cities-dz.php:551
+msgid "Yakouren"
+msgstr "ياكورن"
+
+#: inc/cities-dz.php:552
+msgid "Larbaâ Nath Irathen"
+msgstr "أربعاء ناث إراثين"
+
+#: inc/cities-dz.php:553
+msgid "Tizi Rached"
+msgstr "تيزي راشد"
+
+#: inc/cities-dz.php:554
+msgid "Zekri"
+msgstr "ذكرى"
+
+#: inc/cities-dz.php:555
+msgid "Ouaguenoun"
+msgstr "واغنون"
+
+#: inc/cities-dz.php:556
+msgid "Aïn Zaouia"
+msgstr "عين الزاوية"
+
+#: inc/cities-dz.php:557
+msgid "M'Kira"
+msgstr "مكيرا"
+
+#: inc/cities-dz.php:558
+msgid "Aït Yahia"
+msgstr "آيت يحيى"
+
+#: inc/cities-dz.php:559
+msgid "Aït Mahmoud"
+msgstr "آيت محمود"
+
+#: inc/cities-dz.php:560
+msgid "Mâatkas"
+msgstr "ماتكاس"
+
+#: inc/cities-dz.php:561
+msgid "Aït Boumahdi"
+msgstr "آيت بومهدي"
+
+#: inc/cities-dz.php:562
+msgid "Abi Youcef"
+msgstr "أبي يوسف"
+
+#: inc/cities-dz.php:563
+msgid "Beni Douala"
+msgstr "بني دوالا"
+
+#: inc/cities-dz.php:564
+msgid "Illilten"
+msgstr "إيليتن"
+
+#: inc/cities-dz.php:565
+msgid "Bouzguen"
+msgstr "بوزقن"
+
+#: inc/cities-dz.php:566
+msgid "Aït Aggouacha"
+msgstr "آيت أقواشة"
+
+#: inc/cities-dz.php:567
+msgid "Ouadhia"
+msgstr "الواضية"
+
+#: inc/cities-dz.php:568
+msgid "Azeffoun"
+msgstr "أزيفون"
+
+#: inc/cities-dz.php:569
+msgid "Tigzirt"
+msgstr "تيجزيرت"
+
+#: inc/cities-dz.php:570
+msgid "Aït Aïssa Mimoun"
+msgstr "آيت عيسى ميمون"
+
+#: inc/cities-dz.php:571
+msgid "Boghni"
+msgstr "بوغني"
+
+#: inc/cities-dz.php:572
+msgid "Ifigha"
+msgstr "ايفيغاء"
+
+#: inc/cities-dz.php:573
+msgid "Aït Oumalou"
+msgstr "آيت أومالو"
+
+#: inc/cities-dz.php:574
+msgid "Tirmitine"
+msgstr "تيرمتين"
+
+#: inc/cities-dz.php:575
+msgid "Akerrou"
+msgstr "أكيرو"
+
+#: inc/cities-dz.php:576
+msgid "Yatafen"
+msgstr "يتافن"
+
+#: inc/cities-dz.php:577
+msgid "Ath Zikki"
+msgstr "أث زكي"
+
+#: inc/cities-dz.php:578
+msgid "Draâ Ben Khedda"
+msgstr "درعة بن خدة"
+
+#: inc/cities-dz.php:579
+msgid "Ouacif"
+msgstr "وسيف"
+
+#: inc/cities-dz.php:580
+msgid "Idjeur"
+msgstr "إدجور"
+
+#: inc/cities-dz.php:581
+msgid "Mekla"
+msgstr "مكلا"
+
+#: inc/cities-dz.php:582
+msgid "Tizi N'Tleta"
+msgstr "تيزي نتليتا"
+
+#: inc/cities-dz.php:583
+msgid "Aït Yenni"
+msgstr "آيت ييني"
+
+#: inc/cities-dz.php:584
+msgid "Aghribs"
+msgstr "أغريبس"
+
+#: inc/cities-dz.php:585
+msgid "Iflissen"
+msgstr "إفليسن"
+
+#: inc/cities-dz.php:586
+msgid "Boudjima"
+msgstr "بوجيما"
+
+#: inc/cities-dz.php:587
+msgid "Aït Yahia Moussa"
+msgstr "آيت يحيى موسى"
+
+#: inc/cities-dz.php:588
+msgid "Souk El Thenine"
+msgstr "سوق الثنين"
+
+#: inc/cities-dz.php:589
+msgid "Aït Khellili"
+msgstr "آيت خليلي"
+
+#: inc/cities-dz.php:590
+msgid "Sidi Namane"
+msgstr "سيدي نمان"
+
+#: inc/cities-dz.php:591
+msgid "Iboudraren"
+msgstr "إبودرارين"
+
+#: inc/cities-dz.php:592
+msgid "Agouni Gueghrane"
+msgstr "آقنى قغران"
+
+#: inc/cities-dz.php:593
+msgid "Mizrana"
+msgstr "مزرانة"
+
+#: inc/cities-dz.php:594
+msgid "Imsouhel"
+msgstr "إمسوحل"
+
+#: inc/cities-dz.php:595
+msgid "Tadmaït"
+msgstr "تادمايت"
+
+#: inc/cities-dz.php:596
+msgid "Aït Bouadou"
+msgstr "آيت بوادو"
+
+#: inc/cities-dz.php:597
+msgid "Assi Youcef"
+msgstr "عاصي يوسف"
+
+#: inc/cities-dz.php:598
+msgid "Aït Toudert"
+msgstr "آيت تودرت"
+
+#: inc/cities-dz.php:602
+msgid "Alger Centre"
+msgstr "مركز الجزائر"
+
+#: inc/cities-dz.php:603 inc/cities-dz.php:1120
+msgid "Sidi M'Hamed"
+msgstr "سيدي محمد"
+
+#: inc/cities-dz.php:604
+msgid "El Madania"
+msgstr "المدينة"
+
+#: inc/cities-dz.php:605
+msgid "Belouizdad"
+msgstr "بلوزداد"
+
+#: inc/cities-dz.php:606
+msgid "Bab El Oued"
+msgstr "باب الواد"
+
+#: inc/cities-dz.php:607
+msgid "Bologhine"
+msgstr "بولوغين"
+
+#: inc/cities-dz.php:608
+msgid "Casbah"
+msgstr "القصبة"
+
+#: inc/cities-dz.php:609
+msgid "Oued Koriche"
+msgstr "واد قريش"
+
+#: inc/cities-dz.php:610
+msgid "Bir Mourad Raïs"
+msgstr "بير مراد رايس"
+
+#: inc/cities-dz.php:611
+msgid "El Biar"
+msgstr "البيار"
+
+#: inc/cities-dz.php:612
+msgid "Bouzareah"
+msgstr "بوزريعة"
+
+#: inc/cities-dz.php:613
+msgid "Birkhadem"
+msgstr "بير خادم"
+
+#: inc/cities-dz.php:614
+msgid "El Harrach"
+msgstr "الحراش"
+
+#: inc/cities-dz.php:615
+msgid "Baraki"
+msgstr "براقي"
+
+#: inc/cities-dz.php:616
+msgid "Oued Smar"
+msgstr "واد السمار"
+
+#: inc/cities-dz.php:617
+msgid "Bachdjerrah"
+msgstr "باش جراح"
+
+#: inc/cities-dz.php:618
+msgid "Hussein Dey"
+msgstr "حسين داي"
+
+#: inc/cities-dz.php:619
+msgid "Kouba"
+msgstr "القبة"
+
+#: inc/cities-dz.php:620
+msgid "Bourouba"
+msgstr "بوروبة"
+
+#: inc/cities-dz.php:621
+msgid "Dar El Beïda"
+msgstr "دار البيضاء"
+
+#: inc/cities-dz.php:622
+msgid "Bab Ezzouar"
+msgstr "باب الزوار"
+
+#: inc/cities-dz.php:623
+msgid "Ben Aknoun"
+msgstr "بن عكنون"
+
+#: inc/cities-dz.php:624
+msgid "Dely Ibrahim"
+msgstr "ديلي ابراهيم"
+
+#: inc/cities-dz.php:625
+msgid "El Hammamet"
+msgstr "الحمامات"
+
+#: inc/cities-dz.php:626
+msgid "Raïs Hamidou"
+msgstr "رأس حميدو"
+
+#: inc/cities-dz.php:627
+msgid "Djasr Kasentina"
+msgstr "جاسر كاسنتينا"
+
+#: inc/cities-dz.php:628
+msgid "El Mouradia"
+msgstr "المرادية"
+
+#: inc/cities-dz.php:629
+msgid "Hydra"
+msgstr "العدار"
+
+#: inc/cities-dz.php:630 inc/cities-dz.php:1159
+msgid "Mohammadia"
+msgstr "المحمدية"
+
+#: inc/cities-dz.php:631
+msgid "Bordj El Kiffan"
+msgstr "برج الكيفان"
+
+#: inc/cities-dz.php:632
+msgid "El Magharia"
+msgstr "المغارية"
+
+#: inc/cities-dz.php:633
+msgid "Beni Messous"
+msgstr "بني مسوس"
+
+#: inc/cities-dz.php:634
+msgid "Les Eucalyptus"
+msgstr "ليه أوكالبتوس"
+
+#: inc/cities-dz.php:635
+msgid "Birtouta"
+msgstr "بيرتوتة"
+
+#: inc/cities-dz.php:636
+msgid "Tessala El Merdja"
+msgstr "تسالا المردجا"
+
+#: inc/cities-dz.php:637
+msgid "Ouled Chebel"
+msgstr "ولاد شبل"
+
+#: inc/cities-dz.php:638
+msgid "Sidi Moussa"
+msgstr "سيدي موسى"
+
+#: inc/cities-dz.php:639
+msgid "Aïn Taya"
+msgstr "عين الطايع"
+
+#: inc/cities-dz.php:640
+msgid "Bordj El Bahri"
+msgstr "برج البحري"
+
+#: inc/cities-dz.php:642
+msgid "H'raoua"
+msgstr "حروة"
+
+#: inc/cities-dz.php:643
+msgid "Rouïba"
+msgstr "الرويبة"
+
+#: inc/cities-dz.php:644
+msgid "Reghaïa"
+msgstr "رغاية"
+
+#: inc/cities-dz.php:645 inc/cities-dz.php:1549
+msgid "Aïn Benian"
+msgstr "عين البنيان"
+
+#: inc/cities-dz.php:646
+msgid "Staoueli"
+msgstr "سطاوالي"
+
+#: inc/cities-dz.php:647
+msgid "Zeralda"
+msgstr "زرالدة"
+
+#: inc/cities-dz.php:648
+msgid "Mahelma"
+msgstr "ماهيلما"
+
+#: inc/cities-dz.php:649
+msgid "Rahmania"
+msgstr "الرحمانية"
+
+#: inc/cities-dz.php:650
+msgid "Souidania"
+msgstr "زرالدة"
+
+#: inc/cities-dz.php:651
+msgid "Cheraga"
+msgstr "الشراقة"
+
+#: inc/cities-dz.php:652
+msgid "Ouled Fayet"
+msgstr "ولاد فايت"
+
+#: inc/cities-dz.php:653
+msgid "El Achour"
+msgstr "العاشور"
+
+#: inc/cities-dz.php:654
+msgid "Draria"
+msgstr "دراريا"
+
+#: inc/cities-dz.php:655
+msgid "Douera"
+msgstr "دويرة"
+
+#: inc/cities-dz.php:656
+msgid "Baba Hassen"
+msgstr "بابا حسن"
+
+#: inc/cities-dz.php:657
+msgid "Khraicia"
+msgstr "خرايسيا"
+
+#: inc/cities-dz.php:658
+msgid "Saoula"
+msgstr "سطاوالي"
+
+#: inc/cities-dz.php:662
+msgid "Aïn Chouhada"
+msgstr "عين الشهداء"
+
+#: inc/cities-dz.php:663
+msgid "Aïn El Ibel"
+msgstr "عين الابل"
+
+#: inc/cities-dz.php:664
+msgid "Aïn Feka"
+msgstr "عين افقه"
+
+#: inc/cities-dz.php:665
+msgid "Aïn Maabed"
+msgstr "عين معبد"
+
+#: inc/cities-dz.php:666
+msgid "Aïn Oussara"
+msgstr "عين وسارة"
+
+#: inc/cities-dz.php:667
+msgid "Amourah"
+msgstr "عمورة"
+
+#: inc/cities-dz.php:668
+msgid "Benhar"
+msgstr "بنهار"
+
+#: inc/cities-dz.php:669
+msgid "Beni Yagoub"
+msgstr "بني يعقوب"
+
+#: inc/cities-dz.php:670
+msgid "Birine"
+msgstr "بيرين"
+
+#: inc/cities-dz.php:671
+msgid "Bouira Lahdab"
+msgstr "البويرة الحداب"
+
+#: inc/cities-dz.php:672
+msgid "Charef"
+msgstr "شارف"
+
+#: inc/cities-dz.php:673
+msgid "Dar Chioukh"
+msgstr "دار شيخ"
+
+#: inc/cities-dz.php:675
+msgid "Djelfa"
+msgstr "الجلفة"
+
+#: inc/cities-dz.php:676
+msgid "Douis"
+msgstr "دويس"
+
+#: inc/cities-dz.php:677
+msgid "El Guedid"
+msgstr "الجديد"
+
+#: inc/cities-dz.php:678
+msgid "El Idrissia"
+msgstr "الإدريسية"
+
+#: inc/cities-dz.php:679
+msgid "El Khemis"
+msgstr "الخميس"
+
+#: inc/cities-dz.php:680
+msgid "Faidh El Botma"
+msgstr "فيض البطمة"
+
+#: inc/cities-dz.php:681
+msgid "Guernini"
+msgstr "غيرنيني"
+
+#: inc/cities-dz.php:682
+msgid "Guettara"
+msgstr "قيتارا"
+
+#: inc/cities-dz.php:683
+msgid "Had Sahary"
+msgstr "حد صحاري"
+
+#: inc/cities-dz.php:684
+msgid "Hassi Bahbah"
+msgstr "حاسي بحبح"
+
+#: inc/cities-dz.php:685
+msgid "Hassi El Euch"
+msgstr "حاسي العوش"
+
+#: inc/cities-dz.php:686
+msgid "Hassi Fedoul"
+msgstr "حاسي فضول"
+
+#: inc/cities-dz.php:687
+msgid "Messaad"
+msgstr "مسعد"
+
+#: inc/cities-dz.php:688
+msgid "M'Liliha"
+msgstr "مليليحة"
+
+#: inc/cities-dz.php:689
+msgid "Moudjebara"
+msgstr "مودجبارة"
+
+#: inc/cities-dz.php:690
+msgid "Oum Laadham"
+msgstr "ام لادهم"
+
+#: inc/cities-dz.php:691
+msgid "Sed Rahal"
+msgstr "سيد رحال"
+
+#: inc/cities-dz.php:692
+msgid "Selmana"
+msgstr "سلمانا"
+
+#: inc/cities-dz.php:693
+msgid "Sidi Baizid"
+msgstr "سيدي بايزيد"
+
+#: inc/cities-dz.php:694
+msgid "Sidi Ladjel"
+msgstr "سيدي لعجل"
+
+#: inc/cities-dz.php:695
+msgid "Tadmit"
+msgstr "تدميت"
+
+#: inc/cities-dz.php:696
+msgid "Zaafrane"
+msgstr "زعفران"
+
+#: inc/cities-dz.php:697
+msgid "Zaccar"
+msgstr "زكار"
+
+#: inc/cities-dz.php:701
+msgid "Jijel"
+msgstr "جيجل"
+
+#: inc/cities-dz.php:702
+msgid "Eraguene"
+msgstr "إيراغوين"
+
+#: inc/cities-dz.php:703
+msgid "El Aouana"
+msgstr "العونة"
+
+#: inc/cities-dz.php:704
+msgid "Ziama Mansouriah"
+msgstr "زيامة المنصورية"
+
+#: inc/cities-dz.php:705
+msgid "Taher"
+msgstr "طاهر"
+
+#: inc/cities-dz.php:706
+msgid "Emir Abdelkader"
+msgstr "الأمير عبد القادر"
+
+#: inc/cities-dz.php:707
+msgid "Chekfa"
+msgstr "الشقفة"
+
+#: inc/cities-dz.php:708
+msgid "Chahna"
+msgstr "شاهنا"
+
+#: inc/cities-dz.php:709
+msgid "El Milia"
+msgstr "الميليا"
+
+#: inc/cities-dz.php:710
+msgid "Sidi Maarouf"
+msgstr "سيدي معروف"
+
+#: inc/cities-dz.php:711
+msgid "Settara"
+msgstr "سيتارا"
+
+#: inc/cities-dz.php:712
+msgid "El Ancer"
+msgstr "الأنسر"
+
+#: inc/cities-dz.php:713
+msgid "Sidi Abdelaziz"
+msgstr "سيدي عبد العزيز"
+
+#: inc/cities-dz.php:714
+msgid "Kaous"
+msgstr "كاوس"
+
+#: inc/cities-dz.php:715
+msgid "Ghebala"
+msgstr "غبالة"
+
+#: inc/cities-dz.php:716
+msgid "Bouraoui Belhadef"
+msgstr "بُراوي بلحديف"
+
+#: inc/cities-dz.php:717
+msgid "Djimla"
+msgstr "جملة"
+
+#: inc/cities-dz.php:718
+msgid "Selma Benziada"
+msgstr "سلمى بن زيادة"
+
+#: inc/cities-dz.php:719
+msgid "Boucif Ouled Askeur"
+msgstr "بوسيف ولاد أسكور"
+
+#: inc/cities-dz.php:720
+msgid "El Kennar Nouchfi"
+msgstr "الكنار نوشفي"
+
+#: inc/cities-dz.php:721
+msgid "Ouled Yahia Khedrouche"
+msgstr "ولاد يحيى خروش"
+
+#: inc/cities-dz.php:722
+msgid "Boudriaa Ben Yadjis"
+msgstr "بدرية بن ياجس"
+
+#: inc/cities-dz.php:723
+msgid "Kheïri Oued Adjoul"
+msgstr "خيري واد ادجول"
+
+#: inc/cities-dz.php:724
+msgid "Texenna"
+msgstr "تكسينا"
+
+#: inc/cities-dz.php:725
+msgid "Djemaa Beni Habibi"
+msgstr "جامع بني حبيبي"
+
+#: inc/cities-dz.php:726
+msgid "Bordj Tahar"
+msgstr "برج الطاهر"
+
+#: inc/cities-dz.php:727
+msgid "Ouled Rabah"
+msgstr "ولاد رباح"
+
+#: inc/cities-dz.php:728
+msgid "Ouadjana"
+msgstr "وادجانا"
+
+#: inc/cities-dz.php:732
+msgid "Aïn Abessa"
+msgstr "عين عباسة"
+
+#: inc/cities-dz.php:733
+msgid "Aïn Arnat"
+msgstr "عين عرنات"
+
+#: inc/cities-dz.php:734
+msgid "Aïn Azel"
+msgstr "عين ازال"
+
+#: inc/cities-dz.php:735
+msgid "Aïn El Kebira"
+msgstr "عين الكبيرة"
+
+#: inc/cities-dz.php:736
+msgid "Aïn Lahdjar"
+msgstr "عين الحجر"
+
+#: inc/cities-dz.php:737
+msgid "Aïn Legradj"
+msgstr "عين لقراج"
+
+#: inc/cities-dz.php:738
+msgid "Aïn Oulmene"
+msgstr "عين ولمان"
+
+#: inc/cities-dz.php:739
+msgid "Aïn Roua"
+msgstr "عين رؤى"
+
+#: inc/cities-dz.php:740
+msgid "Aïn Sebt"
+msgstr "عين سبت"
+
+#: inc/cities-dz.php:741
+msgid "Aït Naoual Mezada"
+msgstr "آيت نوال مزادة"
+
+#: inc/cities-dz.php:742
+msgid "Aït Tizi"
+msgstr "آيت تيزي"
+
+#: inc/cities-dz.php:743
+msgid "Aït Wertilan"
+msgstr "آيت ورتيلان"
+
+#: inc/cities-dz.php:744
+msgid "Amoucha"
+msgstr "عموشة"
+
+#: inc/cities-dz.php:745
+msgid "Babor"
+msgstr "بابور"
+
+#: inc/cities-dz.php:746
+msgid "Bazer Sakhra"
+msgstr "بازر صخرة"
+
+#: inc/cities-dz.php:747
+msgid "Beidha Bordj"
+msgstr "البيضا برج"
+
+#: inc/cities-dz.php:748
+msgid "Belaa"
+msgstr "بلعا"
+
+#: inc/cities-dz.php:749
+msgid "Beni Aziz"
+msgstr "بني عزيز"
+
+#: inc/cities-dz.php:750
+msgid "Beni Chebana"
+msgstr "بني شبانة"
+
+#: inc/cities-dz.php:751
+msgid "Beni Fouda"
+msgstr "بني فودة"
+
+#: inc/cities-dz.php:752
+msgid "Beni Hocine"
+msgstr "بني حسين"
+
+#: inc/cities-dz.php:753
+msgid "Beni Mouhli"
+msgstr "بني موهلي"
+
+#: inc/cities-dz.php:754
+msgid "Bir El Arch"
+msgstr "بير القوس"
+
+#: inc/cities-dz.php:755
+msgid "Bir Haddada"
+msgstr "بير حداده"
+
+#: inc/cities-dz.php:756
+msgid "Bouandas"
+msgstr "بوعنداس"
+
+#: inc/cities-dz.php:757
+msgid "Bougaa"
+msgstr "بوقاعة"
+
+#: inc/cities-dz.php:758
+msgid "Bousselam"
+msgstr "بوسلام"
+
+#: inc/cities-dz.php:759
+msgid "Boutaleb"
+msgstr "بوطالب"
+
+#: inc/cities-dz.php:760
+msgid "Dehamcha"
+msgstr "دهامشا"
+
+#: inc/cities-dz.php:761
+msgid "Djemila"
+msgstr "جميلة"
+
+#: inc/cities-dz.php:762
+msgid "Draa Kebila"
+msgstr "درعة قبيلة"
+
+#: inc/cities-dz.php:763
+msgid "El Eulma"
+msgstr "العلمة"
+
+#: inc/cities-dz.php:764 inc/cities-dz.php:1661
+msgid "El Ouldja"
+msgstr "الولدجا"
+
+#: inc/cities-dz.php:765
+msgid "El Ouricia"
+msgstr "العوريقية"
+
+#: inc/cities-dz.php:766
+msgid "Guellal"
+msgstr "جلال"
+
+#: inc/cities-dz.php:767
+msgid "Guelta Zerka"
+msgstr "جيلتا زيركا"
+
+#: inc/cities-dz.php:768
+msgid "Guenzet"
+msgstr "قنزات"
+
+#: inc/cities-dz.php:769
+msgid "Guidjel"
+msgstr "جويدجل"
+
+#: inc/cities-dz.php:770
+msgid "Hamma"
+msgstr "حمة"
+
+#: inc/cities-dz.php:771
+msgid "Hammam Guergour"
+msgstr "حمام قرقور"
+
+#: inc/cities-dz.php:772
+msgid "Hammam Soukhna"
+msgstr "حمام السخنة"
+
+#: inc/cities-dz.php:773
+msgid "Harbil"
+msgstr "حربيل"
+
+#: inc/cities-dz.php:774
+msgid "Ksar El Abtal"
+msgstr "قصر الابطال"
+
+#: inc/cities-dz.php:775
+msgid "Maaouia"
+msgstr "معاوية"
+
+#: inc/cities-dz.php:776
+msgid "Maoklane"
+msgstr "ماوكلين"
+
+#: inc/cities-dz.php:777
+msgid "Mezloug"
+msgstr "مزلوق"
+
+#: inc/cities-dz.php:778
+msgid "Oued El Barad"
+msgstr "وادي البرد"
+
+#: inc/cities-dz.php:779
+msgid "Ouled Addouane"
+msgstr "ولاد الدوان"
+
+#: inc/cities-dz.php:780
+msgid "Ouled Sabor"
+msgstr "أولاد سابور"
+
+#: inc/cities-dz.php:781
+msgid "Ouled Si Ahmed"
+msgstr "أولاد سي أحمد"
+
+#: inc/cities-dz.php:782
+msgid "Ouled Tebben"
+msgstr "أولاد تبين"
+
+#: inc/cities-dz.php:783
+msgid "Rasfa"
+msgstr "رصفة"
+
+#: inc/cities-dz.php:784
+msgid "Salah Bey"
+msgstr "صلاح بك"
+
+#: inc/cities-dz.php:785
+msgid "Serdj El Ghoul"
+msgstr "سيرج الغول"
+
+#: inc/cities-dz.php:786
+msgid "Sétif"
+msgstr "سطيف"
+
+#: inc/cities-dz.php:787
+msgid "Tachouda"
+msgstr "تاشودة"
+
+#: inc/cities-dz.php:788
+msgid "Talaifacene"
+msgstr "تالايفاسين"
+
+#: inc/cities-dz.php:789
+msgid "Taya"
+msgstr "طايع"
+
+#: inc/cities-dz.php:790
+msgid "Tella"
+msgstr "تيلا"
+
+#: inc/cities-dz.php:791
+msgid "Tizi N'Bechar"
+msgstr "تيزي نبشر"
+
+#: inc/cities-dz.php:796
+msgid "Aïn Sekhouna"
+msgstr "عين السخونة"
+
+#: inc/cities-dz.php:797 inc/cities-dz.php:1469 inc/cities-dz.php:1551
+msgid "Aïn Soltane"
+msgstr "عين سلطان"
+
+#: inc/cities-dz.php:798
+msgid "Doui Thabet"
+msgstr "دوي ثابت"
+
+#: inc/cities-dz.php:799
+msgid "El Hassasna"
+msgstr "الحساسنة"
+
+#: inc/cities-dz.php:800
+msgid "Hounet"
+msgstr "هونيت"
+
+#: inc/cities-dz.php:802
+msgid "Moulay Larbi"
+msgstr "مولاي العربي"
+
+#: inc/cities-dz.php:803 inc/cities-dz.php:1018
+msgid "Ouled Brahim"
+msgstr "ولاد ابراهيم"
+
+#: inc/cities-dz.php:804
+msgid "Ouled Khaled"
+msgstr "ولاد خالد"
+
+#: inc/cities-dz.php:805
+msgid "Saïda"
+msgstr "صيدا"
+
+#: inc/cities-dz.php:806
+msgid "Sidi Ahmed"
+msgstr "سيدي احمد"
+
+#: inc/cities-dz.php:807 inc/cities-dz.php:920 inc/cities-dz.php:1489
+msgid "Sidi Amar"
+msgstr "سيدي عمار"
+
+#: inc/cities-dz.php:808
+msgid "Sidi Boubekeur"
+msgstr "سيدي بوبكر"
+
+#: inc/cities-dz.php:809
+msgid "Tircine"
+msgstr "تيرسين"
+
+#: inc/cities-dz.php:810
+msgid "Youb"
+msgstr "يوب"
+
+#: inc/cities-dz.php:814
+msgid "Aïn Bouziane"
+msgstr "عين بوزيان"
+
+#: inc/cities-dz.php:815
+msgid "Aïn Charchar"
+msgstr "عين شرشار"
+
+#: inc/cities-dz.php:816
+msgid "Aïn Kechra"
+msgstr "عين كشرة"
+
+#: inc/cities-dz.php:817
+msgid "Aïn Zouit"
+msgstr "عين الزويت"
+
+#: inc/cities-dz.php:818
+msgid "Azzaba"
+msgstr "عزة"
+
+#: inc/cities-dz.php:819
+msgid "Bekkouche Lakhdar"
+msgstr "بكوش لاخضر"
+
+#: inc/cities-dz.php:820
+msgid "Bin El Ouiden"
+msgstr "بن الويدان"
+
+#: inc/cities-dz.php:821
+msgid "Ben Azzouz"
+msgstr "بن عزوز"
+
+#: inc/cities-dz.php:822
+msgid "Beni Bechir"
+msgstr "بني بشير"
+
+#: inc/cities-dz.php:823
+msgid "Beni Oulbane"
+msgstr "بني أولبان"
+
+#: inc/cities-dz.php:824
+msgid "Beni Zid"
+msgstr "بني زيد"
+
+#: inc/cities-dz.php:825
+msgid "Bouchtata"
+msgstr "بوشتاتا"
+
+#: inc/cities-dz.php:826
+msgid "Cheraia"
+msgstr "شيرايا"
+
+#: inc/cities-dz.php:827
+msgid "Collo"
+msgstr "كولو"
+
+#: inc/cities-dz.php:828
+msgid "Djendel Saadi Mohamed"
+msgstr "جندل السعدي محمد"
+
+#: inc/cities-dz.php:829
+msgid "El Ghedir"
+msgstr "الغدير"
+
+#: inc/cities-dz.php:830
+msgid "El Hadaiek"
+msgstr "الحدائق"
+
+#: inc/cities-dz.php:831
+msgid "El Harrouch"
+msgstr "الحروش"
+
+#: inc/cities-dz.php:833
+msgid "Emdjez Edchich"
+msgstr "امجيز ادشيش"
+
+#: inc/cities-dz.php:834
+msgid "Es Sebt"
+msgstr "وسبت"
+
+#: inc/cities-dz.php:835
+msgid "Filfila"
+msgstr "فلفلة"
+
+#: inc/cities-dz.php:836
+msgid "Hamadi Krouma"
+msgstr "حمادي كروما"
+
+#: inc/cities-dz.php:837
+msgid "Kanoua"
+msgstr "كانوة"
+
+#: inc/cities-dz.php:838
+msgid "Kerkera"
+msgstr "كيركيرا"
+
+#: inc/cities-dz.php:839
+msgid "Kheneg Mayoum"
+msgstr "خنق ميوم"
+
+#: inc/cities-dz.php:840
+msgid "Oued Zehour"
+msgstr "واد زهور"
+
+#: inc/cities-dz.php:841
+msgid "Ouldja Boulballout"
+msgstr "ولج بلبلوط"
+
+#: inc/cities-dz.php:842
+msgid "Ouled Attia"
+msgstr "أولاد عطية"
+
+#: inc/cities-dz.php:843
+msgid "Ouled Hbaba"
+msgstr "أولاد حبابة"
+
+#: inc/cities-dz.php:844
+msgid "Oum Toub"
+msgstr "أم طوب"
+
+#: inc/cities-dz.php:845
+msgid "Ramdane Djamel"
+msgstr "رمضان جمال"
+
+#: inc/cities-dz.php:846
+msgid "Salah Bouchaour"
+msgstr "صلاح بوشور"
+
+#: inc/cities-dz.php:847
+msgid "Sidi Mezghiche"
+msgstr "سيدي مزغيش"
+
+#: inc/cities-dz.php:848
+msgid "Skikda"
+msgstr "سكيكدة"
+
+#: inc/cities-dz.php:849
+msgid "Tamalous"
+msgstr "تمالوس"
+
+#: inc/cities-dz.php:850
+msgid "Zerdaza"
+msgstr "زردازة"
+
+#: inc/cities-dz.php:851 inc/cities-dz.php:1361
+msgid "Zitouna"
+msgstr "الزيتونة"
+
+#: inc/cities-dz.php:855
+msgid "Aïn Adden"
+msgstr "عين آدن"
+
+#: inc/cities-dz.php:856
+msgid "Aïn El Berd"
+msgstr "عين البرد"
+
+#: inc/cities-dz.php:857
+msgid "Aïn Kada"
+msgstr "عين قادة"
+
+#: inc/cities-dz.php:858
+msgid "Aïn Thrid"
+msgstr "عين ثريد"
+
+#: inc/cities-dz.php:859
+msgid "Aïn Tindamine"
+msgstr "عين تندامين"
+
+#: inc/cities-dz.php:860
+msgid "Amarnas"
+msgstr "امارناس"
+
+#: inc/cities-dz.php:861
+msgid "Badredine El Mokrani"
+msgstr "بدر الدين المقراني"
+
+#: inc/cities-dz.php:862
+msgid "Belarbi"
+msgstr "بلعربي"
+
+#: inc/cities-dz.php:863
+msgid "Ben Badis"
+msgstr "بن باديس"
+
+#: inc/cities-dz.php:864
+msgid "Benachiba Chelia"
+msgstr "بنعشيبا تشيليا"
+
+#: inc/cities-dz.php:865
+msgid "Bir El Hammam"
+msgstr "بير الحمام"
+
+#: inc/cities-dz.php:866
+msgid "Boudjebaa El Bordj"
+msgstr "بوجبع البرج"
+
+#: inc/cities-dz.php:867
+msgid "Boukhanafis"
+msgstr "بوخنفيس"
+
+#: inc/cities-dz.php:868
+msgid "Chettouane Belaila"
+msgstr "شطوان بليلة"
+
+#: inc/cities-dz.php:869
+msgid "Dhaya"
+msgstr "ضياء"
+
+#: inc/cities-dz.php:870
+msgid "El Haçaiba"
+msgstr "الحشيبة"
+
+#: inc/cities-dz.php:871
+msgid "Hassi Dahou"
+msgstr "حاسي دحو"
+
+#: inc/cities-dz.php:872
+msgid "Hassi Zehana"
+msgstr "حاسي زهانة"
+
+#: inc/cities-dz.php:873
+msgid "Lamtar"
+msgstr "لمتر"
+
+#: inc/cities-dz.php:874
+msgid "Makedra"
+msgstr "مقدرة"
+
+#: inc/cities-dz.php:875
+msgid "Marhoum"
+msgstr "مرحوم"
+
+#: inc/cities-dz.php:876
+msgid "M'Cid"
+msgstr "مسيد"
+
+#: inc/cities-dz.php:877
+msgid "Merine"
+msgstr "ميرين"
+
+#: inc/cities-dz.php:878
+msgid "Mezaourou"
+msgstr "ميزورو"
+
+#: inc/cities-dz.php:879
+msgid "Mostefa Ben Brahim"
+msgstr "مصطفى بن ابراهيم"
+
+#: inc/cities-dz.php:880
+msgid "Moulay Slissen"
+msgstr "مولاي سليسن"
+
+#: inc/cities-dz.php:881
+msgid "Oued Sebaa"
+msgstr "وادي السبع"
+
+#: inc/cities-dz.php:882
+msgid "Oued Sefioun"
+msgstr "واد صفيون"
+
+#: inc/cities-dz.php:883
+msgid "Oued Taourira"
+msgstr "واد تاورية"
+
+#: inc/cities-dz.php:884
+msgid "Ras El Ma"
+msgstr "رأس الماء"
+
+#: inc/cities-dz.php:885
+msgid "Redjem Demouche"
+msgstr "رجم دموش"
+
+#: inc/cities-dz.php:886
+msgid "Sehala Thaoura"
+msgstr "سهالة ثورة"
+
+#: inc/cities-dz.php:887
+msgid "Sfisef"
+msgstr "سفيصف"
+
+#: inc/cities-dz.php:888
+msgid "Sidi Ali Benyoub"
+msgstr "سيدي علي بنيوب"
+
+#: inc/cities-dz.php:889
+msgid "Sidi Ali Boussidi"
+msgstr "سيدي علي بوسيدي"
+
+#: inc/cities-dz.php:890
+msgid "Sidi Bel Abbes"
+msgstr "سيدي بلعباس"
+
+#: inc/cities-dz.php:891
+msgid "Sidi Brahim"
+msgstr "سيدي ابراهيم"
+
+#: inc/cities-dz.php:892
+msgid "Sidi Chaib"
+msgstr "سيدي شعيب"
+
+#: inc/cities-dz.php:893
+msgid "Sidi Daho des Zairs"
+msgstr "سيدي داهو دي زيرس"
+
+#: inc/cities-dz.php:894
+msgid "Sidi Hamadouche"
+msgstr "سيدي حمدوش"
+
+#: inc/cities-dz.php:896
+msgid "Sidi Lahcene"
+msgstr "سيدي لحسن"
+
+#: inc/cities-dz.php:897
+msgid "Sidi Yacoub"
+msgstr "سيدي يعقوب"
+
+#: inc/cities-dz.php:898
+msgid "Tabia"
+msgstr "تابيا"
+
+#: inc/cities-dz.php:899
+msgid "Tafissour"
+msgstr "تفسور"
+
+#: inc/cities-dz.php:900
+msgid "Taoudmout"
+msgstr "تاودموت"
+
+#: inc/cities-dz.php:901
+msgid "Teghalimet"
+msgstr "تغاليمت"
+
+#: inc/cities-dz.php:902
+msgid "Telagh"
+msgstr "تلغ"
+
+#: inc/cities-dz.php:903
+msgid "Tenira"
+msgstr "تينيرا"
+
+#: inc/cities-dz.php:904
+msgid "Tessala"
+msgstr "تيسالا"
+
+#: inc/cities-dz.php:905
+msgid "Tilmouni"
+msgstr "التلموني"
+
+#: inc/cities-dz.php:906
+msgid "Zerouala"
+msgstr "زروالة"
+
+#: inc/cities-dz.php:910
+msgid "Annaba"
+msgstr "عنابة"
+
+#: inc/cities-dz.php:911
+msgid "Berrahal"
+msgstr "براهال"
+
+#: inc/cities-dz.php:912
+msgid "El Hadjar"
+msgstr "الحجار"
+
+#: inc/cities-dz.php:913
+msgid "Eulma"
+msgstr "أولما"
+
+#: inc/cities-dz.php:914
+msgid "El Bouni"
+msgstr "البوني"
+
+#: inc/cities-dz.php:915
+msgid "Oued El Aneb"
+msgstr "واد العنب"
+
+#: inc/cities-dz.php:916
+msgid "Cheurfa"
+msgstr "الشرفة"
+
+#: inc/cities-dz.php:917
+msgid "Seraïdi"
+msgstr "سرايدي"
+
+#: inc/cities-dz.php:918
+msgid "Aïn Berda"
+msgstr "عين الباردة"
+
+#: inc/cities-dz.php:919
+msgid "Chetaïbi"
+msgstr "شيتاوبي"
+
+#: inc/cities-dz.php:921
+msgid "Treat"
+msgstr "يعامل"
+
+#: inc/cities-dz.php:925
+msgid "Aïn Ben Beida"
+msgstr "عين بن بيضاء"
+
+#: inc/cities-dz.php:926
+msgid "Aïn Larbi"
+msgstr "عين العربي"
+
+#: inc/cities-dz.php:927
+msgid "Aïn Makhlouf"
+msgstr "عين مخلوف"
+
+#: inc/cities-dz.php:928
+msgid "Aïn Reggada"
+msgstr "عين رقادة"
+
+#: inc/cities-dz.php:929
+msgid "Aïn Sandel"
+msgstr "عين صندل"
+
+#: inc/cities-dz.php:930
+msgid "Belkheir"
+msgstr "بلخير"
+
+#: inc/cities-dz.php:931
+msgid "Ben Djerrah"
+msgstr "بن جراح"
+
+#: inc/cities-dz.php:932
+msgid "Beni Mezline"
+msgstr "بني مزلين"
+
+#: inc/cities-dz.php:933
+msgid "Bordj Sabath"
+msgstr "برج السبت"
+
+#: inc/cities-dz.php:934
+msgid "Bouhachana"
+msgstr "بوحشانة"
+
+#: inc/cities-dz.php:935
+msgid "Bouhamdane"
+msgstr "بو حمدان"
+
+#: inc/cities-dz.php:936
+msgid "Bouati Mahmoud"
+msgstr "بواتي محمود"
+
+#: inc/cities-dz.php:937
+msgid "Bouchegouf"
+msgstr "بوشجوف"
+
+#: inc/cities-dz.php:938
+msgid "Boumahra Ahmed"
+msgstr "بومهرة أحمد"
+
+#: inc/cities-dz.php:939
+msgid "Dahouara"
+msgstr "دحوارة"
+
+#: inc/cities-dz.php:940
+msgid "Djeballah Khemissi"
+msgstr "جب الله الخميسي"
+
+#: inc/cities-dz.php:941
+msgid "El Fedjoudj"
+msgstr "الفجوج"
+
+#: inc/cities-dz.php:942
+msgid "Guellat Bou Sbaa"
+msgstr "قلة بو سبع"
+
+#: inc/cities-dz.php:943
+msgid "Guelma"
+msgstr "قالمة"
+
+#: inc/cities-dz.php:944
+msgid "Hammam Debagh"
+msgstr "همام دباغ"
+
+#: inc/cities-dz.php:945
+msgid "Hammam N'Bail"
+msgstr "همام نبيل"
+
+#: inc/cities-dz.php:946
+msgid "Héliopolis"
+msgstr "مصر الجديدة"
+
+#: inc/cities-dz.php:947
+msgid "Houari Boumédiène"
+msgstr "هواري بومدين"
+
+#: inc/cities-dz.php:948
+msgid "Khezarra"
+msgstr "خزره"
+
+#: inc/cities-dz.php:949
+msgid "Medjez Amar"
+msgstr "مجز عمار"
+
+#: inc/cities-dz.php:950
+msgid "Medjez Sfa"
+msgstr "مجاز الصفاء"
+
+#: inc/cities-dz.php:951
+msgid "Nechmaya"
+msgstr "نشمايا"
+
+#: inc/cities-dz.php:952
+msgid "Oued Cheham"
+msgstr "واد شهام"
+
+#: inc/cities-dz.php:953
+msgid "Oued Fragha"
+msgstr "واد فراغة"
+
+#: inc/cities-dz.php:954
+msgid "Oued Zenati"
+msgstr "واد زناتي"
+
+#: inc/cities-dz.php:955
+msgid "Ras El Agba"
+msgstr "رأس العجبه"
+
+#: inc/cities-dz.php:956
+msgid "Roknia"
+msgstr "روكنيا"
+
+#: inc/cities-dz.php:957
+msgid "Sellaoua Announa"
+msgstr "سيلاوة عنونة"
+
+#: inc/cities-dz.php:958
+msgid "Tamlouka"
+msgstr "تملوكة"
+
+#: inc/cities-dz.php:962
+msgid "Aïn Abid"
+msgstr "عين عبيد"
+
+#: inc/cities-dz.php:963
+msgid "Aïn Smara"
+msgstr "عين السمارة"
+
+#: inc/cities-dz.php:964
+msgid "Beni Hamiden"
+msgstr "بني حميدن"
+
+#: inc/cities-dz.php:965
+msgid "Constantine"
+msgstr "قسنطينة"
+
+#: inc/cities-dz.php:966
+msgid "Didouche Mourad"
+msgstr "ديدوش مراد"
+
+#: inc/cities-dz.php:967
+msgid "El Khroub"
+msgstr "الخروب"
+
+#: inc/cities-dz.php:968
+msgid "Hamma Bouziane"
+msgstr "حمة بوزيان"
+
+#: inc/cities-dz.php:969
+msgid "Ibn Badis"
+msgstr "ابن باديس"
+
+#: inc/cities-dz.php:970
+msgid "Ibn Ziad"
+msgstr "ابن زياد"
+
+#: inc/cities-dz.php:971
+msgid "Messaoud Boudjriou"
+msgstr "مسعود بوجريو"
+
+#: inc/cities-dz.php:972
+msgid "Ouled Rahmoune"
+msgstr "ولاد رحمون"
+
+#: inc/cities-dz.php:973
+msgid "Zighoud Youcef"
+msgstr "زيغود يوسف"
+
+#: inc/cities-dz.php:977
+msgid "Aïn Boucif"
+msgstr "عين بوسيف"
+
+#: inc/cities-dz.php:978
+msgid "Aïn Ouksir"
+msgstr "عين القصير"
+
+#: inc/cities-dz.php:979
+msgid "Aissaouia"
+msgstr "العيساوية"
+
+#: inc/cities-dz.php:980
+msgid "Aziz"
+msgstr "عزيز"
+
+#: inc/cities-dz.php:981
+msgid "Baata"
+msgstr "باتا"
+
+#: inc/cities-dz.php:982
+msgid "Benchicao"
+msgstr "بن شكاو"
+
+#: inc/cities-dz.php:983
+msgid "Beni Slimane"
+msgstr "بني سليمان"
+
+#: inc/cities-dz.php:984
+msgid "Berrouaghia"
+msgstr "البرواقية"
+
+#: inc/cities-dz.php:985
+msgid "Bir Ben Laabed"
+msgstr "بير بن لعبد"
+
+#: inc/cities-dz.php:986
+msgid "Boghar"
+msgstr "بوغار"
+
+#: inc/cities-dz.php:987
+msgid "Bou Aiche"
+msgstr "بو عيش"
+
+#: inc/cities-dz.php:988
+msgid "Bouaichoune"
+msgstr "بويشون"
+
+#: inc/cities-dz.php:989
+msgid "Bouchrahil"
+msgstr "بوشراحيل"
+
+#: inc/cities-dz.php:990
+msgid "Boughezoul"
+msgstr "بوقزول"
+
+#: inc/cities-dz.php:991
+msgid "Bouskene"
+msgstr "بوسكين"
+
+#: inc/cities-dz.php:992
+msgid "Chahbounia"
+msgstr "شحبونيا"
+
+#: inc/cities-dz.php:993
+msgid "Chellalet El Adhaoura"
+msgstr "شلاله الضوره"
+
+#: inc/cities-dz.php:994
+msgid "Cheniguel"
+msgstr "تشينيجيل"
+
+#: inc/cities-dz.php:995
+msgid "Derrag"
+msgstr "ديراج"
+
+#: inc/cities-dz.php:996
+msgid "Deux Bassins"
+msgstr "أحواض دوكس"
+
+#: inc/cities-dz.php:997
+msgid "Djouab"
+msgstr "جواب"
+
+#: inc/cities-dz.php:998
+msgid "Draa Essamar"
+msgstr "درعة عصام"
+
+#: inc/cities-dz.php:999
+msgid "El Azizia"
+msgstr "العزيزية"
+
+#: inc/cities-dz.php:1000
+msgid "El Guelb El Kebir"
+msgstr "الجيلب الكبير"
+
+#: inc/cities-dz.php:1001
+msgid "El Hamdania"
+msgstr "الحمدانية"
+
+#: inc/cities-dz.php:1002
+msgid "El Omaria"
+msgstr "العمرية"
+
+#: inc/cities-dz.php:1003
+msgid "El Ouinet"
+msgstr "العوينيت"
+
+#: inc/cities-dz.php:1004
+msgid "Hannacha"
+msgstr "حناشا"
+
+#: inc/cities-dz.php:1005
+msgid "Kef Lakhdar"
+msgstr "الكاف لاخضر"
+
+#: inc/cities-dz.php:1006
+msgid "Khams Djouamaa"
+msgstr "خمس جمعة"
+
+#: inc/cities-dz.php:1007
+msgid "Ksar Boukhari"
+msgstr "قصر البخاري"
+
+#: inc/cities-dz.php:1008
+msgid "Meghraoua"
+msgstr "مغراوة"
+
+#: inc/cities-dz.php:1009
+msgid "Médéa"
+msgstr "ميديا"
+
+#: inc/cities-dz.php:1010
+msgid "Moudjbar"
+msgstr "مجبر"
+
+#: inc/cities-dz.php:1011
+msgid "Meftaha"
+msgstr "مفتاحة"
+
+#: inc/cities-dz.php:1012
+msgid "Mezerana"
+msgstr "مزغنة"
+
+#: inc/cities-dz.php:1013
+msgid "Mihoub"
+msgstr "ميهوب"
+
+#: inc/cities-dz.php:1014
+msgid "Ouamri"
+msgstr "وامرى"
+
+#: inc/cities-dz.php:1015
+msgid "Oued Harbil"
+msgstr "واد حربيل"
+
+#: inc/cities-dz.php:1016
+msgid "Ouled Antar"
+msgstr "ولاد عنتر"
+
+#: inc/cities-dz.php:1017
+msgid "Ouled Bouachra"
+msgstr "ولاد بوعشرة"
+
+#: inc/cities-dz.php:1019
+msgid "Ouled Deide"
+msgstr "أولاد ديدي"
+
+#: inc/cities-dz.php:1020
+msgid "Ouled Hellal"
+msgstr "ولاد هلال"
+
+#: inc/cities-dz.php:1021
+msgid "Ouled Maaref"
+msgstr "ولاد معارف"
+
+#: inc/cities-dz.php:1022
+msgid "Oum El Djalil"
+msgstr "أم الجليل"
+
+#: inc/cities-dz.php:1023
+msgid "Ouzera"
+msgstr "أوزيرة"
+
+#: inc/cities-dz.php:1024
+msgid "Rebaia"
+msgstr "ربيعة"
+
+#: inc/cities-dz.php:1025
+msgid "Saneg"
+msgstr "سانيج"
+
+#: inc/cities-dz.php:1026
+msgid "Sedraia"
+msgstr "سيدرايا"
+
+#: inc/cities-dz.php:1027
+msgid "Seghouane"
+msgstr "صغوان"
+
+#: inc/cities-dz.php:1028
+msgid "Si Mahdjoub"
+msgstr "سي محجوب"
+
+#: inc/cities-dz.php:1029
+msgid "Sidi Damed"
+msgstr "سيدي دام"
+
+#: inc/cities-dz.php:1030
+msgid "Sidi Errabia"
+msgstr "سيدي الربيع"
+
+#: inc/cities-dz.php:1031
+msgid "Sidi Naamanez"
+msgstr "سيدي نعمانيز"
+
+#: inc/cities-dz.php:1032
+msgid "Sidi Zahar"
+msgstr "سيدي زهار"
+
+#: inc/cities-dz.php:1033
+msgid "Sidi Ziane"
+msgstr "سيدي زيان"
+
+#: inc/cities-dz.php:1034
+msgid "Souagui"
+msgstr "سواجي"
+
+#: inc/cities-dz.php:1035
+msgid "Tablat"
+msgstr "طبلة"
+
+#: inc/cities-dz.php:1036
+msgid "Tafraout"
+msgstr "تافراوت"
+
+#: inc/cities-dz.php:1037
+msgid "Tamesguida"
+msgstr "تامسكيدا"
+
+#: inc/cities-dz.php:1038
+msgid "Tizi Mahdi"
+msgstr "تيزي مهدي"
+
+#: inc/cities-dz.php:1039
+msgid "Tlatet Eddouar"
+msgstr "طلعت الدوار"
+
+#: inc/cities-dz.php:1040
+msgid "Zoubiria"
+msgstr "الزبيرية"
+
+#: inc/cities-dz.php:1044
+msgid "Abdelmalek Ramdane"
+msgstr "عبد المالك رمضان"
+
+#: inc/cities-dz.php:1045
+msgid "Achaacha"
+msgstr "عَشْعَاشَة"
+
+#: inc/cities-dz.php:1046
+msgid "Aïn Boudinar"
+msgstr "عين بودينار"
+
+#: inc/cities-dz.php:1047
+msgid "Aïn Nouissy"
+msgstr "عين النويسي"
+
+#: inc/cities-dz.php:1048
+msgid "Aïn Sidi Cherif"
+msgstr "عين سيدي الشريف"
+
+#: inc/cities-dz.php:1049
+msgid "Aïn Tedles"
+msgstr "عين تدلز"
+
+#: inc/cities-dz.php:1050
+msgid "Blad Touahria"
+msgstr "بلاد الطواعية"
+
+#: inc/cities-dz.php:1051
+msgid "Bouguirat"
+msgstr "بوقراط"
+
+#: inc/cities-dz.php:1052
+msgid "El Hassaine"
+msgstr "الحسين"
+
+#: inc/cities-dz.php:1053
+msgid "Fornaka"
+msgstr "فورناكا"
+
+#: inc/cities-dz.php:1054
+msgid "Hadjadj"
+msgstr "حجاج"
+
+#: inc/cities-dz.php:1055
+msgid "Hassi Mameche"
+msgstr "حاسي ماميشي"
+
+#: inc/cities-dz.php:1056
+msgid "Khadra"
+msgstr "خضرة"
+
+#: inc/cities-dz.php:1057
+msgid "Kheireddine"
+msgstr "خير الدين"
+
+#: inc/cities-dz.php:1059
+msgid "Mesra"
+msgstr "ميسرا"
+
+#: inc/cities-dz.php:1060
+msgid "Mazagran"
+msgstr "مزغران"
+
+#: inc/cities-dz.php:1061
+msgid "Mostaganem"
+msgstr "مستغانم"
+
+#: inc/cities-dz.php:1062
+msgid "Nekmaria"
+msgstr "نكماريا"
+
+#: inc/cities-dz.php:1063
+msgid "Oued El Kheir"
+msgstr "وادي الخير"
+
+#: inc/cities-dz.php:1064
+msgid "Ouled Boughalem"
+msgstr "ولاد بوغالم"
+
+#: inc/cities-dz.php:1065
+msgid "Ouled Maallah"
+msgstr "ولاد مالا"
+
+#: inc/cities-dz.php:1066
+msgid "Safsaf"
+msgstr "صفصاف"
+
+#: inc/cities-dz.php:1067
+msgid "Sayada"
+msgstr "صيادة"
+
+#: inc/cities-dz.php:1068
+msgid "Sidi Ali"
+msgstr "سيدي علي"
+
+#: inc/cities-dz.php:1069
+msgid "Sidi Belattar"
+msgstr "سيدي بلعطار"
+
+#: inc/cities-dz.php:1070 inc/cities-dz.php:1578
+msgid "Sidi Lakhdar"
+msgstr "سيدي لاخضر"
+
+#: inc/cities-dz.php:1071
+msgid "Sirat"
+msgstr "سيرات"
+
+#: inc/cities-dz.php:1072
+msgid "Souaflia"
+msgstr "سوفليا"
+
+#: inc/cities-dz.php:1073
+msgid "Sour"
+msgstr "حامِض"
+
+#: inc/cities-dz.php:1074
+msgid "Stidia"
+msgstr "ستيديا"
+
+#: inc/cities-dz.php:1075
+msgid "Tazgait"
+msgstr "تزجيت"
+
+#: inc/cities-dz.php:1079
+msgid "Aïn El Hadjel"
+msgstr "عين الحجل"
+
+#: inc/cities-dz.php:1080
+msgid "Aïn El Melh"
+msgstr "عين الملح"
+
+#: inc/cities-dz.php:1081
+msgid "Aïn Errich"
+msgstr "عين الريش"
+
+#: inc/cities-dz.php:1082 inc/cities-dz.php:1129
+msgid "Aïn Fares"
+msgstr "عين فارس"
+
+#: inc/cities-dz.php:1083
+msgid "Aïn Khadra"
+msgstr "عين الخضرة"
+
+#: inc/cities-dz.php:1084
+msgid "Belaiba"
+msgstr "بلعيبة"
+
+#: inc/cities-dz.php:1085
+msgid "Ben Srour"
+msgstr "بن سرور"
+
+#: inc/cities-dz.php:1086
+msgid "Beni Ilmane"
+msgstr "بني إيلمان"
+
+#: inc/cities-dz.php:1087
+msgid "Benzouh"
+msgstr "بنزوح"
+
+#: inc/cities-dz.php:1088
+msgid "Berhoum"
+msgstr "برهوم"
+
+#: inc/cities-dz.php:1089
+msgid "Bir Foda"
+msgstr "بير فودة"
+
+#: inc/cities-dz.php:1090
+msgid "Bou Saâda"
+msgstr "بو سعدة"
+
+#: inc/cities-dz.php:1091
+msgid "Bouti Sayah"
+msgstr "بوطي صياح"
+
+#: inc/cities-dz.php:1092
+msgid "Chellal"
+msgstr "شلال"
+
+#: inc/cities-dz.php:1093
+msgid "Dehahna"
+msgstr "دحنة"
+
+#: inc/cities-dz.php:1094
+msgid "Djebel Messaad"
+msgstr "جبل مسعد"
+
+#: inc/cities-dz.php:1095
+msgid "El Hamel"
+msgstr "الحامل"
+
+#: inc/cities-dz.php:1096
+msgid "El Houamed"
+msgstr "الحوامد"
+
+#: inc/cities-dz.php:1097
+msgid "Hammam Dhalaa"
+msgstr "حمام الضلع"
+
+#: inc/cities-dz.php:1098
+msgid "Khettouti Sed El Djir"
+msgstr "خطوتى سيد الجير"
+
+#: inc/cities-dz.php:1099
+msgid "Khoubana"
+msgstr "خبانة"
+
+#: inc/cities-dz.php:1100
+msgid "Maadid"
+msgstr "المعاضد"
+
+#: inc/cities-dz.php:1101
+msgid "Maarif"
+msgstr "معارف"
+
+#: inc/cities-dz.php:1102
+msgid "Magra"
+msgstr "ماجرا"
+
+#: inc/cities-dz.php:1103
+msgid "M'Cif"
+msgstr "مسيف"
+
+#: inc/cities-dz.php:1104
+msgid "Medjedel"
+msgstr "مجدل"
+
+#: inc/cities-dz.php:1105
+msgid "Mohammed Boudiaf"
+msgstr "محمد بوضياف"
+
+#: inc/cities-dz.php:1106
+msgid "M'Sila"
+msgstr "المسيلة"
+
+#: inc/cities-dz.php:1107
+msgid "M'Tarfa"
+msgstr "مطرفة"
+
+#: inc/cities-dz.php:1108
+msgid "Ouanougha"
+msgstr "ونوغة"
+
+#: inc/cities-dz.php:1109
+msgid "Ouled Addi Guebala"
+msgstr "ولاد عدي قبالة"
+
+#: inc/cities-dz.php:1110
+msgid "Ouled Atia"
+msgstr "أولاد عطية"
+
+#: inc/cities-dz.php:1111
+msgid "Ouled Derradj"
+msgstr "أولاد دراج"
+
+#: inc/cities-dz.php:1112
+msgid "Ouled Madhi"
+msgstr "أولاد ماضي"
+
+#: inc/cities-dz.php:1113
+msgid "Ouled Mansour"
+msgstr "ولاد منصور"
+
+#: inc/cities-dz.php:1114 inc/cities-dz.php:1291
+msgid "Ouled Sidi Brahim"
+msgstr "ولاد سيدي ابراهيم"
+
+#: inc/cities-dz.php:1115
+msgid "Ouled Slimane"
+msgstr "ولاد سليمان"
+
+#: inc/cities-dz.php:1116
+msgid "Oultem"
+msgstr "أولتم"
+
+#: inc/cities-dz.php:1117
+msgid "Sidi Aïssa"
+msgstr "سيدي عيسى"
+
+#: inc/cities-dz.php:1118 inc/cities-dz.php:1249
+msgid "Sidi Ameur"
+msgstr "سيدي عامر"
+
+#: inc/cities-dz.php:1119
+msgid "Sidi Hadjeres"
+msgstr "سيدي حجيريس"
+
+#: inc/cities-dz.php:1121
+msgid "Slim"
+msgstr "معتدل البنيه"
+
+#: inc/cities-dz.php:1122
+msgid "Souamaa"
+msgstr "صومعة"
+
+#: inc/cities-dz.php:1123
+msgid "Tamsa"
+msgstr "تمسا"
+
+#: inc/cities-dz.php:1124
+msgid "Tarmount"
+msgstr "جبل"
+
+#: inc/cities-dz.php:1125
+msgid "Zarzour"
+msgstr "زرزور"
+
+#: inc/cities-dz.php:1130
+msgid "Aïn Fekan"
+msgstr "عين فكان"
+
+#: inc/cities-dz.php:1131
+msgid "Aïn Ferah"
+msgstr "عين فراح"
+
+#: inc/cities-dz.php:1132
+msgid "Aïn Fras"
+msgstr "عين فراس"
+
+#: inc/cities-dz.php:1133
+msgid "Alaïmia"
+msgstr "العالمية"
+
+#: inc/cities-dz.php:1134
+msgid "Aouf"
+msgstr "عوف"
+
+#: inc/cities-dz.php:1135
+msgid "Beniane"
+msgstr "بنيان"
+
+#: inc/cities-dz.php:1136
+msgid "Bou Hanifia"
+msgstr "بو حنيفية"
+
+#: inc/cities-dz.php:1137
+msgid "Bou Henni"
+msgstr "بو حني"
+
+#: inc/cities-dz.php:1139
+msgid "El Bordj"
+msgstr "البرج"
+
+#: inc/cities-dz.php:1140
+msgid "El Gaada"
+msgstr "الجادة"
+
+#: inc/cities-dz.php:1141
+msgid "El Ghomri"
+msgstr "الغمري"
+
+#: inc/cities-dz.php:1142
+msgid "El Guettana"
+msgstr "الغيطانة"
+
+#: inc/cities-dz.php:1143
+msgid "El Keurt"
+msgstr "الكرط"
+
+#: inc/cities-dz.php:1144
+msgid "El Menaouer"
+msgstr "المنور"
+
+#: inc/cities-dz.php:1145
+msgid "Ferraguig"
+msgstr "فيراجويج"
+
+#: inc/cities-dz.php:1146
+msgid "Froha"
+msgstr "فروها"
+
+#: inc/cities-dz.php:1147
+msgid "Gharrous"
+msgstr "غروس"
+
+#: inc/cities-dz.php:1148
+msgid "Guerdjoum"
+msgstr "جرجوم"
+
+#: inc/cities-dz.php:1149
+msgid "Ghriss"
+msgstr "غريس"
+
+#: inc/cities-dz.php:1150
+msgid "Hachem"
+msgstr "هاشم"
+
+#: inc/cities-dz.php:1151
+msgid "Hacine"
+msgstr "حسين"
+
+#: inc/cities-dz.php:1152
+msgid "Khalouia"
+msgstr "خلوية"
+
+#: inc/cities-dz.php:1153
+msgid "Makdha"
+msgstr "مقدها"
+
+#: inc/cities-dz.php:1154
+msgid "Mamounia"
+msgstr "المأمونية"
+
+#: inc/cities-dz.php:1155
+msgid "Maoussa"
+msgstr "موسى"
+
+#: inc/cities-dz.php:1156
+msgid "Mascara"
+msgstr "ماسكارا"
+
+#: inc/cities-dz.php:1157
+msgid "Matemore"
+msgstr "ماتيمور"
+
+#: inc/cities-dz.php:1158
+msgid "Mocta Douz"
+msgstr "موكتا دوز"
+
+#: inc/cities-dz.php:1160
+msgid "Nesmoth"
+msgstr "نسموث"
+
+#: inc/cities-dz.php:1161
+msgid "Oggaz"
+msgstr "اوغاز"
+
+#: inc/cities-dz.php:1162
+msgid "Oued El Abtal"
+msgstr "وادي الابطال"
+
+#: inc/cities-dz.php:1163
+msgid "Oued Taria"
+msgstr "واد تاريا"
+
+#: inc/cities-dz.php:1164
+msgid "Ras El Aïn Amirouche"
+msgstr "رأس العين عميروش"
+
+#: inc/cities-dz.php:1165
+msgid "Sedjerara"
+msgstr "سجرارة"
+
+#: inc/cities-dz.php:1166
+msgid "Sehailia"
+msgstr "سهيليا"
+
+#: inc/cities-dz.php:1167
+msgid "Sidi Abdeldjebar"
+msgstr "سيدي عبد الجبار"
+
+#: inc/cities-dz.php:1168
+msgid "Sidi Abdelmoumen"
+msgstr "سيدي عبد المؤمن"
+
+#: inc/cities-dz.php:1169
+msgid "Sidi Kada"
+msgstr "سيدي كادا"
+
+#: inc/cities-dz.php:1170
+msgid "Sidi Boussaid"
+msgstr "سيدي بوسعيد"
+
+#: inc/cities-dz.php:1171
+msgid "Sig"
+msgstr "سيج"
+
+#: inc/cities-dz.php:1172
+msgid "Tighennif"
+msgstr "تاغنيف"
+
+#: inc/cities-dz.php:1173
+msgid "Tizi"
+msgstr "تيزي"
+
+#: inc/cities-dz.php:1174
+msgid "Zahana"
+msgstr "زهانا"
+
+#: inc/cities-dz.php:1175
+msgid "Zelmata"
+msgstr "زيلماتا"
+
+#: inc/cities-dz.php:1179
+msgid "Aïn Beida"
+msgstr "عين بيضة"
+
+#: inc/cities-dz.php:1180
+msgid "Benaceur"
+msgstr "بن ناصر"
+
+#: inc/cities-dz.php:1181
+msgid "Blidet Amor"
+msgstr "بليديت عمر"
+
+#: inc/cities-dz.php:1182
+msgid "El Allia"
+msgstr "العلية"
+
+#: inc/cities-dz.php:1183
+msgid "El Borma"
+msgstr "البرمة"
+
+#: inc/cities-dz.php:1184
+msgid "El Hadjira"
+msgstr "الحجيرة"
+
+#: inc/cities-dz.php:1185
+msgid "Hassi Ben Abdellah"
+msgstr "حاسي بن عبد الله"
+
+#: inc/cities-dz.php:1186
+msgid "Hassi Messaoud"
+msgstr "حاسي مسعود"
+
+#: inc/cities-dz.php:1187
+msgid "Megarine"
+msgstr "ميجارين"
+
+#: inc/cities-dz.php:1188
+msgid "M'Naguer"
+msgstr "مناقر"
+
+#: inc/cities-dz.php:1189
+msgid "Nezla"
+msgstr "نزلة"
+
+#: inc/cities-dz.php:1190
+msgid "N'Goussa"
+msgstr "نجوسة"
+
+#: inc/cities-dz.php:1191
+msgid "Ouargla"
+msgstr "ورقلة"
+
+#: inc/cities-dz.php:1192
+msgid "Rouissat"
+msgstr "الرويسات"
+
+#: inc/cities-dz.php:1193
+msgid "Sidi Khouiled"
+msgstr "سيدي خويلد"
+
+#: inc/cities-dz.php:1194 inc/cities-dz.php:1252 inc/cities-dz.php:1387
+msgid "Sidi Slimane"
+msgstr "سيدي سليمان"
+
+#: inc/cities-dz.php:1195
+msgid "Taibet"
+msgstr "طيبة"
+
+#: inc/cities-dz.php:1196
+msgid "Tamacine"
+msgstr "طماسين"
+
+#: inc/cities-dz.php:1197
+msgid "Tebesbest"
+msgstr "تيبيسبيست"
+
+#: inc/cities-dz.php:1198
+msgid "Touggourt"
+msgstr "تقرت"
+
+#: inc/cities-dz.php:1199
+msgid "Zaouia El Abidia"
+msgstr "زاوية العبيدية"
+
+#: inc/cities-dz.php:1203
+msgid "Oran"
+msgstr "وهران"
+
+#: inc/cities-dz.php:1204
+msgid "Gdyel"
+msgstr "جديل"
+
+#: inc/cities-dz.php:1205
+msgid "Bir El Djir"
+msgstr "بير الجير"
+
+#: inc/cities-dz.php:1206
+msgid "Hassi Bounif"
+msgstr "حاسي بونيف"
+
+#: inc/cities-dz.php:1207
+msgid "Es Senia"
+msgstr "السنية"
+
+#: inc/cities-dz.php:1208
+msgid "Arzew"
+msgstr "أرزيو"
+
+#: inc/cities-dz.php:1209
+msgid "Bethioua"
+msgstr "بطيوة"
+
+#: inc/cities-dz.php:1210
+msgid "Marsat El Hadjadj"
+msgstr "مرساة الحجاج"
+
+#: inc/cities-dz.php:1211
+msgid "Aïn El Turk"
+msgstr "عين الترك"
+
+#: inc/cities-dz.php:1212
+msgid "El Ançor"
+msgstr "الأنكور"
+
+#: inc/cities-dz.php:1213
+msgid "Oued Tlelat"
+msgstr "واد طللات"
+
+#: inc/cities-dz.php:1214
+msgid "Tafraoui"
+msgstr "التفراوي"
+
+#: inc/cities-dz.php:1215
+msgid "Sidi Chami"
+msgstr "سيدي شامي"
+
+#: inc/cities-dz.php:1216
+msgid "Boufatis"
+msgstr "بوفاطيس"
+
+#: inc/cities-dz.php:1217
+msgid "Mers El Kébir"
+msgstr "مرسى الكبير"
+
+#: inc/cities-dz.php:1218
+msgid "Bou Sfer"
+msgstr "بو صفير"
+
+#: inc/cities-dz.php:1219
+msgid "El Kerma"
+msgstr "الكرمة"
+
+#: inc/cities-dz.php:1220
+msgid "El Braya"
+msgstr "البريا"
+
+#: inc/cities-dz.php:1221
+msgid "Hassi Ben Okba"
+msgstr "حاسي بن عقبة"
+
+#: inc/cities-dz.php:1222
+msgid "Ben Freha"
+msgstr "بن فريحة"
+
+#: inc/cities-dz.php:1223
+msgid "Hassi Mefsoukh"
+msgstr "حاسي مفصوخ"
+
+#: inc/cities-dz.php:1224
+msgid "Sidi Benyebka"
+msgstr "سيدي بنيبكه"
+
+#: inc/cities-dz.php:1225
+msgid "Misserghin"
+msgstr "مسيرجين"
+
+#: inc/cities-dz.php:1226
+msgid "Boutlelis"
+msgstr "بوتليليس"
+
+#: inc/cities-dz.php:1227
+msgid "Aïn El Kerma"
+msgstr "عين الكرمة"
+
+#: inc/cities-dz.php:1228
+msgid "Aïn El Bia"
+msgstr "عين البيا"
+
+#: inc/cities-dz.php:1232
+msgid "El Bayadh"
+msgstr "البيض"
+
+#: inc/cities-dz.php:1233
+msgid "Rogassa"
+msgstr "روغاسا"
+
+#: inc/cities-dz.php:1234
+msgid "Stitten"
+msgstr "ستيتن"
+
+#: inc/cities-dz.php:1235
+msgid "Brezina"
+msgstr "بريزينا"
+
+#: inc/cities-dz.php:1236
+msgid "Ghassoul"
+msgstr "غسول"
+
+#: inc/cities-dz.php:1237
+msgid "Boualem"
+msgstr "بوعلام"
+
+#: inc/cities-dz.php:1238
+msgid "El Abiodh Sidi Cheikh"
+msgstr "الابيود سيدي الشيخ"
+
+#: inc/cities-dz.php:1239
+msgid "Aïn El Orak"
+msgstr "عين العراك"
+
+#: inc/cities-dz.php:1240
+msgid "Arbaouat"
+msgstr "أربوات"
+
+#: inc/cities-dz.php:1241
+msgid "Bougtoub"
+msgstr "بوقطوب"
+
+#: inc/cities-dz.php:1242
+msgid "El Kheiter"
+msgstr "الخاطر"
+
+#: inc/cities-dz.php:1243
+msgid "Kef El Ahmar"
+msgstr "الكاف الأحمر"
+
+#: inc/cities-dz.php:1244
+msgid "Boussemghoun"
+msgstr "بوسمغون"
+
+#: inc/cities-dz.php:1245
+msgid "Chellala"
+msgstr "شلالا"
+
+#: inc/cities-dz.php:1246
+msgid "Kraakda"
+msgstr "كراكدة"
+
+#: inc/cities-dz.php:1247
+msgid "El Bnoud"
+msgstr "البنود"
+
+#: inc/cities-dz.php:1248
+msgid "Cheguig"
+msgstr "الشقيق"
+
+#: inc/cities-dz.php:1250
+msgid "El Mehara"
+msgstr "المهرة"
+
+#: inc/cities-dz.php:1251
+msgid "Tousmouline"
+msgstr "توسمولين"
+
+#: inc/cities-dz.php:1253
+msgid "Sidi Tifour"
+msgstr "سيدي تيفور"
+
+#: inc/cities-dz.php:1257
+msgid "Illizi"
+msgstr "إليزي"
+
+#: inc/cities-dz.php:1258
+msgid "Djanet"
+msgstr "جانت"
+
+#: inc/cities-dz.php:1259
+msgid "Debdeb"
+msgstr "دبدب"
+
+#: inc/cities-dz.php:1260
+msgid "Bordj Omar Driss"
+msgstr "برج عمر ادريس"
+
+#: inc/cities-dz.php:1261
+msgid "Bordj El Haouas"
+msgstr "برج الحواس"
+
+#: inc/cities-dz.php:1262
+msgid "In Amenas"
+msgstr "في اميناس"
+
+#: inc/cities-dz.php:1266
+msgid "Aïn Taghrout"
+msgstr "عين تغروت"
+
+#: inc/cities-dz.php:1267
+msgid "Aïn Tesra"
+msgstr "عين تسرا"
+
+#: inc/cities-dz.php:1268
+msgid "Belimour"
+msgstr "بيليمور"
+
+#: inc/cities-dz.php:1269
+msgid "Ben Daoud"
+msgstr "بن داود"
+
+#: inc/cities-dz.php:1270
+msgid "Bir Kasdali"
+msgstr "بير كسدالي"
+
+#: inc/cities-dz.php:1271
+msgid "Bordj Bou Arreridj"
+msgstr "برج بوعريريج"
+
+#: inc/cities-dz.php:1272
+msgid "Bordj Ghédir"
+msgstr "برج غدير"
+
+#: inc/cities-dz.php:1273
+msgid "Bordj Zemoura"
+msgstr "برج زمورة"
+
+#: inc/cities-dz.php:1274
+msgid "Colla"
+msgstr "كولا"
+
+#: inc/cities-dz.php:1275
+msgid "Djaafra"
+msgstr "الجعفرة"
+
+#: inc/cities-dz.php:1276
+msgid "El Ach"
+msgstr "العش"
+
+#: inc/cities-dz.php:1277
+msgid "El Achir"
+msgstr "العاشر"
+
+#: inc/cities-dz.php:1278
+msgid "El Anseur"
+msgstr "الانسور"
+
+#: inc/cities-dz.php:1279
+msgid "El Hamadia"
+msgstr "الحمادية"
+
+#: inc/cities-dz.php:1280
+msgid "El Main"
+msgstr "ايل مين"
+
+#: inc/cities-dz.php:1281
+msgid "El M'hir"
+msgstr "المهر"
+
+#: inc/cities-dz.php:1282
+msgid "Ghilassa"
+msgstr "غيلاسة"
+
+#: inc/cities-dz.php:1283
+msgid "Haraza"
+msgstr "حرازه"
+
+#: inc/cities-dz.php:1284
+msgid "Hasnaoua"
+msgstr "حسناوة"
+
+#: inc/cities-dz.php:1285
+msgid "Khelil"
+msgstr "خليل"
+
+#: inc/cities-dz.php:1286
+msgid "Ksour"
+msgstr "كسور"
+
+#: inc/cities-dz.php:1287 inc/cities-dz.php:1641
+msgid "Mansoura"
+msgstr "المنصورة"
+
+#: inc/cities-dz.php:1288
+msgid "Medjana"
+msgstr "مجانة"
+
+#: inc/cities-dz.php:1289
+msgid "Ouled Brahem"
+msgstr "ولاد براهم"
+
+#: inc/cities-dz.php:1290
+msgid "Ouled Dahmane"
+msgstr "ولاد دحمان"
+
+#: inc/cities-dz.php:1292
+msgid "Rabta"
+msgstr "ربطة"
+
+#: inc/cities-dz.php:1293
+msgid "Ras El Oued"
+msgstr "رأس الواد"
+
+#: inc/cities-dz.php:1294
+msgid "Sidi Embarek"
+msgstr "سيدي مبارك"
+
+#: inc/cities-dz.php:1295
+msgid "Tefreg"
+msgstr "تيفريغ"
+
+#: inc/cities-dz.php:1296
+msgid "Taglait"
+msgstr "تاغليت"
+
+#: inc/cities-dz.php:1297
+msgid "Teniet En Nasr"
+msgstr "تينيت النصر"
+
+#: inc/cities-dz.php:1298
+msgid "Tassameurt"
+msgstr "تسمورت"
+
+#: inc/cities-dz.php:1299
+msgid "Tixter"
+msgstr "تيكستر"
+
+#: inc/cities-dz.php:1303
+msgid "Boumerdes"
+msgstr "بومرداس"
+
+#: inc/cities-dz.php:1304
+msgid "Boudouaou"
+msgstr "بودواو"
+
+#: inc/cities-dz.php:1305
+msgid "Afir"
+msgstr "أعفير"
+
+#: inc/cities-dz.php:1306
+msgid "Bordj Menaiel"
+msgstr "برج منايل"
+
+#: inc/cities-dz.php:1307
+msgid "Baghlia"
+msgstr "بغلية"
+
+#: inc/cities-dz.php:1308
+msgid "Sidi Daoud"
+msgstr "سيدي داود"
+
+#: inc/cities-dz.php:1309
+msgid "Naciria"
+msgstr "الناصرية"
+
+#: inc/cities-dz.php:1310
+msgid "Djinet"
+msgstr "جينيت"
+
+#: inc/cities-dz.php:1311
+msgid "Issers"
+msgstr "إيسرز"
+
+#: inc/cities-dz.php:1312
+msgid "Zemmouri"
+msgstr "الزموري"
+
+#: inc/cities-dz.php:1313
+msgid "Si Mustapha"
+msgstr "سي مصطفى"
+
+#: inc/cities-dz.php:1314
+msgid "Tidjelabine"
+msgstr "تيجلابين"
+
+#: inc/cities-dz.php:1315
+msgid "Chabet el Ameur"
+msgstr "شبة الأمير"
+
+#: inc/cities-dz.php:1316
+msgid "Thenia"
+msgstr "الثنية"
+
+#: inc/cities-dz.php:1318
+msgid "Corso"
+msgstr "كورسو"
+
+#: inc/cities-dz.php:1319
+msgid "Ouled Moussa"
+msgstr "ولاد موسى"
+
+#: inc/cities-dz.php:1320
+msgid "Larbatache"
+msgstr "لارباتاش"
+
+#: inc/cities-dz.php:1321
+msgid "Bouzegza Keddara"
+msgstr "بوزكزة كدارة"
+
+#: inc/cities-dz.php:1322
+msgid "Taourga"
+msgstr "تاورغا"
+
+#: inc/cities-dz.php:1323
+msgid "Ouled Aissa"
+msgstr "ولاد عيسى"
+
+#: inc/cities-dz.php:1324
+msgid "Ben Choud"
+msgstr "بن شود"
+
+#: inc/cities-dz.php:1325
+msgid "Dellys"
+msgstr "دليس"
+
+#: inc/cities-dz.php:1326
+msgid "Ammal"
+msgstr "أمل"
+
+#: inc/cities-dz.php:1327
+msgid "Beni Amrane"
+msgstr "بني عمران"
+
+#: inc/cities-dz.php:1328 inc/cities-dz.php:1683
+msgid "Souk El Had"
+msgstr "سوق الحد"
+
+#: inc/cities-dz.php:1329
+msgid "Boudouaou El Bahri"
+msgstr "بودواو البحري"
+
+#: inc/cities-dz.php:1330
+msgid "Ouled Hedadj"
+msgstr "أولاد حداج"
+
+#: inc/cities-dz.php:1331
+msgid "Leghata"
+msgstr "ليغاتا"
+
+#: inc/cities-dz.php:1332
+msgid "Hammedi"
+msgstr "حميدي"
+
+#: inc/cities-dz.php:1333
+msgid "Khemis El Khechna"
+msgstr "خميس الخشنة"
+
+#: inc/cities-dz.php:1334
+msgid "El Kharrouba"
+msgstr "الخروبة"
+
+#: inc/cities-dz.php:1338
+msgid "Aïn El Assel"
+msgstr "عين العسل"
+
+#: inc/cities-dz.php:1339
+msgid "Aïn Kerma"
+msgstr "عين الكرمة"
+
+#: inc/cities-dz.php:1340
+msgid "Asfour"
+msgstr "عصفور"
+
+#: inc/cities-dz.php:1341
+msgid "Ben Mehidi"
+msgstr "بن مهيدي"
+
+#: inc/cities-dz.php:1342
+msgid "Berrihane"
+msgstr "بريحان"
+
+#: inc/cities-dz.php:1344
+msgid "Bougous"
+msgstr "بوغوس"
+
+#: inc/cities-dz.php:1345
+msgid "Bouhadjar"
+msgstr "بوحجار"
+
+#: inc/cities-dz.php:1346
+msgid "Bouteldja"
+msgstr "بوتيلجا"
+
+#: inc/cities-dz.php:1347
+msgid "Chebaita Mokhtar"
+msgstr "شبيطة مختار"
+
+#: inc/cities-dz.php:1348
+msgid "Chefia"
+msgstr "شيفيا"
+
+#: inc/cities-dz.php:1349
+msgid "Chihani"
+msgstr "تشيهاني"
+
+#: inc/cities-dz.php:1350
+msgid "Dréan"
+msgstr "دريان"
+
+#: inc/cities-dz.php:1351
+msgid "Echatt"
+msgstr "ايشات"
+
+#: inc/cities-dz.php:1352
+msgid "El Aioun"
+msgstr "العيون"
+
+#: inc/cities-dz.php:1353
+msgid "El Kala"
+msgstr "القالة"
+
+#: inc/cities-dz.php:1354
+msgid "El Tarf"
+msgstr "الطارف"
+
+#: inc/cities-dz.php:1355
+msgid "Hammam Beni Salah"
+msgstr "همام بني صلاح"
+
+#: inc/cities-dz.php:1356
+msgid "Lac des Oiseaux"
+msgstr "بحيرة الطيور"
+
+#: inc/cities-dz.php:1357
+msgid "Oued Zitoun"
+msgstr "واد زيتون"
+
+#: inc/cities-dz.php:1358
+msgid "Raml Souk"
+msgstr "سوق الرمل"
+
+#: inc/cities-dz.php:1359
+msgid "Souarekh"
+msgstr "صواريخ"
+
+#: inc/cities-dz.php:1360
+msgid "Zerizer"
+msgstr "زيرازر"
+
+#: inc/cities-dz.php:1365
+msgid "Oum el Assel"
+msgstr "أم الأصيل"
+
+#: inc/cities-dz.php:1366
+msgid "Tindouf"
+msgstr "تندوف"
+
+#: inc/cities-dz.php:1370
+msgid "Ammari"
+msgstr "العماري"
+
+#: inc/cities-dz.php:1371
+msgid "Beni Chaib"
+msgstr "بني شعيب"
+
+#: inc/cities-dz.php:1372
+msgid "Beni Lahcene"
+msgstr "بني لحسن"
+
+#: inc/cities-dz.php:1373
+msgid "Boucaid"
+msgstr "بوكعيد"
+
+#: inc/cities-dz.php:1374
+msgid "Bordj Bou Naama"
+msgstr "برج بو نعمة"
+
+#: inc/cities-dz.php:1375
+msgid "Bordj El Emir Abdelkader"
+msgstr "برج الأمير عبد القادر"
+
+#: inc/cities-dz.php:1376 inc/cities-dz.php:1486
+msgid "Khemisti"
+msgstr "خميستي"
+
+#: inc/cities-dz.php:1378
+msgid "Lardjem"
+msgstr "لارجيم"
+
+#: inc/cities-dz.php:1379
+msgid "Layoune"
+msgstr "العيون"
+
+#: inc/cities-dz.php:1380
+msgid "Lazharia"
+msgstr "الازھرية"
+
+#: inc/cities-dz.php:1381
+msgid "Maacem"
+msgstr "معصم"
+
+#: inc/cities-dz.php:1382
+msgid "Melaab"
+msgstr "ميلاب"
+
+#: inc/cities-dz.php:1383
+msgid "Ouled Bessem"
+msgstr "ولاد بيسم"
+
+#: inc/cities-dz.php:1384
+msgid "Sidi Abed"
+msgstr "سيدي عابد"
+
+#: inc/cities-dz.php:1385
+msgid "Sidi Boutouchent"
+msgstr "سيدي بووشنت"
+
+#: inc/cities-dz.php:1386
+msgid "Sidi Lantri"
+msgstr "سيدي لانتري"
+
+#: inc/cities-dz.php:1388
+msgid "Tamalaht"
+msgstr "تمالحت"
+
+#: inc/cities-dz.php:1389
+msgid "Theniet El Had"
+msgstr "ثنية الحد"
+
+#: inc/cities-dz.php:1390
+msgid "Tissemsilt"
+msgstr "تيسمسيلت"
+
+#: inc/cities-dz.php:1391
+msgid "Youssoufia"
+msgstr "اليوسفية"
+
+#: inc/cities-dz.php:1395
+msgid "El Oued"
+msgstr "الواد"
+
+#: inc/cities-dz.php:1396
+msgid "Robbah"
+msgstr "رباح"
+
+#: inc/cities-dz.php:1397
+msgid "Oued El Alenda"
+msgstr "واد العندا"
+
+#: inc/cities-dz.php:1398
+msgid "Bayadha"
+msgstr "البياضة"
+
+#: inc/cities-dz.php:1399
+msgid "Nakhla"
+msgstr "نخلة"
+
+#: inc/cities-dz.php:1400
+msgid "Guemar"
+msgstr "جمار"
+
+#: inc/cities-dz.php:1401
+msgid "Kouinine"
+msgstr "كوينين"
+
+#: inc/cities-dz.php:1402
+msgid "Reguiba"
+msgstr "رقيبة"
+
+#: inc/cities-dz.php:1403
+msgid "Hamraia"
+msgstr "الحمراوية"
+
+#: inc/cities-dz.php:1405
+msgid "Debila"
+msgstr "ديبيلا"
+
+#: inc/cities-dz.php:1406
+msgid "Hassani Abdelkrim"
+msgstr "حسني عبد الكريم"
+
+#: inc/cities-dz.php:1407
+msgid "Hassi Khalifa"
+msgstr "حاسي خليفة"
+
+#: inc/cities-dz.php:1408
+msgid "Taleb Larbi"
+msgstr "طالب العربي"
+
+#: inc/cities-dz.php:1409
+msgid "Douar El Ma"
+msgstr "دوار الماء"
+
+#: inc/cities-dz.php:1410
+msgid "Sidi Aoun"
+msgstr "سيدي عون"
+
+#: inc/cities-dz.php:1411
+msgid "Trifaoui"
+msgstr "الطريفاوي"
+
+#: inc/cities-dz.php:1412
+msgid "Magrane"
+msgstr "مجران"
+
+#: inc/cities-dz.php:1413
+msgid "Beni Guecha"
+msgstr "بني قيشا"
+
+#: inc/cities-dz.php:1414
+msgid "Ourmas"
+msgstr "أورماس"
+
+#: inc/cities-dz.php:1415
+msgid "Still"
+msgstr "ما يزال"
+
+#: inc/cities-dz.php:1416
+msgid "M'Rara"
+msgstr "مرارا"
+
+#: inc/cities-dz.php:1417
+msgid "Sidi Khellil"
+msgstr "سيدي خليل"
+
+#: inc/cities-dz.php:1418
+msgid "Tendla"
+msgstr "تيندلا"
+
+#: inc/cities-dz.php:1420
+msgid "Mih Ouansa"
+msgstr "ميه وانسا"
+
+#: inc/cities-dz.php:1421
+msgid "El M'Ghair"
+msgstr "المغير"
+
+#: inc/cities-dz.php:1422
+msgid "Djamaa"
+msgstr "جامع"
+
+#: inc/cities-dz.php:1423
+msgid "Oum Touyour"
+msgstr "ام طوير"
+
+#: inc/cities-dz.php:1424
+msgid "Sidi Amrane"
+msgstr "سيدي عمران"
+
+#: inc/cities-dz.php:1428
+msgid "Aïn Touila"
+msgstr "عين طويلة"
+
+#: inc/cities-dz.php:1429
+msgid "Babar"
+msgstr "بابار"
+
+#: inc/cities-dz.php:1430
+msgid "Baghai"
+msgstr "باغاي"
+
+#: inc/cities-dz.php:1431
+msgid "Bouhmama"
+msgstr "بوحمامة"
+
+#: inc/cities-dz.php:1432
+msgid "Chechar"
+msgstr "ششار"
+
+#: inc/cities-dz.php:1433
+msgid "Chelia"
+msgstr "تشيليا"
+
+#: inc/cities-dz.php:1434
+msgid "Djellal"
+msgstr "جلال"
+
+#: inc/cities-dz.php:1435
+msgid "El Hamma"
+msgstr "الحامة"
+
+#: inc/cities-dz.php:1436
+msgid "El Mahmal"
+msgstr "المحمل"
+
+#: inc/cities-dz.php:1437
+msgid "El Oueldja"
+msgstr "الولدجا"
+
+#: inc/cities-dz.php:1438
+msgid "Ensigha"
+msgstr "انسيغا"
+
+#: inc/cities-dz.php:1439
+msgid "Kais"
+msgstr "قيس"
+
+#: inc/cities-dz.php:1440
+msgid "Khenchela"
+msgstr "خنشلة"
+
+#: inc/cities-dz.php:1441
+msgid "Khirane"
+msgstr "خيران"
+
+#: inc/cities-dz.php:1442
+msgid "M'Sara"
+msgstr "مسرة"
+
+#: inc/cities-dz.php:1443
+msgid "M'Toussa"
+msgstr "متوسة"
+
+#: inc/cities-dz.php:1444
+msgid "Ouled Rechache"
+msgstr "أولاد رشاشي"
+
+#: inc/cities-dz.php:1445
+msgid "Remila"
+msgstr "ريميلا"
+
+#: inc/cities-dz.php:1446
+msgid "Tamza"
+msgstr "تامزة"
+
+#: inc/cities-dz.php:1447
+msgid "Taouzient"
+msgstr "تاوزيانت"
+
+#: inc/cities-dz.php:1448
+msgid "Yabous"
+msgstr "يبوس"
+
+#: inc/cities-dz.php:1452
+msgid "Souk Ahras"
+msgstr "سوق أهراس"
+
+#: inc/cities-dz.php:1453
+msgid "Sedrata"
+msgstr "سدراتة"
+
+#: inc/cities-dz.php:1454
+msgid "Hanancha"
+msgstr "حنانشا"
+
+#: inc/cities-dz.php:1455
+msgid "Mechroha"
+msgstr "مشروها"
+
+#: inc/cities-dz.php:1456
+msgid "Ouled Driss"
+msgstr "ولاد ادريس"
+
+#: inc/cities-dz.php:1457
+msgid "Tiffech"
+msgstr "تيفيك"
+
+#: inc/cities-dz.php:1458
+msgid "Zaarouria"
+msgstr "الزعرورية"
+
+#: inc/cities-dz.php:1459
+msgid "Taoura"
+msgstr "تاورة"
+
+#: inc/cities-dz.php:1460
+msgid "Drea"
+msgstr "دري"
+
+#: inc/cities-dz.php:1461
+msgid "Heddada"
+msgstr "حداده"
+
+#: inc/cities-dz.php:1462
+msgid "Khedara"
+msgstr "خضرة"
+
+#: inc/cities-dz.php:1463
+msgid "Merahna"
+msgstr "مرهنا"
+
+#: inc/cities-dz.php:1464
+msgid "Ouled Moumene"
+msgstr "ولاد مؤمن"
+
+#: inc/cities-dz.php:1465
+msgid "Bir Bou Haouch"
+msgstr "بير بو حوش"
+
+#: inc/cities-dz.php:1466
+msgid "M'daourouch"
+msgstr "مداوروش"
+
+#: inc/cities-dz.php:1467
+msgid "Oum El Adhaim"
+msgstr "أم العظيم"
+
+#: inc/cities-dz.php:1468
+msgid "Aïn Zana"
+msgstr "عين زانا"
+
+#: inc/cities-dz.php:1470
+msgid "Ouillen"
+msgstr "أويلين"
+
+#: inc/cities-dz.php:1471
+msgid "Sidi Fredj"
+msgstr "سيدي فرج"
+
+#: inc/cities-dz.php:1472
+msgid "Safel El Ouiden"
+msgstr "سافل الويدن"
+
+#: inc/cities-dz.php:1473
+msgid "Ragouba"
+msgstr "الرجوبة"
+
+#: inc/cities-dz.php:1474
+msgid "Khemissa"
+msgstr "خميسة"
+
+#: inc/cities-dz.php:1475
+msgid "Oued Keberit"
+msgstr "واد كبريت"
+
+#: inc/cities-dz.php:1476
+msgid "Terraguelt"
+msgstr "تيراغولت"
+
+#: inc/cities-dz.php:1477
+msgid "Zouabi"
+msgstr "الزعبي"
+
+#: inc/cities-dz.php:1481
+msgid "Tipaza"
+msgstr "تيبازة"
+
+#: inc/cities-dz.php:1482
+msgid "Menaceur"
+msgstr "ميناسور"
+
+#: inc/cities-dz.php:1483
+msgid "Larhat"
+msgstr "لارهات"
+
+#: inc/cities-dz.php:1484
+msgid "Douaouda"
+msgstr "دواودة"
+
+#: inc/cities-dz.php:1485
+msgid "Bourkika"
+msgstr "بوركيكا"
+
+#: inc/cities-dz.php:1487
+msgid "Aghbal"
+msgstr "اغبل"
+
+#: inc/cities-dz.php:1488
+msgid "Hadjout"
+msgstr "حاجوت"
+
+#: inc/cities-dz.php:1490
+msgid "Gouraya"
+msgstr "قوراية"
+
+#: inc/cities-dz.php:1491
+msgid "Nador"
+msgstr "الناظور"
+
+#: inc/cities-dz.php:1492
+msgid "Chaiba"
+msgstr "شيبة"
+
+#: inc/cities-dz.php:1493
+msgid "Aïn Tagourait"
+msgstr "عين تاجريت"
+
+#: inc/cities-dz.php:1494
+msgid "Cherchell"
+msgstr "شرشال"
+
+#: inc/cities-dz.php:1495
+msgid "Damous"
+msgstr "داموس"
+
+#: inc/cities-dz.php:1496
+msgid "Merad"
+msgstr "مراد"
+
+#: inc/cities-dz.php:1497
+msgid "Fouka"
+msgstr "فوكا"
+
+#: inc/cities-dz.php:1498
+msgid "Bou Ismaïl"
+msgstr "بو إسماعيل"
+
+#: inc/cities-dz.php:1499
+msgid "Ahmar El Aïn"
+msgstr "احمر العين"
+
+#: inc/cities-dz.php:1500
+msgid "Bouharoun"
+msgstr "بوهرون"
+
+#: inc/cities-dz.php:1501
+msgid "Sidi Ghiles"
+msgstr "سيدي غيلس"
+
+#: inc/cities-dz.php:1502
+msgid "Messelmoun"
+msgstr "مسلمون"
+
+#: inc/cities-dz.php:1503
+msgid "Sidi Rached"
+msgstr "سيدي راشد"
+
+#: inc/cities-dz.php:1504
+msgid "Koléa"
+msgstr "كوليا"
+
+#: inc/cities-dz.php:1505
+msgid "Attatba"
+msgstr "أتاتبا"
+
+#: inc/cities-dz.php:1506
+msgid "Sidi Semiane"
+msgstr "سيدي سميان"
+
+#: inc/cities-dz.php:1507
+msgid "Beni Milleuk"
+msgstr "بني مليوك"
+
+#: inc/cities-dz.php:1508
+msgid "Hadjeret Ennous"
+msgstr "هجيرة النوس"
+
+#: inc/cities-dz.php:1512
+msgid "Ahmed Rachedi"
+msgstr "احمد الراشدي"
+
+#: inc/cities-dz.php:1513
+msgid "Aïn Beida Harriche"
+msgstr "عين البيضاء حريش"
+
+#: inc/cities-dz.php:1514
+msgid "Aïn Mellouk"
+msgstr "عين ملوك"
+
+#: inc/cities-dz.php:1515
+msgid "Aïn Tine"
+msgstr "عين تاين"
+
+#: inc/cities-dz.php:1516
+msgid "Amira Arrès"
+msgstr "أميرة عراس"
+
+#: inc/cities-dz.php:1517
+msgid "Benyahia Abderrahmane"
+msgstr "بن يحيى عبد الرحمن"
+
+#: inc/cities-dz.php:1518
+msgid "Bouhatem"
+msgstr "بوهاتم"
+
+#: inc/cities-dz.php:1519
+msgid "Chelghoum Laid"
+msgstr "شلغوم ليد"
+
+#: inc/cities-dz.php:1520
+msgid "Chigara"
+msgstr "شيجارا"
+
+#: inc/cities-dz.php:1521
+msgid "Derradji Bousselah"
+msgstr "دراجي بوسيلة"
+
+#: inc/cities-dz.php:1522
+msgid "El Mechira"
+msgstr "المشيرة"
+
+#: inc/cities-dz.php:1523
+msgid "Elayadi Barbes"
+msgstr "العيادي باربس"
+
+#: inc/cities-dz.php:1524
+msgid "Ferdjioua"
+msgstr "فردجيوة"
+
+#: inc/cities-dz.php:1525
+msgid "Grarem Gouga"
+msgstr "سوق نعمان جوجا"
+
+#: inc/cities-dz.php:1526
+msgid "Hamala"
+msgstr "الهملة"
+
+#: inc/cities-dz.php:1527
+msgid "Mila"
+msgstr "ميلا"
+
+#: inc/cities-dz.php:1528
+msgid "Minar Zarza"
+msgstr "منار زرزه"
+
+#: inc/cities-dz.php:1529
+msgid "Oued Athmania"
+msgstr "واد عثمانية"
+
+#: inc/cities-dz.php:1530
+msgid "Oued Endja"
+msgstr "واد انجا"
+
+#: inc/cities-dz.php:1531
+msgid "Oued Seguen"
+msgstr "واد سجين"
+
+#: inc/cities-dz.php:1532
+msgid "Ouled Khalouf"
+msgstr "أولاد خلوف"
+
+#: inc/cities-dz.php:1533
+msgid "Rouached"
+msgstr "رواشد"
+
+#: inc/cities-dz.php:1534
+msgid "Sidi Khelifa"
+msgstr "سيدي خليفة"
+
+#: inc/cities-dz.php:1535
+msgid "Sidi Merouane"
+msgstr "سيدي مروان"
+
+#: inc/cities-dz.php:1536
+msgid "Tadjenanet"
+msgstr "تاجنانت"
+
+#: inc/cities-dz.php:1537
+msgid "Tassadane Haddada"
+msgstr "تسادين حداده"
+
+#: inc/cities-dz.php:1538
+msgid "Teleghma"
+msgstr "تلغمة"
+
+#: inc/cities-dz.php:1539
+msgid "Terrai Bainen"
+msgstr "تيراي بينين"
+
+#: inc/cities-dz.php:1540
+msgid "Tessala Lemtaï"
+msgstr "تيسالا ليمتاي"
+
+#: inc/cities-dz.php:1541
+msgid "Tiberguent"
+msgstr "تيبرجينت"
+
+#: inc/cities-dz.php:1542
+msgid "Yahia Beni Guecha"
+msgstr "يحيى بني جوقة"
+
+#: inc/cities-dz.php:1543
+msgid "Zeghaia"
+msgstr "زغايا"
+
+#: inc/cities-dz.php:1547
+msgid "Aïn Defla"
+msgstr "عين الدفلة"
+
+#: inc/cities-dz.php:1548
+msgid "Aïn Bouyahia"
+msgstr "عين بوحيى"
+
+#: inc/cities-dz.php:1550
+msgid "Aïn Lechiekh"
+msgstr "عين الشيخ"
+
+#: inc/cities-dz.php:1552
+msgid "Aïn Torki"
+msgstr "عين تركي"
+
+#: inc/cities-dz.php:1553
+msgid "Arib"
+msgstr "ضلع"
+
+#: inc/cities-dz.php:1554
+msgid "Bathia"
+msgstr "باثيا"
+
+#: inc/cities-dz.php:1555
+msgid "Belaas"
+msgstr "بلعاس"
+
+#: inc/cities-dz.php:1556
+msgid "Ben Allal"
+msgstr "بن علال"
+
+#: inc/cities-dz.php:1557
+msgid "Birbouche"
+msgstr "بيربوش"
+
+#: inc/cities-dz.php:1558
+msgid "Bir Ould Khelifa"
+msgstr "بير ولد خليفة"
+
+#: inc/cities-dz.php:1559
+msgid "Bordj Emir Khaled"
+msgstr "برج الأمير خالد"
+
+#: inc/cities-dz.php:1560
+msgid "Boumedfaa"
+msgstr "بومدفاع"
+
+#: inc/cities-dz.php:1561
+msgid "Bourached"
+msgstr "بوراشد"
+
+#: inc/cities-dz.php:1562
+msgid "Djelida"
+msgstr "جليدا"
+
+#: inc/cities-dz.php:1563
+msgid "Djemaa Ouled Cheikh"
+msgstr "جامع ولد الشيخ"
+
+#: inc/cities-dz.php:1564
+msgid "Djendel"
+msgstr "جيندل"
+
+#: inc/cities-dz.php:1565
+msgid "El Abadia"
+msgstr "العبادية"
+
+#: inc/cities-dz.php:1566
+msgid "El Amra"
+msgstr "العامرة"
+
+#: inc/cities-dz.php:1567
+msgid "El Attaf"
+msgstr "العطاف"
+
+#: inc/cities-dz.php:1568
+msgid "El Hassania"
+msgstr "الحسنية"
+
+#: inc/cities-dz.php:1569
+msgid "El Maine"
+msgstr "المين"
+
+#: inc/cities-dz.php:1570
+msgid "Hammam Righa"
+msgstr "حمام ريغة"
+
+#: inc/cities-dz.php:1571
+msgid "Hoceinia"
+msgstr "الحسينية"
+
+#: inc/cities-dz.php:1572
+msgid "Khemis Miliana"
+msgstr "خميس مليانة"
+
+#: inc/cities-dz.php:1573
+msgid "Mekhatria"
+msgstr "المخاطرية"
+
+#: inc/cities-dz.php:1574
+msgid "Miliana"
+msgstr "ميليانا"
+
+#: inc/cities-dz.php:1575
+msgid "Oued Chorfa"
+msgstr "واد الشرفة"
+
+#: inc/cities-dz.php:1576
+msgid "Oued Djemaa"
+msgstr "واد جمعة"
+
+#: inc/cities-dz.php:1577
+msgid "Rouina"
+msgstr "روينا"
+
+#: inc/cities-dz.php:1579
+msgid "Tacheta Zougagha"
+msgstr "تاشيتا زغاغة"
+
+#: inc/cities-dz.php:1580
+msgid "Tarik Ibn Ziad"
+msgstr "طارق بن زياد"
+
+#: inc/cities-dz.php:1581
+msgid "Tiberkanine"
+msgstr "تيبركانين"
+
+#: inc/cities-dz.php:1582
+msgid "Zeddine"
+msgstr "زيد الدين"
+
+#: inc/cities-dz.php:1586
+msgid "Naâma"
+msgstr "نعمة"
+
+#: inc/cities-dz.php:1587
+msgid "Mecheria"
+msgstr "ميشريا"
+
+#: inc/cities-dz.php:1588
+msgid "Aïn Sefra"
+msgstr "عين صفرة"
+
+#: inc/cities-dz.php:1589
+msgid "Tiout"
+msgstr "تيوت"
+
+#: inc/cities-dz.php:1590
+msgid "Sfissifa"
+msgstr "سفسيفة"
+
+#: inc/cities-dz.php:1591
+msgid "Moghrar"
+msgstr "مغرر"
+
+#: inc/cities-dz.php:1592
+msgid "Assela"
+msgstr "أصيلة"
+
+#: inc/cities-dz.php:1593
+msgid "Djeniene Bourezg"
+msgstr "جنين بورزق"
+
+#: inc/cities-dz.php:1594
+msgid "Aïn Ben Khelil"
+msgstr "عين بن خليل"
+
+#: inc/cities-dz.php:1595
+msgid "Makman Ben Amer"
+msgstr "مكمان بن عامر"
+
+#: inc/cities-dz.php:1596
+msgid "Kasdir"
+msgstr "كاسدير"
+
+#: inc/cities-dz.php:1597
+msgid "El Biod"
+msgstr "البيوض"
+
+#: inc/cities-dz.php:1601
+msgid "Aghlal"
+msgstr "أغلال"
+
+#: inc/cities-dz.php:1602
+msgid "Aïn El Arbaa"
+msgstr "عين الأربعاء"
+
+#: inc/cities-dz.php:1603
+msgid "Aïn Kihal"
+msgstr "عين كيحل"
+
+#: inc/cities-dz.php:1604
+msgid "Aïn Témouchent"
+msgstr "عين تموشنت"
+
+#: inc/cities-dz.php:1605
+msgid "Aïn Tolba"
+msgstr "عين طلبة"
+
+#: inc/cities-dz.php:1606
+msgid "Aoubellil"
+msgstr "أوبيليل"
+
+#: inc/cities-dz.php:1607
+msgid "Beni Saf"
+msgstr "بني صاف"
+
+#: inc/cities-dz.php:1608
+msgid "Bouzedjar"
+msgstr "بوزجار"
+
+#: inc/cities-dz.php:1609
+msgid "Chaabat El Leham"
+msgstr "شعب اللحام"
+
+#: inc/cities-dz.php:1610
+msgid "Chentouf"
+msgstr "الشنتوف"
+
+#: inc/cities-dz.php:1611
+msgid "El Amria"
+msgstr "العامرية"
+
+#: inc/cities-dz.php:1612
+msgid "El Emir Abdelkader"
+msgstr "الأمير عبد القادر"
+
+#: inc/cities-dz.php:1613
+msgid "El Malah"
+msgstr "الملاح"
+
+#: inc/cities-dz.php:1614
+msgid "El Messaid"
+msgstr "المسعيد"
+
+#: inc/cities-dz.php:1615
+msgid "Hammam Bouhadjar"
+msgstr "همام بوحجار"
+
+#: inc/cities-dz.php:1616
+msgid "Hassasna"
+msgstr "حسنة"
+
+#: inc/cities-dz.php:1617
+msgid "Hassi El Ghella"
+msgstr "حاسي الغلة"
+
+#: inc/cities-dz.php:1618
+msgid "Oued Berkeche"
+msgstr "واد بركشة"
+
+#: inc/cities-dz.php:1619
+msgid "Oued Sabah"
+msgstr "واد صباح"
+
+#: inc/cities-dz.php:1620
+msgid "Ouled Boudjemaa"
+msgstr "ولاد بوجمعة"
+
+#: inc/cities-dz.php:1621
+msgid "Ouled Kihal"
+msgstr "أولاد كيهال"
+
+#: inc/cities-dz.php:1622
+msgid "Oulhaça El Gheraba"
+msgstr "ولهاصة الغرابة"
+
+#: inc/cities-dz.php:1623
+msgid "Sidi Ben Adda"
+msgstr "سيدي بن عدا"
+
+#: inc/cities-dz.php:1624
+msgid "Sidi Boumedienne"
+msgstr "سيدي بومدين"
+
+#: inc/cities-dz.php:1625
+msgid "Sidi Ouriache"
+msgstr "سيدي عرياش"
+
+#: inc/cities-dz.php:1626
+msgid "Sidi Safi"
+msgstr "سيدي صافي"
+
+#: inc/cities-dz.php:1627
+msgid "Tamzoura"
+msgstr "تمزورة"
+
+#: inc/cities-dz.php:1628
+msgid "Terga"
+msgstr "تيرجا"
+
+#: inc/cities-dz.php:1632
+msgid "Berriane"
+msgstr "بريان"
+
+#: inc/cities-dz.php:1633
+msgid "Bounoura"
+msgstr "بونورة"
+
+#: inc/cities-dz.php:1634
+msgid "Dhayet Bendhahoua"
+msgstr "ضية بن ضحاوة"
+
+#: inc/cities-dz.php:1635
+msgid "El Atteuf"
+msgstr "العطوف"
+
+#: inc/cities-dz.php:1636
+msgid "El Guerrara"
+msgstr "القرارة"
+
+#: inc/cities-dz.php:1637
+msgid "El Menia"
+msgstr "المنيا"
+
+#: inc/cities-dz.php:1638
+msgid "Ghardaïa"
+msgstr "غرداية"
+
+#: inc/cities-dz.php:1639
+msgid "Hassi Fehal"
+msgstr "حاسي فحل"
+
+#: inc/cities-dz.php:1640
+msgid "Hassi Gara"
+msgstr "حاسي جارا"
+
+#: inc/cities-dz.php:1642
+msgid "Metlili"
+msgstr "ميتليلي"
+
+#: inc/cities-dz.php:1643
+msgid "Sebseb"
+msgstr "سبسب"
+
+#: inc/cities-dz.php:1644
+msgid "Zelfana"
+msgstr "زلفانا"
+
+#: inc/cities-dz.php:1648
+msgid "Aïn Rahma"
+msgstr "عين الرحمة"
+
+#: inc/cities-dz.php:1649
+msgid "Aïn Tarek"
+msgstr "عين طارق"
+
+#: inc/cities-dz.php:1650
+msgid "Ammi Moussa"
+msgstr "عمي موسى"
+
+#: inc/cities-dz.php:1651
+msgid "Belassel Bouzegza"
+msgstr "بلعسل بوزكزة"
+
+#: inc/cities-dz.php:1652
+msgid "Bendaoud"
+msgstr "بندود"
+
+#: inc/cities-dz.php:1653
+msgid "Beni Dergoun"
+msgstr "بني درقون"
+
+#: inc/cities-dz.php:1654
+msgid "Beni Zentis"
+msgstr "بني زنتيس"
+
+#: inc/cities-dz.php:1655
+msgid "Dar Ben Abdellah"
+msgstr "دار بن عبد الله"
+
+#: inc/cities-dz.php:1656
+msgid "Djidioua"
+msgstr "جديوة"
+
+#: inc/cities-dz.php:1657
+msgid "El Guettar"
+msgstr "القطار"
+
+#: inc/cities-dz.php:1658
+msgid "El Hamadna"
+msgstr "الحمدنة"
+
+#: inc/cities-dz.php:1660
+msgid "El Matmar"
+msgstr "المطمر"
+
+#: inc/cities-dz.php:1662
+msgid "Had Echkalla"
+msgstr "حد اشكالا"
+
+#: inc/cities-dz.php:1663
+msgid "Hamri"
+msgstr "حمري"
+
+#: inc/cities-dz.php:1664
+msgid "Kalaa"
+msgstr "قلعة"
+
+#: inc/cities-dz.php:1665
+msgid "Lahlef"
+msgstr "لحلف"
+
+#: inc/cities-dz.php:1666
+msgid "Mazouna"
+msgstr "مازونة"
+
+#: inc/cities-dz.php:1667
+msgid "Mediouna"
+msgstr "مديونة"
+
+#: inc/cities-dz.php:1668
+msgid "Mendes"
+msgstr "مينديز"
+
+#: inc/cities-dz.php:1669
+msgid "Merdja Sidi Abed"
+msgstr "مرجا سيدي عابد"
+
+#: inc/cities-dz.php:1670
+msgid "Ouarizane"
+msgstr "وريزان"
+
+#: inc/cities-dz.php:1671
+msgid "Oued Essalem"
+msgstr "وادي السالم"
+
+#: inc/cities-dz.php:1672
+msgid "Oued Rhiou"
+msgstr "وادي رهيو"
+
+#: inc/cities-dz.php:1673
+msgid "Ouled Aiche"
+msgstr "أولاد يعيش"
+
+#: inc/cities-dz.php:1674
+msgid "Oued El Djemaa"
+msgstr "وادى الجمعة"
+
+#: inc/cities-dz.php:1675
+msgid "Ouled Sidi Mihoub"
+msgstr "أولاد سيدي ميهوب"
+
+#: inc/cities-dz.php:1676
+msgid "Ramka"
+msgstr "رمكة"
+
+#: inc/cities-dz.php:1677
+msgid "Relizane"
+msgstr "غيليزان"
+
+#: inc/cities-dz.php:1678
+msgid "Sidi Khettab"
+msgstr "سيدي خطاب"
+
+#: inc/cities-dz.php:1679
+msgid "Sidi Lazreg"
+msgstr "سيدي لزرق"
+
+#: inc/cities-dz.php:1680
+msgid "Sidi M'Hamed Ben Ali"
+msgstr "سيدي محمد بن علي"
+
+#: inc/cities-dz.php:1681
+msgid "Sidi M'Hamed Benaouda"
+msgstr "سيدي محمد بنعودة"
+
+#: inc/cities-dz.php:1682
+msgid "Sidi Saada"
+msgstr "سيدي سعادة"
+
+#: inc/cities-dz.php:1684
+msgid "Yellel"
+msgstr "يلل"
+
+#: inc/cities-dz.php:1685
+msgid "Zemmora"
+msgstr "زمورة"
+
+#: yalidine-shipping.php:24
+msgid "Yalidine API"
+msgstr "Yalidine API"
+
+#: yalidine-shipping.php:30
+msgid "API ID"
+msgstr "API ID"
+
+#: yalidine-shipping.php:31
+msgid "Yalidine API ID, i.e. 94986571734304520846"
+msgstr "Yalidine API ID, i.e. 94986571734304520846"
+
+#: yalidine-shipping.php:39
+msgid "API TOKEN"
+msgstr "API TOKEN"
+
+#: yalidine-shipping.php:40
+msgid "Yalidine API Token, i.e. 5MKfvcyQtO3eouL6tDv0VDFhUT8Sc7w5"
+msgstr "Yalidine API Token, i.e. 5MKfvcyQtO3eouL6tDv0VDFhUT8Sc7w5"
+
+#: yalidine-shipping.php:69
+msgid "Create shipping label"
+msgstr "Create shipping label"
+
+#: yalidine-shipping.php:108
+msgid "Wilaya"
+msgstr "ولاية"
+
+#: inc/Yalidine_Shipping_Method.php:13
+msgid "Yalidine"
+msgstr "ياليدين"
+
+#: inc/Yalidine_Shipping_Method.php:14
+msgid "Add Yalidine home delivery and stop desk rates"
+msgstr "Add Yalidine home delivery and stop desk rates"
+
+#: inc/Yalidine_Shipping_Method.php:45
+msgid "Enable"
+msgstr "Enable"
+
+#: inc/Yalidine_Shipping_Method.php:47
+msgid "Enable this shipping."
+msgstr "Enable this shipping."
+
+#: inc/Yalidine_Shipping_Method.php:52
+msgid "Title"
+msgstr "Title"
+
+#: inc/Yalidine_Shipping_Method.php:105
+msgid "Express home delivery"
+msgstr "توصيل سريع للمنزل"
+
+#: inc/Yalidine_Shipping_Method.php:108
+msgid "Delivered to your home"
+msgstr "توصيلها لمنزلك"
+
+#: inc/Yalidine_Shipping_Method.php:109 inc/Yalidine_Shipping_Method.php:124
+msgid "arrives in %d day"
+msgid_plural "arrives in %d days"
+msgstr[0] "تصل في 0 يوم"
+msgstr[1] "تصل في يوم"
+msgstr[2] "تصل في يومين"
+msgstr[3] "تصل في %d أيام"
+msgstr[4] "تصل في %d يوم"
+msgstr[5] "تصل في %d يوم"
+
+#: inc/Yalidine_Shipping_Method.php:120
+msgid "Yalidine Stop desk - %s"
+msgstr "مكتب ياليدين - %s"
+
+#: inc/Yalidine_Shipping_Method.php:123
+msgid "Pick it up from %s desk stop"
+msgstr "أحملها من مكتب %s"

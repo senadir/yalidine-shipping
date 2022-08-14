@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-23.php:3
+msgid "Annaba"
+msgstr ""
+
+#: DZ-23.php:4
+msgid "Berrahal"
+msgstr ""
+
+#: DZ-23.php:5
+msgid "El Hadjar"
+msgstr ""
+
+#: DZ-23.php:6
+msgid "Eulma"
+msgstr ""
+
+#: DZ-23.php:7
+msgid "El Bouni"
+msgstr ""
+
+#: DZ-23.php:8
+msgid "Oued El Aneb"
+msgstr ""
+
+#: DZ-23.php:9
+msgid "Cheurfa"
+msgstr ""
+
+#: DZ-23.php:10
+msgid "Seraïdi"
+msgstr ""
+
+#: DZ-23.php:11
+msgid "Aïn Berda"
+msgstr ""
+
+#: DZ-23.php:12
+msgid "Chetaïbi"
+msgstr ""
+
+#: DZ-23.php:13
+msgid "Sidi Amar"
+msgstr ""
+
+#: DZ-23.php:14
+msgid "Treat"
+msgstr ""

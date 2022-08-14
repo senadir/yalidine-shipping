@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-30.php:3
+msgid "Aïn Beida"
+msgstr ""
+
+#: DZ-30.php:4
+msgid "Benaceur"
+msgstr ""
+
+#: DZ-30.php:5
+msgid "Blidet Amor"
+msgstr ""
+
+#: DZ-30.php:6
+msgid "El Allia"
+msgstr ""
+
+#: DZ-30.php:7
+msgid "El Borma"
+msgstr ""
+
+#: DZ-30.php:8
+msgid "El Hadjira"
+msgstr ""
+
+#: DZ-30.php:9
+msgid "Hassi Ben Abdellah"
+msgstr ""
+
+#: DZ-30.php:10
+msgid "Hassi Messaoud"
+msgstr ""
+
+#: DZ-30.php:11
+msgid "Megarine"
+msgstr ""
+
+#: DZ-30.php:12
+msgid "M'Naguer"
+msgstr ""
+
+#: DZ-30.php:13
+msgid "Nezla"
+msgstr ""
+
+#: DZ-30.php:14
+msgid "N'Goussa"
+msgstr ""
+
+#: DZ-30.php:15
+msgid "Ouargla"
+msgstr ""
+
+#: DZ-30.php:16
+msgid "Rouissat"
+msgstr ""
+
+#: DZ-30.php:17
+msgid "Sidi Khouiled"
+msgstr ""
+
+#: DZ-30.php:18
+msgid "Sidi Slimane"
+msgstr ""
+
+#: DZ-30.php:19
+msgid "Taibet"
+msgstr ""
+
+#: DZ-30.php:20
+msgid "Tamacine"
+msgstr ""
+
+#: DZ-30.php:21
+msgid "Tebesbest"
+msgstr ""
+
+#: DZ-30.php:22
+msgid "Touggourt"
+msgstr ""
+
+#: DZ-30.php:23
+msgid "Zaouia El Abidia"
+msgstr ""

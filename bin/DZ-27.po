@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-27.php:3
+msgid "Abdelmalek Ramdane"
+msgstr ""
+
+#: DZ-27.php:4
+msgid "Achaacha"
+msgstr ""
+
+#: DZ-27.php:5
+msgid "Aïn Boudinar"
+msgstr ""
+
+#: DZ-27.php:6
+msgid "Aïn Nouissy"
+msgstr ""
+
+#: DZ-27.php:7
+msgid "Aïn Sidi Cherif"
+msgstr ""
+
+#: DZ-27.php:8
+msgid "Aïn Tedles"
+msgstr ""
+
+#: DZ-27.php:9
+msgid "Blad Touahria"
+msgstr ""
+
+#: DZ-27.php:10
+msgid "Bouguirat"
+msgstr ""
+
+#: DZ-27.php:11
+msgid "El Hassaine"
+msgstr ""
+
+#: DZ-27.php:12
+msgid "Fornaka"
+msgstr ""
+
+#: DZ-27.php:13
+msgid "Hadjadj"
+msgstr ""
+
+#: DZ-27.php:14
+msgid "Hassi Mameche"
+msgstr ""
+
+#: DZ-27.php:15
+msgid "Khadra"
+msgstr ""
+
+#: DZ-27.php:16
+msgid "Kheireddine"
+msgstr ""
+
+#: DZ-27.php:17
+msgid "Mansourah"
+msgstr ""
+
+#: DZ-27.php:18
+msgid "Mesra"
+msgstr ""
+
+#: DZ-27.php:19
+msgid "Mazagran"
+msgstr ""
+
+#: DZ-27.php:20
+msgid "Mostaganem"
+msgstr ""
+
+#: DZ-27.php:21
+msgid "Nekmaria"
+msgstr ""
+
+#: DZ-27.php:22
+msgid "Oued El Kheir"
+msgstr ""
+
+#: DZ-27.php:23
+msgid "Ouled Boughalem"
+msgstr ""
+
+#: DZ-27.php:24
+msgid "Ouled Maallah"
+msgstr ""
+
+#: DZ-27.php:25
+msgid "Safsaf"
+msgstr ""
+
+#: DZ-27.php:26
+msgid "Sayada"
+msgstr ""
+
+#: DZ-27.php:27
+msgid "Sidi Ali"
+msgstr ""
+
+#: DZ-27.php:28
+msgid "Sidi Belattar"
+msgstr ""
+
+#: DZ-27.php:29
+msgid "Sidi Lakhdar"
+msgstr ""
+
+#: DZ-27.php:30
+msgid "Sirat"
+msgstr ""
+
+#: DZ-27.php:31
+msgid "Souaflia"
+msgstr ""
+
+#: DZ-27.php:32
+msgid "Sour"
+msgstr ""
+
+#: DZ-27.php:33
+msgid "Stidia"
+msgstr ""
+
+#: DZ-27.php:34
+msgid "Tazgait"
+msgstr ""

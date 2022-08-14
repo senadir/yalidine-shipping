@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-33.php:3
+msgid "Illizi"
+msgstr ""
+
+#: DZ-33.php:4
+msgid "Djanet"
+msgstr ""
+
+#: DZ-33.php:5
+msgid "Debdeb"
+msgstr ""
+
+#: DZ-33.php:6
+msgid "Bordj Omar Driss"
+msgstr ""
+
+#: DZ-33.php:7
+msgid "Bordj El Haouas"
+msgstr ""
+
+#: DZ-33.php:8
+msgid "In Amenas"
+msgstr ""

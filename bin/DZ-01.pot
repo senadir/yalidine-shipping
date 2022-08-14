@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-01.php:3
+msgid "Adrar"
+msgstr ""
+
+#: DZ-01.php:4
+msgid "Tamest"
+msgstr ""
+
+#: DZ-01.php:5
+msgid "Charouine"
+msgstr ""
+
+#: DZ-01.php:6
+msgid "Reggane"
+msgstr ""
+
+#: DZ-01.php:7
+msgid "In Zghmir"
+msgstr ""
+
+#: DZ-01.php:8
+msgid "Tit"
+msgstr ""
+
+#: DZ-01.php:9
+msgid "Ksar Kaddour"
+msgstr ""
+
+#: DZ-01.php:10
+msgid "Tsabit"
+msgstr ""
+
+#: DZ-01.php:11
+msgid "Timimoun"
+msgstr ""
+
+#: DZ-01.php:12
+msgid "Ouled Saïd"
+msgstr ""
+
+#: DZ-01.php:13
+msgid "Zaouiet Kounta"
+msgstr ""
+
+#: DZ-01.php:14
+msgid "Aoulef"
+msgstr ""
+
+#: DZ-01.php:15
+msgid "Tamekten"
+msgstr ""
+
+#: DZ-01.php:16
+msgid "Tamantit"
+msgstr ""
+
+#: DZ-01.php:17
+msgid "Fenoughil"
+msgstr ""
+
+#: DZ-01.php:18
+msgid "Tinerkouk"
+msgstr ""
+
+#: DZ-01.php:19
+msgid "Deldoul"
+msgstr ""
+
+#: DZ-01.php:20
+msgid "Sali"
+msgstr ""
+
+#: DZ-01.php:21
+msgid "Akabli"
+msgstr ""
+
+#: DZ-01.php:22
+msgid "Metarfa"
+msgstr ""
+
+#: DZ-01.php:23
+msgid "Ouled Ahmed Tammi"
+msgstr ""
+
+#: DZ-01.php:24
+msgid "Bouda"
+msgstr ""
+
+#: DZ-01.php:25
+msgid "Aougrout"
+msgstr ""
+
+#: DZ-01.php:26
+msgid "Talmine"
+msgstr ""
+
+#: DZ-01.php:27
+msgid "Bordj Badji Mokhtar"
+msgstr ""
+
+#: DZ-01.php:28
+msgid "Sebaa"
+msgstr ""
+
+#: DZ-01.php:29
+msgid "Ouled Aïssa"
+msgstr ""
+
+#: DZ-01.php:30
+msgid "Timiaouine"
+msgstr ""

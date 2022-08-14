@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-26.php:3
+msgid "Aïn Boucif"
+msgstr ""
+
+#: DZ-26.php:4
+msgid "Aïn Ouksir"
+msgstr ""
+
+#: DZ-26.php:5
+msgid "Aissaouia"
+msgstr ""
+
+#: DZ-26.php:6
+msgid "Aziz"
+msgstr ""
+
+#: DZ-26.php:7
+msgid "Baata"
+msgstr ""
+
+#: DZ-26.php:8
+msgid "Benchicao"
+msgstr ""
+
+#: DZ-26.php:9
+msgid "Beni Slimane"
+msgstr ""
+
+#: DZ-26.php:10
+msgid "Berrouaghia"
+msgstr ""
+
+#: DZ-26.php:11
+msgid "Bir Ben Laabed"
+msgstr ""
+
+#: DZ-26.php:12
+msgid "Boghar"
+msgstr ""
+
+#: DZ-26.php:13
+msgid "Bou Aiche"
+msgstr ""
+
+#: DZ-26.php:14
+msgid "Bouaichoune"
+msgstr ""
+
+#: DZ-26.php:15
+msgid "Bouchrahil"
+msgstr ""
+
+#: DZ-26.php:16
+msgid "Boughezoul"
+msgstr ""
+
+#: DZ-26.php:17
+msgid "Bouskene"
+msgstr ""
+
+#: DZ-26.php:18
+msgid "Chahbounia"
+msgstr ""
+
+#: DZ-26.php:19
+msgid "Chellalet El Adhaoura"
+msgstr ""
+
+#: DZ-26.php:20
+msgid "Cheniguel"
+msgstr ""
+
+#: DZ-26.php:21
+msgid "Derrag"
+msgstr ""
+
+#: DZ-26.php:22
+msgid "Deux Bassins"
+msgstr ""
+
+#: DZ-26.php:23
+msgid "Djouab"
+msgstr ""
+
+#: DZ-26.php:24
+msgid "Draa Essamar"
+msgstr ""
+
+#: DZ-26.php:25
+msgid "El Azizia"
+msgstr ""
+
+#: DZ-26.php:26
+msgid "El Guelb El Kebir"
+msgstr ""
+
+#: DZ-26.php:27
+msgid "El Hamdania"
+msgstr ""
+
+#: DZ-26.php:28
+msgid "El Omaria"
+msgstr ""
+
+#: DZ-26.php:29
+msgid "El Ouinet"
+msgstr ""
+
+#: DZ-26.php:30
+msgid "Hannacha"
+msgstr ""
+
+#: DZ-26.php:31
+msgid "Kef Lakhdar"
+msgstr ""
+
+#: DZ-26.php:32
+msgid "Khams Djouamaa"
+msgstr ""
+
+#: DZ-26.php:33
+msgid "Ksar Boukhari"
+msgstr ""
+
+#: DZ-26.php:34
+msgid "Meghraoua"
+msgstr ""
+
+#: DZ-26.php:35
+msgid "Médéa"
+msgstr ""
+
+#: DZ-26.php:36
+msgid "Moudjbar"
+msgstr ""
+
+#: DZ-26.php:37
+msgid "Meftaha"
+msgstr ""
+
+#: DZ-26.php:38
+msgid "Mezerana"
+msgstr ""
+
+#: DZ-26.php:39
+msgid "Mihoub"
+msgstr ""
+
+#: DZ-26.php:40
+msgid "Ouamri"
+msgstr ""
+
+#: DZ-26.php:41
+msgid "Oued Harbil"
+msgstr ""
+
+#: DZ-26.php:42
+msgid "Ouled Antar"
+msgstr ""
+
+#: DZ-26.php:43
+msgid "Ouled Bouachra"
+msgstr ""
+
+#: DZ-26.php:44
+msgid "Ouled Brahim"
+msgstr ""
+
+#: DZ-26.php:45
+msgid "Ouled Deide"
+msgstr ""
+
+#: DZ-26.php:46
+msgid "Ouled Hellal"
+msgstr ""
+
+#: DZ-26.php:47
+msgid "Ouled Maaref"
+msgstr ""
+
+#: DZ-26.php:48
+msgid "Oum El Djalil"
+msgstr ""
+
+#: DZ-26.php:49
+msgid "Ouzera"
+msgstr ""
+
+#: DZ-26.php:50
+msgid "Rebaia"
+msgstr ""
+
+#: DZ-26.php:51
+msgid "Saneg"
+msgstr ""
+
+#: DZ-26.php:52
+msgid "Sedraia"
+msgstr ""
+
+#: DZ-26.php:53
+msgid "Seghouane"
+msgstr ""
+
+#: DZ-26.php:54
+msgid "Si Mahdjoub"
+msgstr ""
+
+#: DZ-26.php:55
+msgid "Sidi Damed"
+msgstr ""
+
+#: DZ-26.php:56
+msgid "Sidi Errabia"
+msgstr ""
+
+#: DZ-26.php:57
+msgid "Sidi Naamanez"
+msgstr ""
+
+#: DZ-26.php:58
+msgid "Sidi Zahar"
+msgstr ""
+
+#: DZ-26.php:59
+msgid "Sidi Ziane"
+msgstr ""
+
+#: DZ-26.php:60
+msgid "Souagui"
+msgstr ""
+
+#: DZ-26.php:61
+msgid "Tablat"
+msgstr ""
+
+#: DZ-26.php:62
+msgid "Tafraout"
+msgstr ""
+
+#: DZ-26.php:63
+msgid "Tamesguida"
+msgstr ""
+
+#: DZ-26.php:64
+msgid "Tizi Mahdi"
+msgstr ""
+
+#: DZ-26.php:65
+msgid "Tlatet Eddouar"
+msgstr ""
+
+#: DZ-26.php:66
+msgid "Zoubiria"
+msgstr ""

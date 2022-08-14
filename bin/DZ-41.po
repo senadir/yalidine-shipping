@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-41.php:3
+msgid "Souk Ahras"
+msgstr ""
+
+#: DZ-41.php:4
+msgid "Sedrata"
+msgstr ""
+
+#: DZ-41.php:5
+msgid "Hanancha"
+msgstr ""
+
+#: DZ-41.php:6
+msgid "Mechroha"
+msgstr ""
+
+#: DZ-41.php:7
+msgid "Ouled Driss"
+msgstr ""
+
+#: DZ-41.php:8
+msgid "Tiffech"
+msgstr ""
+
+#: DZ-41.php:9
+msgid "Zaarouria"
+msgstr ""
+
+#: DZ-41.php:10
+msgid "Taoura"
+msgstr ""
+
+#: DZ-41.php:11
+msgid "Drea"
+msgstr ""
+
+#: DZ-41.php:12
+msgid "Heddada"
+msgstr ""
+
+#: DZ-41.php:13
+msgid "Khedara"
+msgstr ""
+
+#: DZ-41.php:14
+msgid "Merahna"
+msgstr ""
+
+#: DZ-41.php:15
+msgid "Ouled Moumene"
+msgstr ""
+
+#: DZ-41.php:16
+msgid "Bir Bou Haouch"
+msgstr ""
+
+#: DZ-41.php:17
+msgid "M'daourouch"
+msgstr ""
+
+#: DZ-41.php:18
+msgid "Oum El Adhaim"
+msgstr ""
+
+#: DZ-41.php:19
+msgid "Aïn Zana"
+msgstr ""
+
+#: DZ-41.php:20
+msgid "Aïn Soltane"
+msgstr ""
+
+#: DZ-41.php:21
+msgid "Ouillen"
+msgstr ""
+
+#: DZ-41.php:22
+msgid "Sidi Fredj"
+msgstr ""
+
+#: DZ-41.php:23
+msgid "Safel El Ouiden"
+msgstr ""
+
+#: DZ-41.php:24
+msgid "Ragouba"
+msgstr ""
+
+#: DZ-41.php:25
+msgid "Khemissa"
+msgstr ""
+
+#: DZ-41.php:26
+msgid "Oued Keberit"
+msgstr ""
+
+#: DZ-41.php:27
+msgid "Terraguelt"
+msgstr ""
+
+#: DZ-41.php:28
+msgid "Zouabi"
+msgstr ""

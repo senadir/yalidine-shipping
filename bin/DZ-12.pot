@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-12.php:3
+msgid "Tébessa"
+msgstr ""
+
+#: DZ-12.php:4
+msgid "Bir el Ater"
+msgstr ""
+
+#: DZ-12.php:5
+msgid "Cheria"
+msgstr ""
+
+#: DZ-12.php:6
+msgid "Stah Guentis"
+msgstr ""
+
+#: DZ-12.php:7
+msgid "El Aouinet"
+msgstr ""
+
+#: DZ-12.php:8
+msgid "El Houidjbet"
+msgstr ""
+
+#: DZ-12.php:9
+msgid "Safsaf El Ouesra"
+msgstr ""
+
+#: DZ-12.php:10
+msgid "Hammamet"
+msgstr ""
+
+#: DZ-12.php:11
+msgid "Negrine"
+msgstr ""
+
+#: DZ-12.php:12
+msgid "Bir Mokkadem"
+msgstr ""
+
+#: DZ-12.php:13
+msgid "El Kouif"
+msgstr ""
+
+#: DZ-12.php:14
+msgid "Morsott"
+msgstr ""
+
+#: DZ-12.php:15
+msgid "El Ogla"
+msgstr ""
+
+#: DZ-12.php:16
+msgid "Bir Dheb"
+msgstr ""
+
+#: DZ-12.php:17
+msgid "Ogla Melha"
+msgstr ""
+
+#: DZ-12.php:18
+msgid "Guorriguer"
+msgstr ""
+
+#: DZ-12.php:19
+msgid "Bekkaria"
+msgstr ""
+
+#: DZ-12.php:20
+msgid "Boukhadra"
+msgstr ""
+
+#: DZ-12.php:21
+msgid "Ouenza"
+msgstr ""
+
+#: DZ-12.php:22
+msgid "El Ma Labiodh"
+msgstr ""
+
+#: DZ-12.php:23
+msgid "Oum Ali"
+msgstr ""
+
+#: DZ-12.php:24
+msgid "Tlidjene"
+msgstr ""
+
+#: DZ-12.php:25
+msgid "Aïn Zerga"
+msgstr ""
+
+#: DZ-12.php:26
+msgid "El Meridj"
+msgstr ""
+
+#: DZ-12.php:27
+msgid "Boulhaf Dir"
+msgstr ""
+
+#: DZ-12.php:28
+msgid "Bedjene"
+msgstr ""
+
+#: DZ-12.php:29
+msgid "El Mezeraa"
+msgstr ""
+
+#: DZ-12.php:30
+msgid "Ferkane"
+msgstr ""

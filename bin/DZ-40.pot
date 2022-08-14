@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-40.php:3
+msgid "Aïn Touila"
+msgstr ""
+
+#: DZ-40.php:4
+msgid "Babar"
+msgstr ""
+
+#: DZ-40.php:5
+msgid "Baghai"
+msgstr ""
+
+#: DZ-40.php:6
+msgid "Bouhmama"
+msgstr ""
+
+#: DZ-40.php:7
+msgid "Chechar"
+msgstr ""
+
+#: DZ-40.php:8
+msgid "Chelia"
+msgstr ""
+
+#: DZ-40.php:9
+msgid "Djellal"
+msgstr ""
+
+#: DZ-40.php:10
+msgid "El Hamma"
+msgstr ""
+
+#: DZ-40.php:11
+msgid "El Mahmal"
+msgstr ""
+
+#: DZ-40.php:12
+msgid "El Oueldja"
+msgstr ""
+
+#: DZ-40.php:13
+msgid "Ensigha"
+msgstr ""
+
+#: DZ-40.php:14
+msgid "Kais"
+msgstr ""
+
+#: DZ-40.php:15
+msgid "Khenchela"
+msgstr ""
+
+#: DZ-40.php:16
+msgid "Khirane"
+msgstr ""
+
+#: DZ-40.php:17
+msgid "M'Sara"
+msgstr ""
+
+#: DZ-40.php:18
+msgid "M'Toussa"
+msgstr ""
+
+#: DZ-40.php:19
+msgid "Ouled Rechache"
+msgstr ""
+
+#: DZ-40.php:20
+msgid "Remila"
+msgstr ""
+
+#: DZ-40.php:21
+msgid "Tamza"
+msgstr ""
+
+#: DZ-40.php:22
+msgid "Taouzient"
+msgstr ""
+
+#: DZ-40.php:23
+msgid "Yabous"
+msgstr ""

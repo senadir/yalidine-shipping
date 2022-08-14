@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-06.php:3
+msgid "Béjaïa"
+msgstr ""
+
+#: DZ-06.php:4
+msgid "Amizour"
+msgstr ""
+
+#: DZ-06.php:5
+msgid "Ferraoun"
+msgstr ""
+
+#: DZ-06.php:6
+msgid "Taourirt Ighil"
+msgstr ""
+
+#: DZ-06.php:7
+msgid "Chellata"
+msgstr ""
+
+#: DZ-06.php:8
+msgid "Tamokra"
+msgstr ""
+
+#: DZ-06.php:9
+msgid "Timezrit"
+msgstr ""
+
+#: DZ-06.php:10
+msgid "Souk El Ténine"
+msgstr ""
+
+#: DZ-06.php:11
+msgid "M'cisna"
+msgstr ""
+
+#: DZ-06.php:12
+msgid "Tinabdher"
+msgstr ""
+
+#: DZ-06.php:13
+msgid "Tichy"
+msgstr ""
+
+#: DZ-06.php:14
+msgid "Semaoun"
+msgstr ""
+
+#: DZ-06.php:15
+msgid "Kendira"
+msgstr ""
+
+#: DZ-06.php:16
+msgid "Tifra"
+msgstr ""
+
+#: DZ-06.php:17
+msgid "Ighram"
+msgstr ""
+
+#: DZ-06.php:18
+msgid "Amalou"
+msgstr ""
+
+#: DZ-06.php:19
+msgid "Ighil Ali"
+msgstr ""
+
+#: DZ-06.php:20
+msgid "Fenaïa Ilmaten"
+msgstr ""
+
+#: DZ-06.php:21
+msgid "Toudja"
+msgstr ""
+
+#: DZ-06.php:22
+msgid "Darguina"
+msgstr ""
+
+#: DZ-06.php:23
+msgid "Sidi Ayad"
+msgstr ""
+
+#: DZ-06.php:24
+msgid "Aokas"
+msgstr ""
+
+#: DZ-06.php:25
+msgid "Ait Djellil"
+msgstr ""
+
+#: DZ-06.php:26
+msgid "Adekar"
+msgstr ""
+
+#: DZ-06.php:27
+msgid "Akbou"
+msgstr ""
+
+#: DZ-06.php:28
+msgid "Seddouk"
+msgstr ""
+
+#: DZ-06.php:29
+msgid "Tazmalt"
+msgstr ""
+
+#: DZ-06.php:30
+msgid "Aït R'zine"
+msgstr ""
+
+#: DZ-06.php:31
+msgid "Chemini"
+msgstr ""
+
+#: DZ-06.php:32
+msgid "Souk Oufella"
+msgstr ""
+
+#: DZ-06.php:33
+msgid "Tibane"
+msgstr ""
+
+#: DZ-06.php:34
+msgid "Tala Hamza"
+msgstr ""
+
+#: DZ-06.php:35
+msgid "Barbacha"
+msgstr ""
+
+#: DZ-06.php:36
+msgid "Aït Ksila"
+msgstr ""
+
+#: DZ-06.php:37
+msgid "Ouzellaguen"
+msgstr ""
+
+#: DZ-06.php:38
+msgid "Bouhamza"
+msgstr ""
+
+#: DZ-06.php:39
+msgid "Taskriout"
+msgstr ""
+
+#: DZ-06.php:40
+msgid "Aït Mellikeche"
+msgstr ""
+
+#: DZ-06.php:41
+msgid "Sidi Aïch"
+msgstr ""
+
+#: DZ-06.php:42
+msgid "El Kseur"
+msgstr ""
+
+#: DZ-06.php:43
+msgid "Melbou"
+msgstr ""
+
+#: DZ-06.php:44
+msgid "Akfadou"
+msgstr ""
+
+#: DZ-06.php:45
+msgid "Leflaye"
+msgstr ""
+
+#: DZ-06.php:46
+msgid "Kherrata"
+msgstr ""
+
+#: DZ-06.php:47
+msgid "Draâ El Kaïd"
+msgstr ""
+
+#: DZ-06.php:48
+msgid "Tamridjet"
+msgstr ""
+
+#: DZ-06.php:49
+msgid "Aït Smail"
+msgstr ""
+
+#: DZ-06.php:50
+msgid "Boukhelifa"
+msgstr ""
+
+#: DZ-06.php:51
+msgid "Tizi N'Berber"
+msgstr ""
+
+#: DZ-06.php:52
+msgid "Aït Maouche"
+msgstr ""
+
+#: DZ-06.php:53
+msgid "Oued Ghir"
+msgstr ""
+
+#: DZ-06.php:54
+msgid "Boudjellil"
+msgstr ""

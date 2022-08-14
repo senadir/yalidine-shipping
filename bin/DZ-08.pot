@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-08.php:3
+msgid "Béchar"
+msgstr ""
+
+#: DZ-08.php:4
+msgid "Erg Ferradj"
+msgstr ""
+
+#: DZ-08.php:5
+msgid "Ouled Khoudir"
+msgstr ""
+
+#: DZ-08.php:6
+msgid "Meridja"
+msgstr ""
+
+#: DZ-08.php:7
+msgid "Timoudi"
+msgstr ""
+
+#: DZ-08.php:8
+msgid "Lahmar"
+msgstr ""
+
+#: DZ-08.php:9
+msgid "Béni Abbès"
+msgstr ""
+
+#: DZ-08.php:10
+msgid "Beni Ikhlef"
+msgstr ""
+
+#: DZ-08.php:11
+msgid "Mechraa Houari Boumedienne"
+msgstr ""
+
+#: DZ-08.php:12
+msgid "Kenadsa"
+msgstr ""
+
+#: DZ-08.php:13
+msgid "Igli"
+msgstr ""
+
+#: DZ-08.php:14
+msgid "Tabelbala"
+msgstr ""
+
+#: DZ-08.php:15
+msgid "Taghit"
+msgstr ""
+
+#: DZ-08.php:16
+msgid "El Ouata"
+msgstr ""
+
+#: DZ-08.php:17
+msgid "Boukais"
+msgstr ""
+
+#: DZ-08.php:18
+msgid "Mougheul"
+msgstr ""
+
+#: DZ-08.php:19
+msgid "Abadla"
+msgstr ""
+
+#: DZ-08.php:20
+msgid "Kerzaz"
+msgstr ""
+
+#: DZ-08.php:21
+msgid "Ksabi"
+msgstr ""
+
+#: DZ-08.php:22
+msgid "Tamtert"
+msgstr ""
+
+#: DZ-08.php:23
+msgid "Beni Ounif"
+msgstr ""

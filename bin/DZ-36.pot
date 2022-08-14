@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-36.php:3
+msgid "Aïn El Assel"
+msgstr ""
+
+#: DZ-36.php:4
+msgid "Aïn Kerma"
+msgstr ""
+
+#: DZ-36.php:5
+msgid "Asfour"
+msgstr ""
+
+#: DZ-36.php:6
+msgid "Ben Mehidi"
+msgstr ""
+
+#: DZ-36.php:7
+msgid "Berrihane"
+msgstr ""
+
+#: DZ-36.php:8
+msgid "Besbes"
+msgstr ""
+
+#: DZ-36.php:9
+msgid "Bougous"
+msgstr ""
+
+#: DZ-36.php:10
+msgid "Bouhadjar"
+msgstr ""
+
+#: DZ-36.php:11
+msgid "Bouteldja"
+msgstr ""
+
+#: DZ-36.php:12
+msgid "Chebaita Mokhtar"
+msgstr ""
+
+#: DZ-36.php:13
+msgid "Chefia"
+msgstr ""
+
+#: DZ-36.php:14
+msgid "Chihani"
+msgstr ""
+
+#: DZ-36.php:15
+msgid "Dréan"
+msgstr ""
+
+#: DZ-36.php:16
+msgid "Echatt"
+msgstr ""
+
+#: DZ-36.php:17
+msgid "El Aioun"
+msgstr ""
+
+#: DZ-36.php:18
+msgid "El Kala"
+msgstr ""
+
+#: DZ-36.php:19
+msgid "El Tarf"
+msgstr ""
+
+#: DZ-36.php:20
+msgid "Hammam Beni Salah"
+msgstr ""
+
+#: DZ-36.php:21
+msgid "Lac des Oiseaux"
+msgstr ""
+
+#: DZ-36.php:22
+msgid "Oued Zitoun"
+msgstr ""
+
+#: DZ-36.php:23
+msgid "Raml Souk"
+msgstr ""
+
+#: DZ-36.php:24
+msgid "Souarekh"
+msgstr ""
+
+#: DZ-36.php:25
+msgid "Zerizer"
+msgstr ""
+
+#: DZ-36.php:26
+msgid "Zitouna"
+msgstr ""

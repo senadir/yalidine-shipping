@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-20.php:3
+msgid "Aïn El Hadjar"
+msgstr ""
+
+#: DZ-20.php:4
+msgid "Aïn Sekhouna"
+msgstr ""
+
+#: DZ-20.php:5
+msgid "Aïn Soltane"
+msgstr ""
+
+#: DZ-20.php:6
+msgid "Doui Thabet"
+msgstr ""
+
+#: DZ-20.php:7
+msgid "El Hassasna"
+msgstr ""
+
+#: DZ-20.php:8
+msgid "Hounet"
+msgstr ""
+
+#: DZ-20.php:9
+msgid "Maamora"
+msgstr ""
+
+#: DZ-20.php:10
+msgid "Moulay Larbi"
+msgstr ""
+
+#: DZ-20.php:11
+msgid "Ouled Brahim"
+msgstr ""
+
+#: DZ-20.php:12
+msgid "Ouled Khaled"
+msgstr ""
+
+#: DZ-20.php:13
+msgid "Saïda"
+msgstr ""
+
+#: DZ-20.php:14
+msgid "Sidi Ahmed"
+msgstr ""
+
+#: DZ-20.php:15
+msgid "Sidi Amar"
+msgstr ""
+
+#: DZ-20.php:16
+msgid "Sidi Boubekeur"
+msgstr ""
+
+#: DZ-20.php:17
+msgid "Tircine"
+msgstr ""
+
+#: DZ-20.php:18
+msgid "Youb"
+msgstr ""

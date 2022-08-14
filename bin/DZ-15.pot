@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-15.php:3
+msgid "Tizi Ouzou"
+msgstr ""
+
+#: DZ-15.php:4
+msgid "Ain El Hammam"
+msgstr ""
+
+#: DZ-15.php:5
+msgid "Akbil"
+msgstr ""
+
+#: DZ-15.php:6
+msgid "Freha"
+msgstr ""
+
+#: DZ-15.php:7
+msgid "Souamaâ"
+msgstr ""
+
+#: DZ-15.php:8
+msgid "Mechtras"
+msgstr ""
+
+#: DZ-15.php:9
+msgid "Irdjen"
+msgstr ""
+
+#: DZ-15.php:10
+msgid "Timizart"
+msgstr ""
+
+#: DZ-15.php:11
+msgid "Makouda"
+msgstr ""
+
+#: DZ-15.php:12
+msgid "Draâ El Mizan"
+msgstr ""
+
+#: DZ-15.php:13
+msgid "Tizi Gheniff"
+msgstr ""
+
+#: DZ-15.php:14
+msgid "Bounouh"
+msgstr ""
+
+#: DZ-15.php:15
+msgid "Aït Chafâa"
+msgstr ""
+
+#: DZ-15.php:16
+msgid "Frikat"
+msgstr ""
+
+#: DZ-15.php:17
+msgid "Beni Aïssi"
+msgstr ""
+
+#: DZ-15.php:18
+msgid "Beni Zmenzer"
+msgstr ""
+
+#: DZ-15.php:19
+msgid "Iferhounène"
+msgstr ""
+
+#: DZ-15.php:20
+msgid "Azazga"
+msgstr ""
+
+#: DZ-15.php:21
+msgid "Illoula Oumalou"
+msgstr ""
+
+#: DZ-15.php:22
+msgid "Yakouren"
+msgstr ""
+
+#: DZ-15.php:23
+msgid "Larbaâ Nath Irathen"
+msgstr ""
+
+#: DZ-15.php:24
+msgid "Tizi Rached"
+msgstr ""
+
+#: DZ-15.php:25
+msgid "Zekri"
+msgstr ""
+
+#: DZ-15.php:26
+msgid "Ouaguenoun"
+msgstr ""
+
+#: DZ-15.php:27
+msgid "Aïn Zaouia"
+msgstr ""
+
+#: DZ-15.php:28
+msgid "M'Kira"
+msgstr ""
+
+#: DZ-15.php:29
+msgid "Aït Yahia"
+msgstr ""
+
+#: DZ-15.php:30
+msgid "Aït Mahmoud"
+msgstr ""
+
+#: DZ-15.php:31
+msgid "Mâatkas"
+msgstr ""
+
+#: DZ-15.php:32
+msgid "Aït Boumahdi"
+msgstr ""
+
+#: DZ-15.php:33
+msgid "Abi Youcef"
+msgstr ""
+
+#: DZ-15.php:34
+msgid "Beni Douala"
+msgstr ""
+
+#: DZ-15.php:35
+msgid "Illilten"
+msgstr ""
+
+#: DZ-15.php:36
+msgid "Bouzguen"
+msgstr ""
+
+#: DZ-15.php:37
+msgid "Aït Aggouacha"
+msgstr ""
+
+#: DZ-15.php:38
+msgid "Ouadhia"
+msgstr ""
+
+#: DZ-15.php:39
+msgid "Azeffoun"
+msgstr ""
+
+#: DZ-15.php:40
+msgid "Tigzirt"
+msgstr ""
+
+#: DZ-15.php:41
+msgid "Aït Aïssa Mimoun"
+msgstr ""
+
+#: DZ-15.php:42
+msgid "Boghni"
+msgstr ""
+
+#: DZ-15.php:43
+msgid "Ifigha"
+msgstr ""
+
+#: DZ-15.php:44
+msgid "Aït Oumalou"
+msgstr ""
+
+#: DZ-15.php:45
+msgid "Tirmitine"
+msgstr ""
+
+#: DZ-15.php:46
+msgid "Akerrou"
+msgstr ""
+
+#: DZ-15.php:47
+msgid "Yatafen"
+msgstr ""
+
+#: DZ-15.php:48
+msgid "Ath Zikki"
+msgstr ""
+
+#: DZ-15.php:49
+msgid "Draâ Ben Khedda"
+msgstr ""
+
+#: DZ-15.php:50
+msgid "Ouacif"
+msgstr ""
+
+#: DZ-15.php:51
+msgid "Idjeur"
+msgstr ""
+
+#: DZ-15.php:52
+msgid "Mekla"
+msgstr ""
+
+#: DZ-15.php:53
+msgid "Tizi N'Tleta"
+msgstr ""
+
+#: DZ-15.php:54
+msgid "Aït Yenni"
+msgstr ""
+
+#: DZ-15.php:55
+msgid "Aghribs"
+msgstr ""
+
+#: DZ-15.php:56
+msgid "Iflissen"
+msgstr ""
+
+#: DZ-15.php:57
+msgid "Boudjima"
+msgstr ""
+
+#: DZ-15.php:58
+msgid "Aït Yahia Moussa"
+msgstr ""
+
+#: DZ-15.php:59
+msgid "Souk El Thenine"
+msgstr ""
+
+#: DZ-15.php:60
+msgid "Aït Khellili"
+msgstr ""
+
+#: DZ-15.php:61
+msgid "Sidi Namane"
+msgstr ""
+
+#: DZ-15.php:62
+msgid "Iboudraren"
+msgstr ""
+
+#: DZ-15.php:63
+msgid "Agouni Gueghrane"
+msgstr ""
+
+#: DZ-15.php:64
+msgid "Mizrana"
+msgstr ""
+
+#: DZ-15.php:65
+msgid "Imsouhel"
+msgstr ""
+
+#: DZ-15.php:66
+msgid "Tadmaït"
+msgstr ""
+
+#: DZ-15.php:67
+msgid "Aït Bouadou"
+msgstr ""
+
+#: DZ-15.php:68
+msgid "Assi Youcef"
+msgstr ""
+
+#: DZ-15.php:69
+msgid "Aït Toudert"
+msgstr ""

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-14.php:3
+msgid "Aïn Bouchekif"
+msgstr ""
+
+#: DZ-14.php:4
+msgid "Aïn Deheb"
+msgstr ""
+
+#: DZ-14.php:5
+msgid "Aïn El Hadid"
+msgstr ""
+
+#: DZ-14.php:6
+msgid "Aïn Kermes"
+msgstr ""
+
+#: DZ-14.php:7
+msgid "Aïn Dzarit"
+msgstr ""
+
+#: DZ-14.php:8
+msgid "Bougara"
+msgstr ""
+
+#: DZ-14.php:9
+msgid "Chehaima"
+msgstr ""
+
+#: DZ-14.php:10
+msgid "Dahmouni"
+msgstr ""
+
+#: DZ-14.php:11
+msgid "Djebilet Rosfa"
+msgstr ""
+
+#: DZ-14.php:12
+msgid "Djillali Ben Amar"
+msgstr ""
+
+#: DZ-14.php:13
+msgid "Faidja"
+msgstr ""
+
+#: DZ-14.php:14
+msgid "Frenda"
+msgstr ""
+
+#: DZ-14.php:15
+msgid "Guertoufa"
+msgstr ""
+
+#: DZ-14.php:16
+msgid "Hamadia"
+msgstr ""
+
+#: DZ-14.php:17
+msgid "Ksar Chellala"
+msgstr ""
+
+#: DZ-14.php:18
+msgid "Madna"
+msgstr ""
+
+#: DZ-14.php:19
+msgid "Mahdia"
+msgstr ""
+
+#: DZ-14.php:20
+msgid "Mechraa Safa"
+msgstr ""
+
+#: DZ-14.php:21
+msgid "Medrissa"
+msgstr ""
+
+#: DZ-14.php:22
+msgid "Medroussa"
+msgstr ""
+
+#: DZ-14.php:23
+msgid "Meghila"
+msgstr ""
+
+#: DZ-14.php:24
+msgid "Mellakou"
+msgstr ""
+
+#: DZ-14.php:25
+msgid "Nadorah"
+msgstr ""
+
+#: DZ-14.php:26
+msgid "Naima"
+msgstr ""
+
+#: DZ-14.php:27
+msgid "Oued Lilli"
+msgstr ""
+
+#: DZ-14.php:28
+msgid "Rahouia"
+msgstr ""
+
+#: DZ-14.php:29
+msgid "Rechaiga"
+msgstr ""
+
+#: DZ-14.php:30
+msgid "Sebaine"
+msgstr ""
+
+#: DZ-14.php:31
+msgid "Sebt"
+msgstr ""
+
+#: DZ-14.php:32
+msgid "Serghine"
+msgstr ""
+
+#: DZ-14.php:33
+msgid "Si Abdelghani"
+msgstr ""
+
+#: DZ-14.php:34
+msgid "Sidi Abderahmane"
+msgstr ""
+
+#: DZ-14.php:35
+msgid "Sidi Ali Mellal"
+msgstr ""
+
+#: DZ-14.php:36
+msgid "Sidi Bakhti"
+msgstr ""
+
+#: DZ-14.php:37
+msgid "Sidi Hosni"
+msgstr ""
+
+#: DZ-14.php:38
+msgid "Sougueur"
+msgstr ""
+
+#: DZ-14.php:39
+msgid "Tagdemt"
+msgstr ""
+
+#: DZ-14.php:40
+msgid "Takhemaret"
+msgstr ""
+
+#: DZ-14.php:41
+msgid "Tiaret"
+msgstr ""
+
+#: DZ-14.php:42
+msgid "Tidda"
+msgstr ""
+
+#: DZ-14.php:43
+msgid "Tousnina"
+msgstr ""
+
+#: DZ-14.php:44
+msgid "Zmalet El Emir Abdelkader"
+msgstr ""

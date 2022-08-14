@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:06+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-46.php:3
+msgid "Aghlal"
+msgstr ""
+
+#: DZ-46.php:4
+msgid "Aïn El Arbaa"
+msgstr ""
+
+#: DZ-46.php:5
+msgid "Aïn Kihal"
+msgstr ""
+
+#: DZ-46.php:6
+msgid "Aïn Témouchent"
+msgstr ""
+
+#: DZ-46.php:7
+msgid "Aïn Tolba"
+msgstr ""
+
+#: DZ-46.php:8
+msgid "Aoubellil"
+msgstr ""
+
+#: DZ-46.php:9
+msgid "Beni Saf"
+msgstr ""
+
+#: DZ-46.php:10
+msgid "Bouzedjar"
+msgstr ""
+
+#: DZ-46.php:11
+msgid "Chaabat El Leham"
+msgstr ""
+
+#: DZ-46.php:12
+msgid "Chentouf"
+msgstr ""
+
+#: DZ-46.php:13
+msgid "El Amria"
+msgstr ""
+
+#: DZ-46.php:14
+msgid "El Emir Abdelkader"
+msgstr ""
+
+#: DZ-46.php:15
+msgid "El Malah"
+msgstr ""
+
+#: DZ-46.php:16
+msgid "El Messaid"
+msgstr ""
+
+#: DZ-46.php:17
+msgid "Hammam Bouhadjar"
+msgstr ""
+
+#: DZ-46.php:18
+msgid "Hassasna"
+msgstr ""
+
+#: DZ-46.php:19
+msgid "Hassi El Ghella"
+msgstr ""
+
+#: DZ-46.php:20
+msgid "Oued Berkeche"
+msgstr ""
+
+#: DZ-46.php:21
+msgid "Oued Sabah"
+msgstr ""
+
+#: DZ-46.php:22
+msgid "Ouled Boudjemaa"
+msgstr ""
+
+#: DZ-46.php:23
+msgid "Ouled Kihal"
+msgstr ""
+
+#: DZ-46.php:24
+msgid "Oulhaça El Gheraba"
+msgstr ""
+
+#: DZ-46.php:25
+msgid "Sidi Ben Adda"
+msgstr ""
+
+#: DZ-46.php:26
+msgid "Sidi Boumedienne"
+msgstr ""
+
+#: DZ-46.php:27
+msgid "Sidi Ouriache"
+msgstr ""
+
+#: DZ-46.php:28
+msgid "Sidi Safi"
+msgstr ""
+
+#: DZ-46.php:29
+msgid "Tamzoura"
+msgstr ""
+
+#: DZ-46.php:30
+msgid "Terga"
+msgstr ""

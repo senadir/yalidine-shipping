@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-03.php:3
+msgid "Laghouat"
+msgstr ""
+
+#: DZ-03.php:4
+msgid "Ksar El Hirane"
+msgstr ""
+
+#: DZ-03.php:5
+msgid "Bennasser Benchohra"
+msgstr ""
+
+#: DZ-03.php:6
+msgid "Sidi Makhlouf"
+msgstr ""
+
+#: DZ-03.php:7
+msgid "Hassi Delaa"
+msgstr ""
+
+#: DZ-03.php:8
+msgid "Hassi R'Mel"
+msgstr ""
+
+#: DZ-03.php:9
+msgid "Aïn Madhi"
+msgstr ""
+
+#: DZ-03.php:10
+msgid "Tadjemout"
+msgstr ""
+
+#: DZ-03.php:11
+msgid "Kheneg"
+msgstr ""
+
+#: DZ-03.php:12
+msgid "Gueltat Sidi Saad"
+msgstr ""
+
+#: DZ-03.php:13
+msgid "Aïn Sidi Ali"
+msgstr ""
+
+#: DZ-03.php:14
+msgid "Beidha"
+msgstr ""
+
+#: DZ-03.php:15
+msgid "Brida"
+msgstr ""
+
+#: DZ-03.php:16
+msgid "El Ghicha"
+msgstr ""
+
+#: DZ-03.php:17
+msgid "Hadj Mechri"
+msgstr ""
+
+#: DZ-03.php:18
+msgid "Sebgag"
+msgstr ""
+
+#: DZ-03.php:19
+msgid "Taouiala"
+msgstr ""
+
+#: DZ-03.php:20
+msgid "Tadjrouna"
+msgstr ""
+
+#: DZ-03.php:21
+msgid "Aflou"
+msgstr ""
+
+#: DZ-03.php:22
+msgid "El Assafia"
+msgstr ""
+
+#: DZ-03.php:23
+msgid "Oued Morra"
+msgstr ""
+
+#: DZ-03.php:24
+msgid "Oued M'Zi"
+msgstr ""
+
+#: DZ-03.php:25
+msgid "El Houaita"
+msgstr ""
+
+#: DZ-03.php:26
+msgid "Sidi Bouzid"
+msgstr ""

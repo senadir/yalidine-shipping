@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-10.php:3
+msgid "Aïn Bessem"
+msgstr ""
+
+#: DZ-10.php:4
+msgid "Hanif"
+msgstr ""
+
+#: DZ-10.php:5
+msgid "Aghbalou"
+msgstr ""
+
+#: DZ-10.php:6
+msgid "Aïn El Hadjar"
+msgstr ""
+
+#: DZ-10.php:7
+msgid "Ahl El Ksar"
+msgstr ""
+
+#: DZ-10.php:8
+msgid "Aïn Laloui"
+msgstr ""
+
+#: DZ-10.php:9
+msgid "Ath Mansour"
+msgstr ""
+
+#: DZ-10.php:10
+msgid "Aomar"
+msgstr ""
+
+#: DZ-10.php:11
+msgid "Aïn El Turc"
+msgstr ""
+
+#: DZ-10.php:12
+msgid "Aït Laziz"
+msgstr ""
+
+#: DZ-10.php:13
+msgid "Bouderbala"
+msgstr ""
+
+#: DZ-10.php:14
+msgid "Bechloul"
+msgstr ""
+
+#: DZ-10.php:15
+msgid "Bir Ghbalou"
+msgstr ""
+
+#: DZ-10.php:16
+msgid "Boukram"
+msgstr ""
+
+#: DZ-10.php:17
+msgid "Bordj Okhriss"
+msgstr ""
+
+#: DZ-10.php:18
+msgid "Bouira"
+msgstr ""
+
+#: DZ-10.php:19
+msgid "Chorfa"
+msgstr ""
+
+#: DZ-10.php:20
+msgid "Dechmia"
+msgstr ""
+
+#: DZ-10.php:21
+msgid "Dirrah"
+msgstr ""
+
+#: DZ-10.php:22
+msgid "Djebahia"
+msgstr ""
+
+#: DZ-10.php:23
+msgid "El Hakimia"
+msgstr ""
+
+#: DZ-10.php:24
+msgid "El Hachimia"
+msgstr ""
+
+#: DZ-10.php:25
+msgid "El Adjiba"
+msgstr ""
+
+#: DZ-10.php:26
+msgid "El Khabouzia"
+msgstr ""
+
+#: DZ-10.php:27
+msgid "El Mokrani"
+msgstr ""
+
+#: DZ-10.php:28
+msgid "El Asnam"
+msgstr ""
+
+#: DZ-10.php:29
+msgid "Guerrouma"
+msgstr ""
+
+#: DZ-10.php:30
+msgid "Haizer"
+msgstr ""
+
+#: DZ-10.php:31
+msgid "Hadjera Zerga"
+msgstr ""
+
+#: DZ-10.php:32
+msgid "Kadiria"
+msgstr ""
+
+#: DZ-10.php:33
+msgid "Lakhdaria"
+msgstr ""
+
+#: DZ-10.php:34
+msgid "M'Chedallah"
+msgstr ""
+
+#: DZ-10.php:35
+msgid "Mezdour"
+msgstr ""
+
+#: DZ-10.php:36
+msgid "Maala"
+msgstr ""
+
+#: DZ-10.php:37
+msgid "Maamora"
+msgstr ""
+
+#: DZ-10.php:38
+msgid "Oued El Berdi"
+msgstr ""
+
+#: DZ-10.php:39
+msgid "Ouled Rached"
+msgstr ""
+
+#: DZ-10.php:40
+msgid "Raouraoua"
+msgstr ""
+
+#: DZ-10.php:41
+msgid "Ridane"
+msgstr ""
+
+#: DZ-10.php:42
+msgid "Saharidj"
+msgstr ""
+
+#: DZ-10.php:43
+msgid "Sour El Ghouzlane"
+msgstr ""
+
+#: DZ-10.php:44
+msgid "Souk El Khemis"
+msgstr ""
+
+#: DZ-10.php:45
+msgid "Taguedit"
+msgstr ""
+
+#: DZ-10.php:46
+msgid "Taghzout"
+msgstr ""
+
+#: DZ-10.php:47
+msgid "Zbarbar"
+msgstr ""

@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-09.php:3
+msgid "Blida"
+msgstr ""
+
+#: DZ-09.php:4
+msgid "Chebli"
+msgstr ""
+
+#: DZ-09.php:5
+msgid "Bouinan"
+msgstr ""
+
+#: DZ-09.php:6
+msgid "Oued Alleug"
+msgstr ""
+
+#: DZ-09.php:7
+msgid "Ouled Yaïch"
+msgstr ""
+
+#: DZ-09.php:8
+msgid "Chréa"
+msgstr ""
+
+#: DZ-09.php:9
+msgid "El Affroun"
+msgstr ""
+
+#: DZ-09.php:10
+msgid "Chiffa"
+msgstr ""
+
+#: DZ-09.php:11
+msgid "Hammam Melouane"
+msgstr ""
+
+#: DZ-09.php:12
+msgid "Benkhelil"
+msgstr ""
+
+#: DZ-09.php:13
+msgid "Soumaa"
+msgstr ""
+
+#: DZ-09.php:14
+msgid "Mouzaia"
+msgstr ""
+
+#: DZ-09.php:15
+msgid "Souhane"
+msgstr ""
+
+#: DZ-09.php:16
+msgid "Meftah"
+msgstr ""
+
+#: DZ-09.php:17
+msgid "Ouled Slama"
+msgstr ""
+
+#: DZ-09.php:18
+msgid "Boufarik"
+msgstr ""
+
+#: DZ-09.php:19
+msgid "Larbaa"
+msgstr ""
+
+#: DZ-09.php:20
+msgid "Oued Djer"
+msgstr ""
+
+#: DZ-09.php:21
+msgid "Beni Tamou"
+msgstr ""
+
+#: DZ-09.php:22
+msgid "Bouarfa"
+msgstr ""
+
+#: DZ-09.php:23
+msgid "Beni Mered"
+msgstr ""
+
+#: DZ-09.php:24
+msgid "Bougara"
+msgstr ""
+
+#: DZ-09.php:25
+msgid "Guerouaou"
+msgstr ""
+
+#: DZ-09.php:26
+msgid "Aïn Romana"
+msgstr ""
+
+#: DZ-09.php:27
+msgid "Djebabra"
+msgstr ""

@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-11.php:3
+msgid "Tamanrasset"
+msgstr ""
+
+#: DZ-11.php:4
+msgid "Abalessa"
+msgstr ""
+
+#: DZ-11.php:5
+msgid "In Ghar"
+msgstr ""
+
+#: DZ-11.php:6
+msgid "In Guezzam"
+msgstr ""
+
+#: DZ-11.php:7
+msgid "Idles"
+msgstr ""
+
+#: DZ-11.php:8
+msgid "Tazrouk"
+msgstr ""
+
+#: DZ-11.php:9
+msgid "Tin Zaouatine"
+msgstr ""
+
+#: DZ-11.php:10
+msgid "In Salah"
+msgstr ""
+
+#: DZ-11.php:11
+msgid "In Amguel"
+msgstr ""
+
+#: DZ-11.php:12
+msgid "Foggaret Ezzaouia"
+msgstr ""

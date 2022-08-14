@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-43.php:3
+msgid "Ahmed Rachedi"
+msgstr ""
+
+#: DZ-43.php:4
+msgid "Aïn Beida Harriche"
+msgstr ""
+
+#: DZ-43.php:5
+msgid "Aïn Mellouk"
+msgstr ""
+
+#: DZ-43.php:6
+msgid "Aïn Tine"
+msgstr ""
+
+#: DZ-43.php:7
+msgid "Amira Arrès"
+msgstr ""
+
+#: DZ-43.php:8
+msgid "Benyahia Abderrahmane"
+msgstr ""
+
+#: DZ-43.php:9
+msgid "Bouhatem"
+msgstr ""
+
+#: DZ-43.php:10
+msgid "Chelghoum Laid"
+msgstr ""
+
+#: DZ-43.php:11
+msgid "Chigara"
+msgstr ""
+
+#: DZ-43.php:12
+msgid "Derradji Bousselah"
+msgstr ""
+
+#: DZ-43.php:13
+msgid "El Mechira"
+msgstr ""
+
+#: DZ-43.php:14
+msgid "Elayadi Barbes"
+msgstr ""
+
+#: DZ-43.php:15
+msgid "Ferdjioua"
+msgstr ""
+
+#: DZ-43.php:16
+msgid "Grarem Gouga"
+msgstr ""
+
+#: DZ-43.php:17
+msgid "Hamala"
+msgstr ""
+
+#: DZ-43.php:18
+msgid "Mila"
+msgstr ""
+
+#: DZ-43.php:19
+msgid "Minar Zarza"
+msgstr ""
+
+#: DZ-43.php:20
+msgid "Oued Athmania"
+msgstr ""
+
+#: DZ-43.php:21
+msgid "Oued Endja"
+msgstr ""
+
+#: DZ-43.php:22
+msgid "Oued Seguen"
+msgstr ""
+
+#: DZ-43.php:23
+msgid "Ouled Khalouf"
+msgstr ""
+
+#: DZ-43.php:24
+msgid "Rouached"
+msgstr ""
+
+#: DZ-43.php:25
+msgid "Sidi Khelifa"
+msgstr ""
+
+#: DZ-43.php:26
+msgid "Sidi Merouane"
+msgstr ""
+
+#: DZ-43.php:27
+msgid "Tadjenanet"
+msgstr ""
+
+#: DZ-43.php:28
+msgid "Tassadane Haddada"
+msgstr ""
+
+#: DZ-43.php:29
+msgid "Teleghma"
+msgstr ""
+
+#: DZ-43.php:30
+msgid "Terrai Bainen"
+msgstr ""
+
+#: DZ-43.php:31
+msgid "Tessala Lemtaï"
+msgstr ""
+
+#: DZ-43.php:32
+msgid "Tiberguent"
+msgstr ""
+
+#: DZ-43.php:33
+msgid "Yahia Beni Guecha"
+msgstr ""
+
+#: DZ-43.php:34
+msgid "Zeghaia"
+msgstr ""

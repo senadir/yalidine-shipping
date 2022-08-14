@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-29.php:3
+msgid "Aïn Fares"
+msgstr ""
+
+#: DZ-29.php:4
+msgid "Aïn Fekan"
+msgstr ""
+
+#: DZ-29.php:5
+msgid "Aïn Ferah"
+msgstr ""
+
+#: DZ-29.php:6
+msgid "Aïn Fras"
+msgstr ""
+
+#: DZ-29.php:7
+msgid "Alaïmia"
+msgstr ""
+
+#: DZ-29.php:8
+msgid "Aouf"
+msgstr ""
+
+#: DZ-29.php:9
+msgid "Beniane"
+msgstr ""
+
+#: DZ-29.php:10
+msgid "Bou Hanifia"
+msgstr ""
+
+#: DZ-29.php:11
+msgid "Bou Henni"
+msgstr ""
+
+#: DZ-29.php:12
+msgid "Chorfa"
+msgstr ""
+
+#: DZ-29.php:13
+msgid "El Bordj"
+msgstr ""
+
+#: DZ-29.php:14
+msgid "El Gaada"
+msgstr ""
+
+#: DZ-29.php:15
+msgid "El Ghomri"
+msgstr ""
+
+#: DZ-29.php:16
+msgid "El Guettana"
+msgstr ""
+
+#: DZ-29.php:17
+msgid "El Keurt"
+msgstr ""
+
+#: DZ-29.php:18
+msgid "El Menaouer"
+msgstr ""
+
+#: DZ-29.php:19
+msgid "Ferraguig"
+msgstr ""
+
+#: DZ-29.php:20
+msgid "Froha"
+msgstr ""
+
+#: DZ-29.php:21
+msgid "Gharrous"
+msgstr ""
+
+#: DZ-29.php:22
+msgid "Guerdjoum"
+msgstr ""
+
+#: DZ-29.php:23
+msgid "Ghriss"
+msgstr ""
+
+#: DZ-29.php:24
+msgid "Hachem"
+msgstr ""
+
+#: DZ-29.php:25
+msgid "Hacine"
+msgstr ""
+
+#: DZ-29.php:26
+msgid "Khalouia"
+msgstr ""
+
+#: DZ-29.php:27
+msgid "Makdha"
+msgstr ""
+
+#: DZ-29.php:28
+msgid "Mamounia"
+msgstr ""
+
+#: DZ-29.php:29
+msgid "Maoussa"
+msgstr ""
+
+#: DZ-29.php:30
+msgid "Mascara"
+msgstr ""
+
+#: DZ-29.php:31
+msgid "Matemore"
+msgstr ""
+
+#: DZ-29.php:32
+msgid "Mocta Douz"
+msgstr ""
+
+#: DZ-29.php:33
+msgid "Mohammadia"
+msgstr ""
+
+#: DZ-29.php:34
+msgid "Nesmoth"
+msgstr ""
+
+#: DZ-29.php:35
+msgid "Oggaz"
+msgstr ""
+
+#: DZ-29.php:36
+msgid "Oued El Abtal"
+msgstr ""
+
+#: DZ-29.php:37
+msgid "Oued Taria"
+msgstr ""
+
+#: DZ-29.php:38
+msgid "Ras El Aïn Amirouche"
+msgstr ""
+
+#: DZ-29.php:39
+msgid "Sedjerara"
+msgstr ""
+
+#: DZ-29.php:40
+msgid "Sehailia"
+msgstr ""
+
+#: DZ-29.php:41
+msgid "Sidi Abdeldjebar"
+msgstr ""
+
+#: DZ-29.php:42
+msgid "Sidi Abdelmoumen"
+msgstr ""
+
+#: DZ-29.php:43
+msgid "Sidi Kada"
+msgstr ""
+
+#: DZ-29.php:44
+msgid "Sidi Boussaid"
+msgstr ""
+
+#: DZ-29.php:45
+msgid "Sig"
+msgstr ""
+
+#: DZ-29.php:46
+msgid "Tighennif"
+msgstr ""
+
+#: DZ-29.php:47
+msgid "Tizi"
+msgstr ""
+
+#: DZ-29.php:48
+msgid "Zahana"
+msgstr ""
+
+#: DZ-29.php:49
+msgid "Zelmata"
+msgstr ""

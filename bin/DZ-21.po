@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-21.php:3
+msgid "Aïn Bouziane"
+msgstr ""
+
+#: DZ-21.php:4
+msgid "Aïn Charchar"
+msgstr ""
+
+#: DZ-21.php:5
+msgid "Aïn Kechra"
+msgstr ""
+
+#: DZ-21.php:6
+msgid "Aïn Zouit"
+msgstr ""
+
+#: DZ-21.php:7
+msgid "Azzaba"
+msgstr ""
+
+#: DZ-21.php:8
+msgid "Bekkouche Lakhdar"
+msgstr ""
+
+#: DZ-21.php:9
+msgid "Bin El Ouiden"
+msgstr ""
+
+#: DZ-21.php:10
+msgid "Ben Azzouz"
+msgstr ""
+
+#: DZ-21.php:11
+msgid "Beni Bechir"
+msgstr ""
+
+#: DZ-21.php:12
+msgid "Beni Oulbane"
+msgstr ""
+
+#: DZ-21.php:13
+msgid "Beni Zid"
+msgstr ""
+
+#: DZ-21.php:14
+msgid "Bouchtata"
+msgstr ""
+
+#: DZ-21.php:15
+msgid "Cheraia"
+msgstr ""
+
+#: DZ-21.php:16
+msgid "Collo"
+msgstr ""
+
+#: DZ-21.php:17
+msgid "Djendel Saadi Mohamed"
+msgstr ""
+
+#: DZ-21.php:18
+msgid "El Ghedir"
+msgstr ""
+
+#: DZ-21.php:19
+msgid "El Hadaiek"
+msgstr ""
+
+#: DZ-21.php:20
+msgid "El Harrouch"
+msgstr ""
+
+#: DZ-21.php:21
+msgid "El Marsa"
+msgstr ""
+
+#: DZ-21.php:22
+msgid "Emdjez Edchich"
+msgstr ""
+
+#: DZ-21.php:23
+msgid "Es Sebt"
+msgstr ""
+
+#: DZ-21.php:24
+msgid "Filfila"
+msgstr ""
+
+#: DZ-21.php:25
+msgid "Hamadi Krouma"
+msgstr ""
+
+#: DZ-21.php:26
+msgid "Kanoua"
+msgstr ""
+
+#: DZ-21.php:27
+msgid "Kerkera"
+msgstr ""
+
+#: DZ-21.php:28
+msgid "Kheneg Mayoum"
+msgstr ""
+
+#: DZ-21.php:29
+msgid "Oued Zehour"
+msgstr ""
+
+#: DZ-21.php:30
+msgid "Ouldja Boulballout"
+msgstr ""
+
+#: DZ-21.php:31
+msgid "Ouled Attia"
+msgstr ""
+
+#: DZ-21.php:32
+msgid "Ouled Hbaba"
+msgstr ""
+
+#: DZ-21.php:33
+msgid "Oum Toub"
+msgstr ""
+
+#: DZ-21.php:34
+msgid "Ramdane Djamel"
+msgstr ""
+
+#: DZ-21.php:35
+msgid "Salah Bouchaour"
+msgstr ""
+
+#: DZ-21.php:36
+msgid "Sidi Mezghiche"
+msgstr ""
+
+#: DZ-21.php:37
+msgid "Skikda"
+msgstr ""
+
+#: DZ-21.php:38
+msgid "Tamalous"
+msgstr ""
+
+#: DZ-21.php:39
+msgid "Zerdaza"
+msgstr ""
+
+#: DZ-21.php:40
+msgid "Zitouna"
+msgstr ""

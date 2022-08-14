@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-35.php:3
+msgid "Boumerdes"
+msgstr ""
+
+#: DZ-35.php:4
+msgid "Boudouaou"
+msgstr ""
+
+#: DZ-35.php:5
+msgid "Afir"
+msgstr ""
+
+#: DZ-35.php:6
+msgid "Bordj Menaiel"
+msgstr ""
+
+#: DZ-35.php:7
+msgid "Baghlia"
+msgstr ""
+
+#: DZ-35.php:8
+msgid "Sidi Daoud"
+msgstr ""
+
+#: DZ-35.php:9
+msgid "Naciria"
+msgstr ""
+
+#: DZ-35.php:10
+msgid "Djinet"
+msgstr ""
+
+#: DZ-35.php:11
+msgid "Issers"
+msgstr ""
+
+#: DZ-35.php:12
+msgid "Zemmouri"
+msgstr ""
+
+#: DZ-35.php:13
+msgid "Si Mustapha"
+msgstr ""
+
+#: DZ-35.php:14
+msgid "Tidjelabine"
+msgstr ""
+
+#: DZ-35.php:15
+msgid "Chabet el Ameur"
+msgstr ""
+
+#: DZ-35.php:16
+msgid "Thenia"
+msgstr ""
+
+#: DZ-35.php:17
+msgid "Timezrit"
+msgstr ""
+
+#: DZ-35.php:18
+msgid "Corso"
+msgstr ""
+
+#: DZ-35.php:19
+msgid "Ouled Moussa"
+msgstr ""
+
+#: DZ-35.php:20
+msgid "Larbatache"
+msgstr ""
+
+#: DZ-35.php:21
+msgid "Bouzegza Keddara"
+msgstr ""
+
+#: DZ-35.php:22
+msgid "Taourga"
+msgstr ""
+
+#: DZ-35.php:23
+msgid "Ouled Aissa"
+msgstr ""
+
+#: DZ-35.php:24
+msgid "Ben Choud"
+msgstr ""
+
+#: DZ-35.php:25
+msgid "Dellys"
+msgstr ""
+
+#: DZ-35.php:26
+msgid "Ammal"
+msgstr ""
+
+#: DZ-35.php:27
+msgid "Beni Amrane"
+msgstr ""
+
+#: DZ-35.php:28
+msgid "Souk El Had"
+msgstr ""
+
+#: DZ-35.php:29
+msgid "Boudouaou El Bahri"
+msgstr ""
+
+#: DZ-35.php:30
+msgid "Ouled Hedadj"
+msgstr ""
+
+#: DZ-35.php:31
+msgid "Leghata"
+msgstr ""
+
+#: DZ-35.php:32
+msgid "Hammedi"
+msgstr ""
+
+#: DZ-35.php:33
+msgid "Khemis El Khechna"
+msgstr ""
+
+#: DZ-35.php:34
+msgid "El Kharrouba"
+msgstr ""

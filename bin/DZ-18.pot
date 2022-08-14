@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:03+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-18.php:3
+msgid "Jijel"
+msgstr ""
+
+#: DZ-18.php:4
+msgid "Eraguene"
+msgstr ""
+
+#: DZ-18.php:5
+msgid "El Aouana"
+msgstr ""
+
+#: DZ-18.php:6
+msgid "Ziama Mansouriah"
+msgstr ""
+
+#: DZ-18.php:7
+msgid "Taher"
+msgstr ""
+
+#: DZ-18.php:8
+msgid "Emir Abdelkader"
+msgstr ""
+
+#: DZ-18.php:9
+msgid "Chekfa"
+msgstr ""
+
+#: DZ-18.php:10
+msgid "Chahna"
+msgstr ""
+
+#: DZ-18.php:11
+msgid "El Milia"
+msgstr ""
+
+#: DZ-18.php:12
+msgid "Sidi Maarouf"
+msgstr ""
+
+#: DZ-18.php:13
+msgid "Settara"
+msgstr ""
+
+#: DZ-18.php:14
+msgid "El Ancer"
+msgstr ""
+
+#: DZ-18.php:15
+msgid "Sidi Abdelaziz"
+msgstr ""
+
+#: DZ-18.php:16
+msgid "Kaous"
+msgstr ""
+
+#: DZ-18.php:17
+msgid "Ghebala"
+msgstr ""
+
+#: DZ-18.php:18
+msgid "Bouraoui Belhadef"
+msgstr ""
+
+#: DZ-18.php:19
+msgid "Djimla"
+msgstr ""
+
+#: DZ-18.php:20
+msgid "Selma Benziada"
+msgstr ""
+
+#: DZ-18.php:21
+msgid "Boucif Ouled Askeur"
+msgstr ""
+
+#: DZ-18.php:22
+msgid "El Kennar Nouchfi"
+msgstr ""
+
+#: DZ-18.php:23
+msgid "Ouled Yahia Khedrouche"
+msgstr ""
+
+#: DZ-18.php:24
+msgid "Boudriaa Ben Yadjis"
+msgstr ""
+
+#: DZ-18.php:25
+msgid "Kheïri Oued Adjoul"
+msgstr ""
+
+#: DZ-18.php:26
+msgid "Texenna"
+msgstr ""
+
+#: DZ-18.php:27
+msgid "Djemaa Beni Habibi"
+msgstr ""
+
+#: DZ-18.php:28
+msgid "Bordj Tahar"
+msgstr ""
+
+#: DZ-18.php:29
+msgid "Ouled Rabah"
+msgstr ""
+
+#: DZ-18.php:30
+msgid "Ouadjana"
+msgstr ""

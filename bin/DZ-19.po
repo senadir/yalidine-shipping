@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-19.php:3
+msgid "Aïn Abessa"
+msgstr ""
+
+#: DZ-19.php:4
+msgid "Aïn Arnat"
+msgstr ""
+
+#: DZ-19.php:5
+msgid "Aïn Azel"
+msgstr ""
+
+#: DZ-19.php:6
+msgid "Aïn El Kebira"
+msgstr ""
+
+#: DZ-19.php:7
+msgid "Aïn Lahdjar"
+msgstr ""
+
+#: DZ-19.php:8
+msgid "Aïn Legradj"
+msgstr ""
+
+#: DZ-19.php:9
+msgid "Aïn Oulmene"
+msgstr ""
+
+#: DZ-19.php:10
+msgid "Aïn Roua"
+msgstr ""
+
+#: DZ-19.php:11
+msgid "Aïn Sebt"
+msgstr ""
+
+#: DZ-19.php:12
+msgid "Aït Naoual Mezada"
+msgstr ""
+
+#: DZ-19.php:13
+msgid "Aït Tizi"
+msgstr ""
+
+#: DZ-19.php:14
+msgid "Aït Wertilan"
+msgstr ""
+
+#: DZ-19.php:15
+msgid "Amoucha"
+msgstr ""
+
+#: DZ-19.php:16
+msgid "Babor"
+msgstr ""
+
+#: DZ-19.php:17
+msgid "Bazer Sakhra"
+msgstr ""
+
+#: DZ-19.php:18
+msgid "Beidha Bordj"
+msgstr ""
+
+#: DZ-19.php:19
+msgid "Belaa"
+msgstr ""
+
+#: DZ-19.php:20
+msgid "Beni Aziz"
+msgstr ""
+
+#: DZ-19.php:21
+msgid "Beni Chebana"
+msgstr ""
+
+#: DZ-19.php:22
+msgid "Beni Fouda"
+msgstr ""
+
+#: DZ-19.php:23
+msgid "Beni Hocine"
+msgstr ""
+
+#: DZ-19.php:24
+msgid "Beni Mouhli"
+msgstr ""
+
+#: DZ-19.php:25
+msgid "Bir El Arch"
+msgstr ""
+
+#: DZ-19.php:26
+msgid "Bir Haddada"
+msgstr ""
+
+#: DZ-19.php:27
+msgid "Bouandas"
+msgstr ""
+
+#: DZ-19.php:28
+msgid "Bougaa"
+msgstr ""
+
+#: DZ-19.php:29
+msgid "Bousselam"
+msgstr ""
+
+#: DZ-19.php:30
+msgid "Boutaleb"
+msgstr ""
+
+#: DZ-19.php:31
+msgid "Dehamcha"
+msgstr ""
+
+#: DZ-19.php:32
+msgid "Djemila"
+msgstr ""
+
+#: DZ-19.php:33
+msgid "Draa Kebila"
+msgstr ""
+
+#: DZ-19.php:34
+msgid "El Eulma"
+msgstr ""
+
+#: DZ-19.php:35
+msgid "El Ouldja"
+msgstr ""
+
+#: DZ-19.php:36
+msgid "El Ouricia"
+msgstr ""
+
+#: DZ-19.php:37
+msgid "Guellal"
+msgstr ""
+
+#: DZ-19.php:38
+msgid "Guelta Zerka"
+msgstr ""
+
+#: DZ-19.php:39
+msgid "Guenzet"
+msgstr ""
+
+#: DZ-19.php:40
+msgid "Guidjel"
+msgstr ""
+
+#: DZ-19.php:41
+msgid "Hamma"
+msgstr ""
+
+#: DZ-19.php:42
+msgid "Hammam Guergour"
+msgstr ""
+
+#: DZ-19.php:43
+msgid "Hammam Soukhna"
+msgstr ""
+
+#: DZ-19.php:44
+msgid "Harbil"
+msgstr ""
+
+#: DZ-19.php:45
+msgid "Ksar El Abtal"
+msgstr ""
+
+#: DZ-19.php:46
+msgid "Maaouia"
+msgstr ""
+
+#: DZ-19.php:47
+msgid "Maoklane"
+msgstr ""
+
+#: DZ-19.php:48
+msgid "Mezloug"
+msgstr ""
+
+#: DZ-19.php:49
+msgid "Oued El Barad"
+msgstr ""
+
+#: DZ-19.php:50
+msgid "Ouled Addouane"
+msgstr ""
+
+#: DZ-19.php:51
+msgid "Ouled Sabor"
+msgstr ""
+
+#: DZ-19.php:52
+msgid "Ouled Si Ahmed"
+msgstr ""
+
+#: DZ-19.php:53
+msgid "Ouled Tebben"
+msgstr ""
+
+#: DZ-19.php:54
+msgid "Rasfa"
+msgstr ""
+
+#: DZ-19.php:55
+msgid "Salah Bey"
+msgstr ""
+
+#: DZ-19.php:56
+msgid "Serdj El Ghoul"
+msgstr ""
+
+#: DZ-19.php:57
+msgid "Sétif"
+msgstr ""
+
+#: DZ-19.php:58
+msgid "Tachouda"
+msgstr ""
+
+#: DZ-19.php:59
+msgid "Talaifacene"
+msgstr ""
+
+#: DZ-19.php:60
+msgid "Taya"
+msgstr ""
+
+#: DZ-19.php:61
+msgid "Tella"
+msgstr ""
+
+#: DZ-19.php:62
+msgid "Tizi N'Bechar"
+msgstr ""

@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-04.php:3
+msgid "Oum el Bouaghi"
+msgstr ""
+
+#: DZ-04.php:4
+msgid "Aïn Beïda"
+msgstr ""
+
+#: DZ-04.php:5
+msgid "Aïn M'lila"
+msgstr ""
+
+#: DZ-04.php:6
+msgid "Behir Chergui"
+msgstr ""
+
+#: DZ-04.php:7
+msgid "El Amiria"
+msgstr ""
+
+#: DZ-04.php:8
+msgid "Sigus"
+msgstr ""
+
+#: DZ-04.php:9
+msgid "El Belala"
+msgstr ""
+
+#: DZ-04.php:10
+msgid "Aïn Babouche"
+msgstr ""
+
+#: DZ-04.php:11
+msgid "Berriche"
+msgstr ""
+
+#: DZ-04.php:12
+msgid "Ouled Hamla"
+msgstr ""
+
+#: DZ-04.php:13
+msgid "Dhalaa"
+msgstr ""
+
+#: DZ-04.php:14
+msgid "Aïn Kercha"
+msgstr ""
+
+#: DZ-04.php:15
+msgid "Hanchir Toumghani"
+msgstr ""
+
+#: DZ-04.php:16
+msgid "El Djazia"
+msgstr ""
+
+#: DZ-04.php:17
+msgid "Aïn Diss"
+msgstr ""
+
+#: DZ-04.php:18
+msgid "Fkirina"
+msgstr ""
+
+#: DZ-04.php:19
+msgid "Souk Naamane"
+msgstr ""
+
+#: DZ-04.php:20
+msgid "Zorg"
+msgstr ""
+
+#: DZ-04.php:21
+msgid "El Fedjoudj Boughrara Saoudi"
+msgstr ""
+
+#: DZ-04.php:22
+msgid "Ouled Zouaï"
+msgstr ""
+
+#: DZ-04.php:23
+msgid "Bir Chouhada"
+msgstr ""
+
+#: DZ-04.php:24
+msgid "Ksar Sbahi"
+msgstr ""
+
+#: DZ-04.php:25
+msgid "Oued Nini"
+msgstr ""
+
+#: DZ-04.php:26
+msgid "Meskiana"
+msgstr ""
+
+#: DZ-04.php:27
+msgid "Aïn Fakroun"
+msgstr ""
+
+#: DZ-04.php:28
+msgid "Rahia"
+msgstr ""
+
+#: DZ-04.php:29
+msgid "Aïn Zitoun"
+msgstr ""
+
+#: DZ-04.php:30
+msgid "Ouled Gacem"
+msgstr ""
+
+#: DZ-04.php:31
+msgid "El Harmilia"
+msgstr ""

@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-24.php:3
+msgid "Aïn Ben Beida"
+msgstr ""
+
+#: DZ-24.php:4
+msgid "Aïn Larbi"
+msgstr ""
+
+#: DZ-24.php:5
+msgid "Aïn Makhlouf"
+msgstr ""
+
+#: DZ-24.php:6
+msgid "Aïn Reggada"
+msgstr ""
+
+#: DZ-24.php:7
+msgid "Aïn Sandel"
+msgstr ""
+
+#: DZ-24.php:8
+msgid "Belkheir"
+msgstr ""
+
+#: DZ-24.php:9
+msgid "Ben Djerrah"
+msgstr ""
+
+#: DZ-24.php:10
+msgid "Beni Mezline"
+msgstr ""
+
+#: DZ-24.php:11
+msgid "Bordj Sabath"
+msgstr ""
+
+#: DZ-24.php:12
+msgid "Bouhachana"
+msgstr ""
+
+#: DZ-24.php:13
+msgid "Bouhamdane"
+msgstr ""
+
+#: DZ-24.php:14
+msgid "Bouati Mahmoud"
+msgstr ""
+
+#: DZ-24.php:15
+msgid "Bouchegouf"
+msgstr ""
+
+#: DZ-24.php:16
+msgid "Boumahra Ahmed"
+msgstr ""
+
+#: DZ-24.php:17
+msgid "Dahouara"
+msgstr ""
+
+#: DZ-24.php:18
+msgid "Djeballah Khemissi"
+msgstr ""
+
+#: DZ-24.php:19
+msgid "El Fedjoudj"
+msgstr ""
+
+#: DZ-24.php:20
+msgid "Guellat Bou Sbaa"
+msgstr ""
+
+#: DZ-24.php:21
+msgid "Guelma"
+msgstr ""
+
+#: DZ-24.php:22
+msgid "Hammam Debagh"
+msgstr ""
+
+#: DZ-24.php:23
+msgid "Hammam N'Bail"
+msgstr ""
+
+#: DZ-24.php:24
+msgid "Héliopolis"
+msgstr ""
+
+#: DZ-24.php:25
+msgid "Houari Boumédiène"
+msgstr ""
+
+#: DZ-24.php:26
+msgid "Khezarra"
+msgstr ""
+
+#: DZ-24.php:27
+msgid "Medjez Amar"
+msgstr ""
+
+#: DZ-24.php:28
+msgid "Medjez Sfa"
+msgstr ""
+
+#: DZ-24.php:29
+msgid "Nechmaya"
+msgstr ""
+
+#: DZ-24.php:30
+msgid "Oued Cheham"
+msgstr ""
+
+#: DZ-24.php:31
+msgid "Oued Fragha"
+msgstr ""
+
+#: DZ-24.php:32
+msgid "Oued Zenati"
+msgstr ""
+
+#: DZ-24.php:33
+msgid "Ras El Agba"
+msgstr ""
+
+#: DZ-24.php:34
+msgid "Roknia"
+msgstr ""
+
+#: DZ-24.php:35
+msgid "Sellaoua Announa"
+msgstr ""
+
+#: DZ-24.php:36
+msgid "Tamlouka"
+msgstr ""

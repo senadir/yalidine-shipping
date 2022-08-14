@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-34.php:3
+msgid "Aïn Taghrout"
+msgstr ""
+
+#: DZ-34.php:4
+msgid "Aïn Tesra"
+msgstr ""
+
+#: DZ-34.php:5
+msgid "Belimour"
+msgstr ""
+
+#: DZ-34.php:6
+msgid "Ben Daoud"
+msgstr ""
+
+#: DZ-34.php:7
+msgid "Bir Kasdali"
+msgstr ""
+
+#: DZ-34.php:8
+msgid "Bordj Bou Arreridj"
+msgstr ""
+
+#: DZ-34.php:9
+msgid "Bordj Ghédir"
+msgstr ""
+
+#: DZ-34.php:10
+msgid "Bordj Zemoura"
+msgstr ""
+
+#: DZ-34.php:11
+msgid "Colla"
+msgstr ""
+
+#: DZ-34.php:12
+msgid "Djaafra"
+msgstr ""
+
+#: DZ-34.php:13
+msgid "El Ach"
+msgstr ""
+
+#: DZ-34.php:14
+msgid "El Achir"
+msgstr ""
+
+#: DZ-34.php:15
+msgid "El Anseur"
+msgstr ""
+
+#: DZ-34.php:16
+msgid "El Hamadia"
+msgstr ""
+
+#: DZ-34.php:17
+msgid "El Main"
+msgstr ""
+
+#: DZ-34.php:18
+msgid "El M'hir"
+msgstr ""
+
+#: DZ-34.php:19
+msgid "Ghilassa"
+msgstr ""
+
+#: DZ-34.php:20
+msgid "Haraza"
+msgstr ""
+
+#: DZ-34.php:21
+msgid "Hasnaoua"
+msgstr ""
+
+#: DZ-34.php:22
+msgid "Khelil"
+msgstr ""
+
+#: DZ-34.php:23
+msgid "Ksour"
+msgstr ""
+
+#: DZ-34.php:24
+msgid "Mansoura"
+msgstr ""
+
+#: DZ-34.php:25
+msgid "Medjana"
+msgstr ""
+
+#: DZ-34.php:26
+msgid "Ouled Brahem"
+msgstr ""
+
+#: DZ-34.php:27
+msgid "Ouled Dahmane"
+msgstr ""
+
+#: DZ-34.php:28
+msgid "Ouled Sidi Brahim"
+msgstr ""
+
+#: DZ-34.php:29
+msgid "Rabta"
+msgstr ""
+
+#: DZ-34.php:30
+msgid "Ras El Oued"
+msgstr ""
+
+#: DZ-34.php:31
+msgid "Sidi Embarek"
+msgstr ""
+
+#: DZ-34.php:32
+msgid "Tefreg"
+msgstr ""
+
+#: DZ-34.php:33
+msgid "Taglait"
+msgstr ""
+
+#: DZ-34.php:34
+msgid "Teniet En Nasr"
+msgstr ""
+
+#: DZ-34.php:35
+msgid "Tassameurt"
+msgstr ""
+
+#: DZ-34.php:36
+msgid "Tixter"
+msgstr ""

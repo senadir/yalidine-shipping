@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-39.php:3
+msgid "El Oued"
+msgstr ""
+
+#: DZ-39.php:4
+msgid "Robbah"
+msgstr ""
+
+#: DZ-39.php:5
+msgid "Oued El Alenda"
+msgstr ""
+
+#: DZ-39.php:6
+msgid "Bayadha"
+msgstr ""
+
+#: DZ-39.php:7
+msgid "Nakhla"
+msgstr ""
+
+#: DZ-39.php:8
+msgid "Guemar"
+msgstr ""
+
+#: DZ-39.php:9
+msgid "Kouinine"
+msgstr ""
+
+#: DZ-39.php:10
+msgid "Reguiba"
+msgstr ""
+
+#: DZ-39.php:11
+msgid "Hamraia"
+msgstr ""
+
+#: DZ-39.php:12
+msgid "Taghzout"
+msgstr ""
+
+#: DZ-39.php:13
+msgid "Debila"
+msgstr ""
+
+#: DZ-39.php:14
+msgid "Hassani Abdelkrim"
+msgstr ""
+
+#: DZ-39.php:15
+msgid "Hassi Khalifa"
+msgstr ""
+
+#: DZ-39.php:16
+msgid "Taleb Larbi"
+msgstr ""
+
+#: DZ-39.php:17
+msgid "Douar El Ma"
+msgstr ""
+
+#: DZ-39.php:18
+msgid "Sidi Aoun"
+msgstr ""
+
+#: DZ-39.php:19
+msgid "Trifaoui"
+msgstr ""
+
+#: DZ-39.php:20
+msgid "Magrane"
+msgstr ""
+
+#: DZ-39.php:21
+msgid "Beni Guecha"
+msgstr ""
+
+#: DZ-39.php:22
+msgid "Ourmas"
+msgstr ""
+
+#: DZ-39.php:23
+msgid "Still"
+msgstr ""
+
+#: DZ-39.php:24
+msgid "M'Rara"
+msgstr ""
+
+#: DZ-39.php:25
+msgid "Sidi Khellil"
+msgstr ""
+
+#: DZ-39.php:26
+msgid "Tendla"
+msgstr ""
+
+#: DZ-39.php:27
+msgid "El Ogla"
+msgstr ""
+
+#: DZ-39.php:28
+msgid "Mih Ouansa"
+msgstr ""
+
+#: DZ-39.php:29
+msgid "El M'Ghair"
+msgstr ""
+
+#: DZ-39.php:30
+msgid "Djamaa"
+msgstr ""
+
+#: DZ-39.php:31
+msgid "Oum Touyour"
+msgstr ""
+
+#: DZ-39.php:32
+msgid "Sidi Amrane"
+msgstr ""

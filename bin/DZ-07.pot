@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-07.php:3
+msgid "Aïn Naga"
+msgstr ""
+
+#: DZ-07.php:4
+msgid "Aïn Zaatout"
+msgstr ""
+
+#: DZ-07.php:5
+msgid "Besbes"
+msgstr ""
+
+#: DZ-07.php:6
+msgid "Biskra"
+msgstr ""
+
+#: DZ-07.php:7
+msgid "Bordj Ben Azzouz"
+msgstr ""
+
+#: DZ-07.php:8
+msgid "Bouchagroune"
+msgstr ""
+
+#: DZ-07.php:9
+msgid "Branis"
+msgstr ""
+
+#: DZ-07.php:10
+msgid "Chetma"
+msgstr ""
+
+#: DZ-07.php:11
+msgid "Djemorah"
+msgstr ""
+
+#: DZ-07.php:12
+msgid "Doucen"
+msgstr ""
+
+#: DZ-07.php:13
+msgid "Ech Chaïba"
+msgstr ""
+
+#: DZ-07.php:14
+msgid "El Feidh"
+msgstr ""
+
+#: DZ-07.php:15
+msgid "El Ghrous"
+msgstr ""
+
+#: DZ-07.php:16
+msgid "El Hadjeb"
+msgstr ""
+
+#: DZ-07.php:17
+msgid "El Haouch"
+msgstr ""
+
+#: DZ-07.php:18
+msgid "El Kantara"
+msgstr ""
+
+#: DZ-07.php:19
+msgid "El Mizaraa"
+msgstr ""
+
+#: DZ-07.php:20
+msgid "El Outaya"
+msgstr ""
+
+#: DZ-07.php:21
+msgid "Foughala"
+msgstr ""
+
+#: DZ-07.php:22
+msgid "Khenguet Sidi Nadji"
+msgstr ""
+
+#: DZ-07.php:23
+msgid "Lichana"
+msgstr ""
+
+#: DZ-07.php:24
+msgid "Lioua"
+msgstr ""
+
+#: DZ-07.php:25
+msgid "M'Chouneche"
+msgstr ""
+
+#: DZ-07.php:26
+msgid "Mekhadma"
+msgstr ""
+
+#: DZ-07.php:27
+msgid "M'Lili"
+msgstr ""
+
+#: DZ-07.php:28
+msgid "Ouled Djellal"
+msgstr ""
+
+#: DZ-07.php:29
+msgid "Oumache"
+msgstr ""
+
+#: DZ-07.php:30
+msgid "Ourlal"
+msgstr ""
+
+#: DZ-07.php:31
+msgid "Ras El Miaad"
+msgstr ""
+
+#: DZ-07.php:32
+msgid "Sidi Khaled"
+msgstr ""
+
+#: DZ-07.php:33
+msgid "Sidi Okba"
+msgstr ""
+
+#: DZ-07.php:34
+msgid "Tolga"
+msgstr ""
+
+#: DZ-07.php:35
+msgid "Zeribet El Oued"
+msgstr ""

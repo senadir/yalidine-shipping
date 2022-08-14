@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-05.php:3
+msgid "Batna"
+msgstr ""
+
+#: DZ-05.php:4
+msgid "Ghassira"
+msgstr ""
+
+#: DZ-05.php:5
+msgid "Maafa"
+msgstr ""
+
+#: DZ-05.php:6
+msgid "Merouana"
+msgstr ""
+
+#: DZ-05.php:7
+msgid "Seriana"
+msgstr ""
+
+#: DZ-05.php:8
+msgid "Menaa"
+msgstr ""
+
+#: DZ-05.php:9
+msgid "El Madher"
+msgstr ""
+
+#: DZ-05.php:10
+msgid "Tazoult"
+msgstr ""
+
+#: DZ-05.php:11
+msgid "N'Gaous"
+msgstr ""
+
+#: DZ-05.php:12
+msgid "Guigba"
+msgstr ""
+
+#: DZ-05.php:13
+msgid "Inoughissen"
+msgstr ""
+
+#: DZ-05.php:14
+msgid "Ouyoun El Assafir"
+msgstr ""
+
+#: DZ-05.php:15
+msgid "Djerma"
+msgstr ""
+
+#: DZ-05.php:16
+msgid "Bitam"
+msgstr ""
+
+#: DZ-05.php:17
+msgid "Abdelkader Azil"
+msgstr ""
+
+#: DZ-05.php:18
+msgid "Arris"
+msgstr ""
+
+#: DZ-05.php:19
+msgid "Kimmel"
+msgstr ""
+
+#: DZ-05.php:20
+msgid "Tilatou"
+msgstr ""
+
+#: DZ-05.php:21
+msgid "Aïn Djasser"
+msgstr ""
+
+#: DZ-05.php:22
+msgid "Ouled Sellam"
+msgstr ""
+
+#: DZ-05.php:23
+msgid "Tigherghar"
+msgstr ""
+
+#: DZ-05.php:24
+msgid "Aïn Yagout"
+msgstr ""
+
+#: DZ-05.php:25
+msgid "Fesdis"
+msgstr ""
+
+#: DZ-05.php:26
+msgid "Sefiane"
+msgstr ""
+
+#: DZ-05.php:27
+msgid "Rahbat"
+msgstr ""
+
+#: DZ-05.php:28
+msgid "Tighanimine"
+msgstr ""
+
+#: DZ-05.php:29
+msgid "Lemsane"
+msgstr ""
+
+#: DZ-05.php:30
+msgid "Ksar Bellezma"
+msgstr ""
+
+#: DZ-05.php:31
+msgid "Seggana"
+msgstr ""
+
+#: DZ-05.php:32
+msgid "Ichmoul"
+msgstr ""
+
+#: DZ-05.php:33
+msgid "Foum Toub"
+msgstr ""
+
+#: DZ-05.php:34
+msgid "Ben Foudhala El Hakania"
+msgstr ""
+
+#: DZ-05.php:35
+msgid "Oued El Ma"
+msgstr ""
+
+#: DZ-05.php:36
+msgid "Talkhamt"
+msgstr ""
+
+#: DZ-05.php:37
+msgid "Bouzina"
+msgstr ""
+
+#: DZ-05.php:38
+msgid "Chemora"
+msgstr ""
+
+#: DZ-05.php:39
+msgid "Oued Chaaba"
+msgstr ""
+
+#: DZ-05.php:40
+msgid "Taxlent"
+msgstr ""
+
+#: DZ-05.php:41
+msgid "Gosbat"
+msgstr ""
+
+#: DZ-05.php:42
+msgid "Ouled Aouf"
+msgstr ""
+
+#: DZ-05.php:43
+msgid "Boumagueur"
+msgstr ""
+
+#: DZ-05.php:44
+msgid "Barika"
+msgstr ""
+
+#: DZ-05.php:45
+msgid "Djezar"
+msgstr ""
+
+#: DZ-05.php:46
+msgid "T'Kout"
+msgstr ""
+
+#: DZ-05.php:47
+msgid "Aïn Touta"
+msgstr ""
+
+#: DZ-05.php:48
+msgid "Hidoussa"
+msgstr ""
+
+#: DZ-05.php:49
+msgid "Teniet El Abed"
+msgstr ""
+
+#: DZ-05.php:50
+msgid "Oued Taga"
+msgstr ""
+
+#: DZ-05.php:51
+msgid "Ouled Fadel"
+msgstr ""
+
+#: DZ-05.php:52
+msgid "Timgad"
+msgstr ""
+
+#: DZ-05.php:53
+msgid "Ras El Aioun"
+msgstr ""
+
+#: DZ-05.php:54
+msgid "Chir"
+msgstr ""
+
+#: DZ-05.php:55
+msgid "Ouled Si Slimane"
+msgstr ""
+
+#: DZ-05.php:56
+msgid "Zanat El Beida"
+msgstr ""
+
+#: DZ-05.php:57
+msgid "M'doukel"
+msgstr ""
+
+#: DZ-05.php:58
+msgid "Ouled Ammar"
+msgstr ""
+
+#: DZ-05.php:59
+msgid "El Hassi"
+msgstr ""
+
+#: DZ-05.php:60
+msgid "Lazrou"
+msgstr ""
+
+#: DZ-05.php:61
+msgid "Boumia (Batna)"
+msgstr ""
+
+#: DZ-05.php:62
+msgid "Boulhilat"
+msgstr ""
+
+#: DZ-05.php:63
+msgid "Larbaâ"
+msgstr ""

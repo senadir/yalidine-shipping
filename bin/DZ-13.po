@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-13.php:3
+msgid "Tlemcen"
+msgstr ""
+
+#: DZ-13.php:4
+msgid "Beni Mester"
+msgstr ""
+
+#: DZ-13.php:5
+msgid "Aïn Tallout"
+msgstr ""
+
+#: DZ-13.php:6
+msgid "Remchi"
+msgstr ""
+
+#: DZ-13.php:7
+msgid "El Fehoul"
+msgstr ""
+
+#: DZ-13.php:8
+msgid "Sabra"
+msgstr ""
+
+#: DZ-13.php:9
+msgid "Ghazaouet"
+msgstr ""
+
+#: DZ-13.php:10
+msgid "Souani"
+msgstr ""
+
+#: DZ-13.php:11
+msgid "Djebala"
+msgstr ""
+
+#: DZ-13.php:12
+msgid "El Gor"
+msgstr ""
+
+#: DZ-13.php:13
+msgid "Oued Lakhdar"
+msgstr ""
+
+#: DZ-13.php:14
+msgid "Aïn Fezza"
+msgstr ""
+
+#: DZ-13.php:15
+msgid "Ouled Mimoun"
+msgstr ""
+
+#: DZ-13.php:16
+msgid "Amieur"
+msgstr ""
+
+#: DZ-13.php:17
+msgid "Aïn Youcef"
+msgstr ""
+
+#: DZ-13.php:18
+msgid "Zenata"
+msgstr ""
+
+#: DZ-13.php:19
+msgid "Beni Snous"
+msgstr ""
+
+#: DZ-13.php:20
+msgid "Bab El Assa"
+msgstr ""
+
+#: DZ-13.php:21
+msgid "Dar Yaghmouracene"
+msgstr ""
+
+#: DZ-13.php:22
+msgid "Fellaoucene"
+msgstr ""
+
+#: DZ-13.php:23
+msgid "Azails"
+msgstr ""
+
+#: DZ-13.php:24
+msgid "Sebaa Chioukh"
+msgstr ""
+
+#: DZ-13.php:25
+msgid "Terny Beni Hdiel"
+msgstr ""
+
+#: DZ-13.php:26
+msgid "Bensekrane"
+msgstr ""
+
+#: DZ-13.php:27
+msgid "Aïn Nehala"
+msgstr ""
+
+#: DZ-13.php:28
+msgid "Hennaya"
+msgstr ""
+
+#: DZ-13.php:29
+msgid "Maghnia"
+msgstr ""
+
+#: DZ-13.php:30
+msgid "Hammam Boughrara"
+msgstr ""
+
+#: DZ-13.php:31
+msgid "Souahlia"
+msgstr ""
+
+#: DZ-13.php:32
+msgid "MSirda Fouaga"
+msgstr ""
+
+#: DZ-13.php:33
+msgid "Aïn Fetah"
+msgstr ""
+
+#: DZ-13.php:34
+msgid "El Aricha"
+msgstr ""
+
+#: DZ-13.php:35
+msgid "Souk Tlata"
+msgstr ""
+
+#: DZ-13.php:36
+msgid "Sidi Abdelli"
+msgstr ""
+
+#: DZ-13.php:37
+msgid "Sebdou"
+msgstr ""
+
+#: DZ-13.php:38
+msgid "Beni Ouarsous"
+msgstr ""
+
+#: DZ-13.php:39
+msgid "Sidi Medjahed"
+msgstr ""
+
+#: DZ-13.php:40
+msgid "Beni Boussaid"
+msgstr ""
+
+#: DZ-13.php:41
+msgid "Marsa Ben M'Hidi"
+msgstr ""
+
+#: DZ-13.php:42
+msgid "Nedroma"
+msgstr ""
+
+#: DZ-13.php:43
+msgid "Sidi Djillali"
+msgstr ""
+
+#: DZ-13.php:44
+msgid "Beni Bahdel"
+msgstr ""
+
+#: DZ-13.php:45
+msgid "El Bouihi"
+msgstr ""
+
+#: DZ-13.php:46
+msgid "Honaïne"
+msgstr ""
+
+#: DZ-13.php:47
+msgid "Tienet"
+msgstr ""
+
+#: DZ-13.php:48
+msgid "Ouled Riyah"
+msgstr ""
+
+#: DZ-13.php:49
+msgid "Bouhlou"
+msgstr ""
+
+#: DZ-13.php:50
+msgid "Beni Khellad"
+msgstr ""
+
+#: DZ-13.php:51
+msgid "Aïn Ghoraba"
+msgstr ""
+
+#: DZ-13.php:52
+msgid "Chetouane"
+msgstr ""
+
+#: DZ-13.php:53
+msgid "Mansourah"
+msgstr ""
+
+#: DZ-13.php:54
+msgid "Beni Semiel"
+msgstr ""
+
+#: DZ-13.php:55
+msgid "Aïn Kebira"
+msgstr ""

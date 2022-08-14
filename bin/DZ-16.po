@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-16.php:3
+msgid "Alger Centre"
+msgstr ""
+
+#: DZ-16.php:4
+msgid "Sidi M'Hamed"
+msgstr ""
+
+#: DZ-16.php:5
+msgid "El Madania"
+msgstr ""
+
+#: DZ-16.php:6
+msgid "Belouizdad"
+msgstr ""
+
+#: DZ-16.php:7
+msgid "Bab El Oued"
+msgstr ""
+
+#: DZ-16.php:8
+msgid "Bologhine"
+msgstr ""
+
+#: DZ-16.php:9
+msgid "Casbah"
+msgstr ""
+
+#: DZ-16.php:10
+msgid "Oued Koriche"
+msgstr ""
+
+#: DZ-16.php:11
+msgid "Bir Mourad Raïs"
+msgstr ""
+
+#: DZ-16.php:12
+msgid "El Biar"
+msgstr ""
+
+#: DZ-16.php:13
+msgid "Bouzareah"
+msgstr ""
+
+#: DZ-16.php:14
+msgid "Birkhadem"
+msgstr ""
+
+#: DZ-16.php:15
+msgid "El Harrach"
+msgstr ""
+
+#: DZ-16.php:16
+msgid "Baraki"
+msgstr ""
+
+#: DZ-16.php:17
+msgid "Oued Smar"
+msgstr ""
+
+#: DZ-16.php:18
+msgid "Bachdjerrah"
+msgstr ""
+
+#: DZ-16.php:19
+msgid "Hussein Dey"
+msgstr ""
+
+#: DZ-16.php:20
+msgid "Kouba"
+msgstr ""
+
+#: DZ-16.php:21
+msgid "Bourouba"
+msgstr ""
+
+#: DZ-16.php:22
+msgid "Dar El Beïda"
+msgstr ""
+
+#: DZ-16.php:23
+msgid "Bab Ezzouar"
+msgstr ""
+
+#: DZ-16.php:24
+msgid "Ben Aknoun"
+msgstr ""
+
+#: DZ-16.php:25
+msgid "Dely Ibrahim"
+msgstr ""
+
+#: DZ-16.php:26
+msgid "El Hammamet"
+msgstr ""
+
+#: DZ-16.php:27
+msgid "Raïs Hamidou"
+msgstr ""
+
+#: DZ-16.php:28
+msgid "Djasr Kasentina"
+msgstr ""
+
+#: DZ-16.php:29
+msgid "El Mouradia"
+msgstr ""
+
+#: DZ-16.php:30
+msgid "Hydra"
+msgstr ""
+
+#: DZ-16.php:31
+msgid "Mohammadia"
+msgstr ""
+
+#: DZ-16.php:32
+msgid "Bordj El Kiffan"
+msgstr ""
+
+#: DZ-16.php:33
+msgid "El Magharia"
+msgstr ""
+
+#: DZ-16.php:34
+msgid "Beni Messous"
+msgstr ""
+
+#: DZ-16.php:35
+msgid "Les Eucalyptus"
+msgstr ""
+
+#: DZ-16.php:36
+msgid "Birtouta"
+msgstr ""
+
+#: DZ-16.php:37
+msgid "Tessala El Merdja"
+msgstr ""
+
+#: DZ-16.php:38
+msgid "Ouled Chebel"
+msgstr ""
+
+#: DZ-16.php:39
+msgid "Sidi Moussa"
+msgstr ""
+
+#: DZ-16.php:40
+msgid "Aïn Taya"
+msgstr ""
+
+#: DZ-16.php:41
+msgid "Bordj El Bahri"
+msgstr ""
+
+#: DZ-16.php:42
+msgid "El Marsa"
+msgstr ""
+
+#: DZ-16.php:43
+msgid "H'raoua"
+msgstr ""
+
+#: DZ-16.php:44
+msgid "Rouïba"
+msgstr ""
+
+#: DZ-16.php:45
+msgid "Reghaïa"
+msgstr ""
+
+#: DZ-16.php:46
+msgid "Aïn Benian"
+msgstr ""
+
+#: DZ-16.php:47
+msgid "Staoueli"
+msgstr ""
+
+#: DZ-16.php:48
+msgid "Zeralda"
+msgstr ""
+
+#: DZ-16.php:49
+msgid "Mahelma"
+msgstr ""
+
+#: DZ-16.php:50
+msgid "Rahmania"
+msgstr ""
+
+#: DZ-16.php:51
+msgid "Souidania"
+msgstr ""
+
+#: DZ-16.php:52
+msgid "Cheraga"
+msgstr ""
+
+#: DZ-16.php:53
+msgid "Ouled Fayet"
+msgstr ""
+
+#: DZ-16.php:54
+msgid "El Achour"
+msgstr ""
+
+#: DZ-16.php:55
+msgid "Draria"
+msgstr ""
+
+#: DZ-16.php:56
+msgid "Douera"
+msgstr ""
+
+#: DZ-16.php:57
+msgid "Baba Hassen"
+msgstr ""
+
+#: DZ-16.php:58
+msgid "Khraicia"
+msgstr ""
+
+#: DZ-16.php:59
+msgid "Saoula"
+msgstr ""

@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:02+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-02.php:3
+msgid "Abou El Hassan"
+msgstr ""
+
+#: DZ-02.php:4
+msgid "Aïn Merane"
+msgstr ""
+
+#: DZ-02.php:5
+msgid "Bénairia"
+msgstr ""
+
+#: DZ-02.php:6
+msgid "Beni Bouateb"
+msgstr ""
+
+#: DZ-02.php:7
+msgid "Beni Haoua"
+msgstr ""
+
+#: DZ-02.php:8
+msgid "Beni Rached"
+msgstr ""
+
+#: DZ-02.php:9
+msgid "Boukadir"
+msgstr ""
+
+#: DZ-02.php:10
+msgid "Bouzeghaia"
+msgstr ""
+
+#: DZ-02.php:11
+msgid "Breira"
+msgstr ""
+
+#: DZ-02.php:12
+msgid "Chettia"
+msgstr ""
+
+#: DZ-02.php:13
+msgid "Chlef"
+msgstr ""
+
+#: DZ-02.php:14
+msgid "Dahra"
+msgstr ""
+
+#: DZ-02.php:15
+msgid "El Hadjadj"
+msgstr ""
+
+#: DZ-02.php:16
+msgid "El Karimia"
+msgstr ""
+
+#: DZ-02.php:17
+msgid "El Marsa"
+msgstr ""
+
+#: DZ-02.php:18
+msgid "Harchoun"
+msgstr ""
+
+#: DZ-02.php:19
+msgid "Harenfa"
+msgstr ""
+
+#: DZ-02.php:20
+msgid "Labiod Medjadja"
+msgstr ""
+
+#: DZ-02.php:21
+msgid "Moussadek"
+msgstr ""
+
+#: DZ-02.php:22
+msgid "Oued Fodda"
+msgstr ""
+
+#: DZ-02.php:23
+msgid "Oued Goussine"
+msgstr ""
+
+#: DZ-02.php:24
+msgid "Oued Sly"
+msgstr ""
+
+#: DZ-02.php:25
+msgid "Ouled Abbes"
+msgstr ""
+
+#: DZ-02.php:26
+msgid "Ouled Ben Abdelkader"
+msgstr ""
+
+#: DZ-02.php:27
+msgid "Ouled Fares"
+msgstr ""
+
+#: DZ-02.php:28
+msgid "Oum Drou"
+msgstr ""
+
+#: DZ-02.php:29
+msgid "Sendjas"
+msgstr ""
+
+#: DZ-02.php:30
+msgid "Sidi Abderrahmane"
+msgstr ""
+
+#: DZ-02.php:31
+msgid "Sidi Akkacha"
+msgstr ""
+
+#: DZ-02.php:32
+msgid "Sobha"
+msgstr ""
+
+#: DZ-02.php:33
+msgid "Tadjena"
+msgstr ""
+
+#: DZ-02.php:34
+msgid "Talassa"
+msgstr ""
+
+#: DZ-02.php:35
+msgid "Taougrite"
+msgstr ""
+
+#: DZ-02.php:36
+msgid "Ténès"
+msgstr ""
+
+#: DZ-02.php:37
+msgid "Zeboudja"
+msgstr ""

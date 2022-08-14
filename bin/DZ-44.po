@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-44.php:3
+msgid "Aïn Defla"
+msgstr ""
+
+#: DZ-44.php:4
+msgid "Aïn Bouyahia"
+msgstr ""
+
+#: DZ-44.php:5
+msgid "Aïn Benian"
+msgstr ""
+
+#: DZ-44.php:6
+msgid "Aïn Lechiekh"
+msgstr ""
+
+#: DZ-44.php:7
+msgid "Aïn Soltane"
+msgstr ""
+
+#: DZ-44.php:8
+msgid "Aïn Torki"
+msgstr ""
+
+#: DZ-44.php:9
+msgid "Arib"
+msgstr ""
+
+#: DZ-44.php:10
+msgid "Bathia"
+msgstr ""
+
+#: DZ-44.php:11
+msgid "Belaas"
+msgstr ""
+
+#: DZ-44.php:12
+msgid "Ben Allal"
+msgstr ""
+
+#: DZ-44.php:13
+msgid "Birbouche"
+msgstr ""
+
+#: DZ-44.php:14
+msgid "Bir Ould Khelifa"
+msgstr ""
+
+#: DZ-44.php:15
+msgid "Bordj Emir Khaled"
+msgstr ""
+
+#: DZ-44.php:16
+msgid "Boumedfaa"
+msgstr ""
+
+#: DZ-44.php:17
+msgid "Bourached"
+msgstr ""
+
+#: DZ-44.php:18
+msgid "Djelida"
+msgstr ""
+
+#: DZ-44.php:19
+msgid "Djemaa Ouled Cheikh"
+msgstr ""
+
+#: DZ-44.php:20
+msgid "Djendel"
+msgstr ""
+
+#: DZ-44.php:21
+msgid "El Abadia"
+msgstr ""
+
+#: DZ-44.php:22
+msgid "El Amra"
+msgstr ""
+
+#: DZ-44.php:23
+msgid "El Attaf"
+msgstr ""
+
+#: DZ-44.php:24
+msgid "El Hassania"
+msgstr ""
+
+#: DZ-44.php:25
+msgid "El Maine"
+msgstr ""
+
+#: DZ-44.php:26
+msgid "Hammam Righa"
+msgstr ""
+
+#: DZ-44.php:27
+msgid "Hoceinia"
+msgstr ""
+
+#: DZ-44.php:28
+msgid "Khemis Miliana"
+msgstr ""
+
+#: DZ-44.php:29
+msgid "Mekhatria"
+msgstr ""
+
+#: DZ-44.php:30
+msgid "Miliana"
+msgstr ""
+
+#: DZ-44.php:31
+msgid "Oued Chorfa"
+msgstr ""
+
+#: DZ-44.php:32
+msgid "Oued Djemaa"
+msgstr ""
+
+#: DZ-44.php:33
+msgid "Rouina"
+msgstr ""
+
+#: DZ-44.php:34
+msgid "Sidi Lakhdar"
+msgstr ""
+
+#: DZ-44.php:35
+msgid "Tacheta Zougagha"
+msgstr ""
+
+#: DZ-44.php:36
+msgid "Tarik Ibn Ziad"
+msgstr ""
+
+#: DZ-44.php:37
+msgid "Tiberkanine"
+msgstr ""
+
+#: DZ-44.php:38
+msgid "Zeddine"
+msgstr ""

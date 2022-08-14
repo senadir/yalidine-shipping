@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-48.php:3
+msgid "Aïn Rahma"
+msgstr ""
+
+#: DZ-48.php:4
+msgid "Aïn Tarek"
+msgstr ""
+
+#: DZ-48.php:5
+msgid "Ammi Moussa"
+msgstr ""
+
+#: DZ-48.php:6
+msgid "Belassel Bouzegza"
+msgstr ""
+
+#: DZ-48.php:7
+msgid "Bendaoud"
+msgstr ""
+
+#: DZ-48.php:8
+msgid "Beni Dergoun"
+msgstr ""
+
+#: DZ-48.php:9
+msgid "Beni Zentis"
+msgstr ""
+
+#: DZ-48.php:10
+msgid "Dar Ben Abdellah"
+msgstr ""
+
+#: DZ-48.php:11
+msgid "Djidioua"
+msgstr ""
+
+#: DZ-48.php:12
+msgid "El Guettar"
+msgstr ""
+
+#: DZ-48.php:13
+msgid "El Hamadna"
+msgstr ""
+
+#: DZ-48.php:14
+msgid "El Hassi"
+msgstr ""
+
+#: DZ-48.php:15
+msgid "El Matmar"
+msgstr ""
+
+#: DZ-48.php:16
+msgid "El Ouldja"
+msgstr ""
+
+#: DZ-48.php:17
+msgid "Had Echkalla"
+msgstr ""
+
+#: DZ-48.php:18
+msgid "Hamri"
+msgstr ""
+
+#: DZ-48.php:19
+msgid "Kalaa"
+msgstr ""
+
+#: DZ-48.php:20
+msgid "Lahlef"
+msgstr ""
+
+#: DZ-48.php:21
+msgid "Mazouna"
+msgstr ""
+
+#: DZ-48.php:22
+msgid "Mediouna"
+msgstr ""
+
+#: DZ-48.php:23
+msgid "Mendes"
+msgstr ""
+
+#: DZ-48.php:24
+msgid "Merdja Sidi Abed"
+msgstr ""
+
+#: DZ-48.php:25
+msgid "Ouarizane"
+msgstr ""
+
+#: DZ-48.php:26
+msgid "Oued Essalem"
+msgstr ""
+
+#: DZ-48.php:27
+msgid "Oued Rhiou"
+msgstr ""
+
+#: DZ-48.php:28
+msgid "Ouled Aiche"
+msgstr ""
+
+#: DZ-48.php:29
+msgid "Oued El Djemaa"
+msgstr ""
+
+#: DZ-48.php:30
+msgid "Ouled Sidi Mihoub"
+msgstr ""
+
+#: DZ-48.php:31
+msgid "Ramka"
+msgstr ""
+
+#: DZ-48.php:32
+msgid "Relizane"
+msgstr ""
+
+#: DZ-48.php:33
+msgid "Sidi Khettab"
+msgstr ""
+
+#: DZ-48.php:34
+msgid "Sidi Lazreg"
+msgstr ""
+
+#: DZ-48.php:35
+msgid "Sidi M'Hamed Ben Ali"
+msgstr ""
+
+#: DZ-48.php:36
+msgid "Sidi M'Hamed Benaouda"
+msgstr ""
+
+#: DZ-48.php:37
+msgid "Sidi Saada"
+msgstr ""
+
+#: DZ-48.php:38
+msgid "Souk El Had"
+msgstr ""
+
+#: DZ-48.php:39
+msgid "Yellel"
+msgstr ""
+
+#: DZ-48.php:40
+msgid "Zemmora"
+msgstr ""

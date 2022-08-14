@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:48:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-22.php:3
+msgid "Aïn Adden"
+msgstr ""
+
+#: DZ-22.php:4
+msgid "Aïn El Berd"
+msgstr ""
+
+#: DZ-22.php:5
+msgid "Aïn Kada"
+msgstr ""
+
+#: DZ-22.php:6
+msgid "Aïn Thrid"
+msgstr ""
+
+#: DZ-22.php:7
+msgid "Aïn Tindamine"
+msgstr ""
+
+#: DZ-22.php:8
+msgid "Amarnas"
+msgstr ""
+
+#: DZ-22.php:9
+msgid "Badredine El Mokrani"
+msgstr ""
+
+#: DZ-22.php:10
+msgid "Belarbi"
+msgstr ""
+
+#: DZ-22.php:11
+msgid "Ben Badis"
+msgstr ""
+
+#: DZ-22.php:12
+msgid "Benachiba Chelia"
+msgstr ""
+
+#: DZ-22.php:13
+msgid "Bir El Hammam"
+msgstr ""
+
+#: DZ-22.php:14
+msgid "Boudjebaa El Bordj"
+msgstr ""
+
+#: DZ-22.php:15
+msgid "Boukhanafis"
+msgstr ""
+
+#: DZ-22.php:16
+msgid "Chettouane Belaila"
+msgstr ""
+
+#: DZ-22.php:17
+msgid "Dhaya"
+msgstr ""
+
+#: DZ-22.php:18
+msgid "El Haçaiba"
+msgstr ""
+
+#: DZ-22.php:19
+msgid "Hassi Dahou"
+msgstr ""
+
+#: DZ-22.php:20
+msgid "Hassi Zehana"
+msgstr ""
+
+#: DZ-22.php:21
+msgid "Lamtar"
+msgstr ""
+
+#: DZ-22.php:22
+msgid "Makedra"
+msgstr ""
+
+#: DZ-22.php:23
+msgid "Marhoum"
+msgstr ""
+
+#: DZ-22.php:24
+msgid "M'Cid"
+msgstr ""
+
+#: DZ-22.php:25
+msgid "Merine"
+msgstr ""
+
+#: DZ-22.php:26
+msgid "Mezaourou"
+msgstr ""
+
+#: DZ-22.php:27
+msgid "Mostefa Ben Brahim"
+msgstr ""
+
+#: DZ-22.php:28
+msgid "Moulay Slissen"
+msgstr ""
+
+#: DZ-22.php:29
+msgid "Oued Sebaa"
+msgstr ""
+
+#: DZ-22.php:30
+msgid "Oued Sefioun"
+msgstr ""
+
+#: DZ-22.php:31
+msgid "Oued Taourira"
+msgstr ""
+
+#: DZ-22.php:32
+msgid "Ras El Ma"
+msgstr ""
+
+#: DZ-22.php:33
+msgid "Redjem Demouche"
+msgstr ""
+
+#: DZ-22.php:34
+msgid "Sehala Thaoura"
+msgstr ""
+
+#: DZ-22.php:35
+msgid "Sfisef"
+msgstr ""
+
+#: DZ-22.php:36
+msgid "Sidi Ali Benyoub"
+msgstr ""
+
+#: DZ-22.php:37
+msgid "Sidi Ali Boussidi"
+msgstr ""
+
+#: DZ-22.php:38
+msgid "Sidi Bel Abbes"
+msgstr ""
+
+#: DZ-22.php:39
+msgid "Sidi Brahim"
+msgstr ""
+
+#: DZ-22.php:40
+msgid "Sidi Chaib"
+msgstr ""
+
+#: DZ-22.php:41
+msgid "Sidi Daho des Zairs"
+msgstr ""
+
+#: DZ-22.php:42
+msgid "Sidi Hamadouche"
+msgstr ""
+
+#: DZ-22.php:43
+msgid "Sidi Khaled"
+msgstr ""
+
+#: DZ-22.php:44
+msgid "Sidi Lahcene"
+msgstr ""
+
+#: DZ-22.php:45
+msgid "Sidi Yacoub"
+msgstr ""
+
+#: DZ-22.php:46
+msgid "Tabia"
+msgstr ""
+
+#: DZ-22.php:47
+msgid "Tafissour"
+msgstr ""
+
+#: DZ-22.php:48
+msgid "Taoudmout"
+msgstr ""
+
+#: DZ-22.php:49
+msgid "Teghalimet"
+msgstr ""
+
+#: DZ-22.php:50
+msgid "Telagh"
+msgstr ""
+
+#: DZ-22.php:51
+msgid "Tenira"
+msgstr ""
+
+#: DZ-22.php:52
+msgid "Tessala"
+msgstr ""
+
+#: DZ-22.php:53
+msgid "Tilmouni"
+msgstr ""
+
+#: DZ-22.php:54
+msgid "Zerouala"
+msgstr ""

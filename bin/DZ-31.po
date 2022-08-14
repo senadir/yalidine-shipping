@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-31.php:3
+msgid "Oran"
+msgstr ""
+
+#: DZ-31.php:4
+msgid "Gdyel"
+msgstr ""
+
+#: DZ-31.php:5
+msgid "Bir El Djir"
+msgstr ""
+
+#: DZ-31.php:6
+msgid "Hassi Bounif"
+msgstr ""
+
+#: DZ-31.php:7
+msgid "Es Senia"
+msgstr ""
+
+#: DZ-31.php:8
+msgid "Arzew"
+msgstr ""
+
+#: DZ-31.php:9
+msgid "Bethioua"
+msgstr ""
+
+#: DZ-31.php:10
+msgid "Marsat El Hadjadj"
+msgstr ""
+
+#: DZ-31.php:11
+msgid "Aïn El Turk"
+msgstr ""
+
+#: DZ-31.php:12
+msgid "El Ançor"
+msgstr ""
+
+#: DZ-31.php:13
+msgid "Oued Tlelat"
+msgstr ""
+
+#: DZ-31.php:14
+msgid "Tafraoui"
+msgstr ""
+
+#: DZ-31.php:15
+msgid "Sidi Chami"
+msgstr ""
+
+#: DZ-31.php:16
+msgid "Boufatis"
+msgstr ""
+
+#: DZ-31.php:17
+msgid "Mers El Kébir"
+msgstr ""
+
+#: DZ-31.php:18
+msgid "Bou Sfer"
+msgstr ""
+
+#: DZ-31.php:19
+msgid "El Kerma"
+msgstr ""
+
+#: DZ-31.php:20
+msgid "El Braya"
+msgstr ""
+
+#: DZ-31.php:21
+msgid "Hassi Ben Okba"
+msgstr ""
+
+#: DZ-31.php:22
+msgid "Ben Freha"
+msgstr ""
+
+#: DZ-31.php:23
+msgid "Hassi Mefsoukh"
+msgstr ""
+
+#: DZ-31.php:24
+msgid "Sidi Benyebka"
+msgstr ""
+
+#: DZ-31.php:25
+msgid "Misserghin"
+msgstr ""
+
+#: DZ-31.php:26
+msgid "Boutlelis"
+msgstr ""
+
+#: DZ-31.php:27
+msgid "Aïn El Kerma"
+msgstr ""
+
+#: DZ-31.php:28
+msgid "Aïn El Bia"
+msgstr ""

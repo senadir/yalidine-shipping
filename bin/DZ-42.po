@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-30T15:49:41+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: yalidine-shipping\n"
+
+#: DZ-42.php:3
+msgid "Tipaza"
+msgstr ""
+
+#: DZ-42.php:4
+msgid "Menaceur"
+msgstr ""
+
+#: DZ-42.php:5
+msgid "Larhat"
+msgstr ""
+
+#: DZ-42.php:6
+msgid "Douaouda"
+msgstr ""
+
+#: DZ-42.php:7
+msgid "Bourkika"
+msgstr ""
+
+#: DZ-42.php:8
+msgid "Khemisti"
+msgstr ""
+
+#: DZ-42.php:9
+msgid "Aghbal"
+msgstr ""
+
+#: DZ-42.php:10
+msgid "Hadjout"
+msgstr ""
+
+#: DZ-42.php:11
+msgid "Sidi Amar"
+msgstr ""
+
+#: DZ-42.php:12
+msgid "Gouraya"
+msgstr ""
+
+#: DZ-42.php:13
+msgid "Nador"
+msgstr ""
+
+#: DZ-42.php:14
+msgid "Chaiba"
+msgstr ""
+
+#: DZ-42.php:15
+msgid "Aïn Tagourait"
+msgstr ""
+
+#: DZ-42.php:16
+msgid "Cherchell"
+msgstr ""
+
+#: DZ-42.php:17
+msgid "Damous"
+msgstr ""
+
+#: DZ-42.php:18
+msgid "Merad"
+msgstr ""
+
+#: DZ-42.php:19
+msgid "Fouka"
+msgstr ""
+
+#: DZ-42.php:20
+msgid "Bou Ismaïl"
+msgstr ""
+
+#: DZ-42.php:21
+msgid "Ahmar El Aïn"
+msgstr ""
+
+#: DZ-42.php:22
+msgid "Bouharoun"
+msgstr ""
+
+#: DZ-42.php:23
+msgid "Sidi Ghiles"
+msgstr ""
+
+#: DZ-42.php:24
+msgid "Messelmoun"
+msgstr ""
+
+#: DZ-42.php:25
+msgid "Sidi Rached"
+msgstr ""
+
+#: DZ-42.php:26
+msgid "Koléa"
+msgstr ""
+
+#: DZ-42.php:27
+msgid "Attatba"
+msgstr ""
+
+#: DZ-42.php:28
+msgid "Sidi Semiane"
+msgstr ""
+
+#: DZ-42.php:29
+msgid "Beni Milleuk"
+msgstr ""
+
+#: DZ-42.php:30
+msgid "Hadjeret Ennous"
+msgstr ""
