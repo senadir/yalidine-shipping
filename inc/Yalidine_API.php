@@ -63,11 +63,11 @@ class Yalidine_API {
 				]
 			)
 		);
-		$cached_fees = get_transient( `{$args['wilaya_id']}-yalidine-fees` );
+		$cached_fees = get_transient( $args['wilaya_id'] . '-yalidine-fees' );
 		if ( $cached_fees === false ) {
 			$fees = $this->get_route( $this->fees_route, $args );
 			$fees = $fees[0];
-			set_transient( `{$args['wilaya_id']}-yalidine-fees`, $fees );
+			set_transient( $args['wilaya_id'] . '-yalidine-fees', $fees );
 			return $fees;
 		}
 
@@ -87,10 +87,11 @@ class Yalidine_API {
 				]
 			)
 		);
-		$cached_communes = get_transient( $args['wilaya_id'] . '-yalidine-communes' );
+		$id = $args['id'] ?? $args['wilaya_id'];
+		$cached_communes = get_transient( $id . '-yalidine-communes' );
 		if ( $cached_communes === false ) {
 			$communes = $this->get_route( $this->commune_route, $args );
-			set_transient( $args['wilaya_id'] . '-yalidine-communes', $communes );
+			set_transient( $id . '-yalidine-communes', $communes );
 			return $communes;
 		}
 		return $cached_communes;
