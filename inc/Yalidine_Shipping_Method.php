@@ -212,6 +212,7 @@ function yalidine_shipping_method() {
 			}
 
 			$wilaya_id = substr( $wilaya, 3 );
+
 			$extra_weight_fees = $this->extra_weight_fees( $package );
 
 			$fees = $this->yalidine_api->get_delivery_fees( [ 'wilaya_id' => $wilaya_id ] );
@@ -227,8 +228,6 @@ function yalidine_shipping_method() {
 				'delivery_time' => sprintf( _n( 'arrives in %d day', 'arrives in %d days', $delivery_time, 'yalidine-shipping' ), $delivery_time )
 			);
 
-
-			$this->add_rate( $home_rate );
 			foreach ( $stop_desks as $stop_desk ) {
 				$translated_city_label = translate( $stop_desk['name'], 'yalidine-shipping' );
 
@@ -245,6 +244,8 @@ function yalidine_shipping_method() {
 				);
 				$this->add_rate( $stopdesk_rate );
 			}
+
+			$this->add_rate( $home_rate );
 		}
 
 		protected function extra_weight_fees( $package = array() ) {
