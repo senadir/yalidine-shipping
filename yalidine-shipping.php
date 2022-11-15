@@ -84,8 +84,10 @@ add_filter(
 require_once __DIR__ . '/inc/Yalidine_API.php';
 require_once __DIR__ . '/inc/Yalidine_Shipping_Method.php';
 require_once __DIR__ . '/inc/Yalidine_Shipping_Label.php';
+require_once __DIR__ . '/inc/Yalidine_Shipping_Status.php';
 
 new Yalidine_Shipping_Label();
+new Yalidine_Shipping_Status();
 
 add_filter( 'wc_city_select_cities', 'yalidine_dz_cities' );
 

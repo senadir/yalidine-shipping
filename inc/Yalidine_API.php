@@ -16,6 +16,7 @@ class Yalidine_API {
 
 	public $wilaya_route = 'wilayas';
 
+
 	private $default_params = array(
 		'Fields' => null,
 		'Page' => null,
@@ -109,6 +110,13 @@ class Yalidine_API {
 			)
 		);
 		return $this->get_route( $this->wilaya_route, $args );
+	}
+
+	public function get_parcels( $tracking_map ) {
+		if ( ! is_array( $tracking_map ) ) {
+			return;
+		}
+		return $this->get_route( $this->parcel_route . '?tracking=' . join( ',', $tracking_map ) );
 	}
 
 	public function create_labels( $args = [] ) {
