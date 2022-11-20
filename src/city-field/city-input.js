@@ -33,9 +33,10 @@ const StateInput = ({
 	required = false,
 	validation,
 }) => {
+	const citiesByState = cities[state] || {};
 	const options = useMemo(
 		() =>
-			Object.entries(cities[state]).map(([id, value]) => ({
+			Object.entries(citiesByState).map(([id, value]) => ({
 				value: id,
 				label: decodeEntities(value),
 			})),
