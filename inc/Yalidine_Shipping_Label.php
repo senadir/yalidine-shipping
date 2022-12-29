@@ -95,6 +95,7 @@ class Yalidine_Shipping_Label {
 					$labels = [];
 					foreach ($order->get_items( 'shipping' ) as $rate_id => $rate) {
 						$is_stop_desk = (bool) $rate->get_meta('is_stop_desk');
+						$is_cod       = $order->get_payment_method() === 'cod';
 						$phone        = $order->get_billing_phone() ?? $order->get_shipping_phone();
 						$state        = $order->get_shipping_state();
 						$city         = $is_stop_desk ? $rate->get_meta('desk') : $this->get_formatted_city_name( $order->get_shipping_city() );
@@ -108,8 +109,8 @@ class Yalidine_Shipping_Label {
 							"address"            => $order->get_shipping_address_1(),
 							"to_commune_name"    => $city,
 							"to_wilaya_name"     => $this->get_formatted_state_name( $state ),
-							"product_list"       => implode( '\n', $items ),
-							"price"              => intval( $order->get_total('raw') ),
+							"product_list"       => implode( ' | ', $items ),
+							"price"              => $is_cod ? intval( $order->get_total('raw') ) : 0,
 							"is_stopdesk"        => $is_stop_desk,
 						);
 					}
