@@ -6,6 +6,8 @@ class Yalidine_Shipping_Label {
 		add_action( 'wp_ajax_yalidine_shipping_create_shipping_label', [ $this, 'creat_shipping_label' ] );
 		add_action( 'admin_head', [ $this, 'print_create_label_styles' ] );
 		add_filter( 'woocommerce_admin_order_actions', [ $this, 'add_shipping_label_button' ], 100, 2 );
+		add_action( 'woocommerce_before_delete_order', [ $this, 'delete_shipping_label' ] );
+		add_action( 'woocommerce_before_trash_order', [ $this, 'delete_shipping_label' ] );
 		add_filter( 'bulk_actions-edit-post', [ $this, 'add_create_label_bulk_action' ] );
 		add_filter( 'handle_bulk_actions-edit-post', [ $this, 'handle_create_label_bulk_action' ] , 10, 3 );
 
@@ -127,6 +129,17 @@ class Yalidine_Shipping_Label {
 
 			exit;
 		}
+
+	public function delete_shipping_label( $order ) {
+		$tracking_number = $order->get_meta( 'yalidine_tracking_number' );
+		if ( $tracking_number ) {
+			$deleted = $this->yalidine_api->delete_labels( [ $tracking_number ] );
+			if ( $deleted[0]['deleted'] === true ) {
+				$order->delete_meta_data( 'yalidine_tracking_number' );
+				$order->delete_meta_data( 'yalidine_shipping_label' );
+			}
+		}
+	}
 
 	protected function get_shipping_labels( $orders ) {
 		$ready_labels = [];

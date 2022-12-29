@@ -156,4 +156,19 @@ class Yalidine_API {
 		$response = json_decode( $response, true );
 		return $response;
 	}
+
+	public function delete_labels( $labels = [] ) {
+		$data = array(
+			'headers' => array(
+				'X-API-TOKEN'  => $this->api_token,
+				'X-API-ID'     => $this->api_id,
+				'Content-Type' => 'application/json'
+			),
+			'method'  => 'DELETE',
+		);
+		$response = wp_remote_request( $this->api_route . $this->parcel_route . '?tracking=' . implode( ',', $labels ) , $data );
+		$response = wp_remote_retrieve_body( $response );
+		$response = json_decode( $response, true );
+		return $response;
+	}
 }
